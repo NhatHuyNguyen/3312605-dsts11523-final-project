@@ -1,7 +1,6 @@
 import pickle
 import pandas as pd
 import numpy as np
-from allocate_data import allocate_student_data
 
 # load from allocate_data to test
 
@@ -9,10 +8,10 @@ DATASET_PATH = "./data/allocated/student_restaurants_3312605.csv"
 
 # load saved models
 def load_files():
-    with open('./outputs/model_clf.pkl', 'rb') as file:
+    with open('./models/model_clf.pkl', 'rb') as file:
         lr_clf = pickle.load(file)
 
-    with open('./outputs/preprocess.pkl', 'rb') as file:
+    with open('./models/preprocess.pkl', 'rb') as file:
         preprocessor = pickle.load(file)
 
     return lr_clf, preprocessor
