@@ -11,11 +11,6 @@ from sklearn.preprocessing import StandardScaler, OneHotEncoder
 import pandas as pd
 import pickle
 
-
-# allocation
-import os
-
-print(os.getcwd())
 from allocate_data import allocate_student_data
 dataset_path, allocation = allocate_student_data(student_id="3312605")
 MODEL_SEED = allocation["model_seed"]   
