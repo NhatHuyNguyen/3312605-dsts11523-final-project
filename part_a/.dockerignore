@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb
+.pytest_cache/
+.git/
+.gitattributes
+data/allocated
+outputs/
+models/*.pkl
+*.ipynb
