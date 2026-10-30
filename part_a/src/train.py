@@ -31,8 +31,8 @@ df_with_rating = df.dropna(subset=['rating_number_historical'])
 df_with_rating['class_label'] = (df_with_rating['rating_number_historical'] >= 3.5).astype(int)
 
 # Define the permitted input features
-X_cols = ['cost', 'cuisine', 'type', 'subzone', 'cuisine_count'] 
-numeric_features = ['cost', 'cuisine_count'] 
+X_cols = ['cost', 'cuisine', 'type', 'subzone', 'lat', 'lng', 'cuisine_count'] 
+numeric_features = ['cost', 'cuisine_count', 'lat', 'lng'] 
 categorical_features = ['cuisine', 'type', 'subzone']
 
 # Exclude the target, its derivatives, and identifiers from inputs
