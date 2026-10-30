@@ -3,11 +3,12 @@
 from sklearn.linear_model import LogisticRegression
 from sklearn.dummy import DummyClassifier
 from sklearn.ensemble import GradientBoostingClassifier, RandomForestClassifier
-from sklearn.model_selection import train_test_split, GridSearchCV, cross_validate
+from sklearn.model_selection import train_test_split, cross_validate
 from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
+from sklearn.metrics import make_scorer, precision_score
 import pandas as pd
 import pickle
 
@@ -15,6 +16,7 @@ from allocate_data import allocate_student_data
 dataset_path, allocation = allocate_student_data(student_id="3312605")
 MODEL_SEED = allocation["model_seed"]   
 
+print(f"Load and clean data...")
 df = pd.read_csv(dataset_path)
 
 # Clean cuisine and type first
@@ -49,6 +51,8 @@ X_train, X_test, y_train_cls, y_test_cls, ids_train, ids_test = train_test_split
     stratify=y_clf  # Stratify using the classification label
 )
 
+
+print(f"Cross validation...\n")
 # Classification models
 rf_clf = RandomForestClassifier(max_depth=10, n_estimators=100, random_state=MODEL_SEED)
 lr_clf = LogisticRegression()
@@ -63,9 +67,10 @@ models_clf = {
 }
 
 # metrics
+custom_precision_scorer = make_scorer(precision_score, zero_division=0) # suppress precision warning
 scoring_metrics_clf = {
     'acc': 'accuracy',
-    'pre': 'precision',
+    'pre': custom_precision_scorer,
     'rec': 'recall',
     'f1': 'f1',
     'f1_macro': 'f1_macro',
@@ -91,6 +96,7 @@ preprocessor = ColumnTransformer(
 # Run CV, choose best model
 best_model = None
 best_score = -9999
+best_score_std = 0
 for name, model in models_clf.items():
     # Create the full modeling pipeline (Preprocessing + Model)
     reg_pipe_each = Pipeline(steps=[
@@ -107,22 +113,26 @@ for name, model in models_clf.items():
     if score['test_f1_macro'].mean() > best_score:
         best_model = name
         best_score = score['test_f1_macro'].mean()
+        best_score_std = score['test_f1_macro'].std()
     # choose lr, based on printed results
     # all models not fitted in CV
 
 print(f"Best model: {best_model} " +
-      f"with F1-macro mean score: {score['test_f1_macro'].mean():.4f} +- {score['test_f1_macro'].std():.4f}\n")
+      f"with F1-macro mean score: {best_score:.4f} +- {best_score_std:.4f}\n")
 
+
+print(f"Fit best model and save model + preprocessor...")
 X_train_processed = preprocessor.fit_transform(X_train)
 lr_clf = LogisticRegression()
 lr_clf.fit(X_train_processed, y_train_cls)
 
-with open('outputs/model_clf.pkl', 'wb') as file:
+with open('./models/model_clf.pkl', 'wb') as file:
     pickle.dump(lr_clf, file)
 
-with open('outputs/preprocess.pkl', 'wb') as file:
+with open('./models/preprocess.pkl', 'wb') as file:
     pickle.dump(preprocessor, file)
 
+print(f"Finished training pipeline")
 
 
 
