@@ -36,7 +36,7 @@ def load_data(preprocessor):
     df_test['type'] = df_test['type'].str.strip("[] ").str.replace('"', "").str.replace(' ', "")
     df_test['cuisine_count'] = df_test['cuisine'].apply(lambda x: len(x.split(',')))
 
-    X_cols = ['cost', 'cuisine', 'type', 'subzone', 'cuisine_count'] 
+    X_cols = ['cost', 'cuisine', 'type', 'subzone', 'lat', 'lng', 'cuisine_count'] 
 
     # Exclude the target, its derivatives, and identifiers from inputs
     X_test = df_test[X_cols]
