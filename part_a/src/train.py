@@ -52,6 +52,9 @@ X_train, X_test, y_train_cls, y_test_cls, ids_train, ids_test = train_test_split
     stratify=y_clf  # Stratify using the classification label
 )
 
+# Save train and test record ids to file
+ids_train.to_csv('./outputs/train_record_ids.csv', index=False)
+ids_test.to_csv('./outputs/test_record_ids.csv', index=False)
 
 print(f"Cross validation...\n")
 # Classification models
