@@ -11,6 +11,7 @@ from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.metrics import make_scorer, precision_score
 import pandas as pd
 import pickle
+import copy
 
 from allocate_data import allocate_student_data
 dataset_path, allocation = allocate_student_data(student_id="3312605")
@@ -99,8 +100,9 @@ best_score = -9999
 best_score_std = 0
 for name, model in models_clf.items():
     # Create the full modeling pipeline (Preprocessing + Model)
+    preprocessor_copy = copy.deepcopy(preprocessor)
     reg_pipe_each = Pipeline(steps=[
-        ('preprocessor', preprocessor),
+        ('preprocessor', preprocessor_copy),
         ('classifier', model)
     ])
     score = cross_validate(reg_pipe_each, X_train, y_train_cls, cv=5, scoring=scoring_metrics_clf)
