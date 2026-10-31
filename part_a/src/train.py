@@ -9,6 +9,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.metrics import make_scorer, precision_score
+from sklearn.svm import SVC
 import pandas as pd
 import pickle
 import copy
@@ -61,13 +62,15 @@ print(f"Cross validation...\n")
 rf_clf = RandomForestClassifier(max_depth=10, n_estimators=100, random_state=MODEL_SEED)
 lr_clf = LogisticRegression()
 gb_clf = GradientBoostingClassifier(random_state=MODEL_SEED)
+svm_clf = SVC(random_state=MODEL_SEED)
 base_clf = DummyClassifier(strategy="most_frequent")
 
 models_clf = {
     "baseline": base_clf,
     "rf": rf_clf,
     "lr": lr_clf,
-    "grboost": gb_clf
+    "grboost": gb_clf,
+    "svm": svm_clf
 }
 
 # metrics
