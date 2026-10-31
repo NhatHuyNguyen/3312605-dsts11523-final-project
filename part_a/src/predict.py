@@ -24,8 +24,8 @@ def load_data(preprocessor):
 
     # Check for missing cost column
     if 'cost' not in df.columns:
-        print('Input is missing required column(s): cost')
-        exit()
+        print('Input is missing required column(s): cost, exiting')
+        return None, None
 
     # Take the test IDs
     df_test_ids = pd.read_csv('./outputs/test_record_ids.csv')
@@ -72,11 +72,15 @@ def test_cases(X_test, preprocessor, model):
     # Missing cost column
     # already checked above
 
-if __name__ == "__main__":
+def main():
     model, preprocessor = load_files()
     X_test, X_test_processed = load_data(preprocessor)
+    if X_test is None: # no cost in loaded data
+        return 1
     predict_and_save(model, X_test_processed)
     test_cases(X_test, preprocessor, model)
-
+    
+if __name__ == "__main__":
+    main()
 
 
