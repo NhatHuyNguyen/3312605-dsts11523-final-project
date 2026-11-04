@@ -1,16 +1,16 @@
 section_id,doc,source_file,section,category
-d1_s,1,act-road-rules-p1.txt,Part 4 Making turns,Making turns
-d1_s,1,act-road-rules-p1.txt,Part 7 Giving way,Giving way
-d1_s,1,act-road-rules-p1.txt,Part 3 Speed limits,Speed limits
-d1_s,1,act-road-rules-p1.txt,Part 5 Change of direction and stop signals,Change of direction and stop signals
-d1_s,1,act-road-rules-p1.txt,"Part 6 Traffic lights, traffic arrows and twin red lights",Traffic signs and road markings
-d2_s,2,act-road-rules-p2.txt,Part 10 Level crossings,Level crossings
-d2_s,2,act-road-rules-p2.txt,Part 12 Restrictions on stopping and parking,Parking
-d2_s,2,act-road-rules-p2.txt,Part 13 Lights and warning devices,Devices
-d2_s,2,act-road-rules-p2.txt,Part 14 Rules for pedestrians,People
-d2_s,2,act-road-rules-p2.txt,Part 8 Traffic signs and road markings,"Traffic lights, traffic arrows and twin red lights"
-d3_s,3,act-road-rules-p3.txt,Part 15 Additional rules for bicycle riders,People
-d3_s,3,act-road-rules-p3.txt,Part 18 Miscellaneous road rules,other
-d3_s,3,act-road-rules-p3.txt,"Part 17 Additional rules for drivers of trams, tram recovery vehicles and public buses",People
-d3_s,3,act-road-rules-p3.txt,Part 16 Rules for people travelling in or on vehicles,People
-d3_s,3,act-road-rules-p3.txt,Part 19 Exemptions,other
+doc1_s25,1,act-road-rules-p1.txt,Part 4 Making turns,Making turns
+doc1_s28,1,act-road-rules-p1.txt,Part 7 Giving way,Giving way
+doc1_s24,1,act-road-rules-p1.txt,Part 3 Speed limits,Speed limits
+doc1_s26,1,act-road-rules-p1.txt,Part 5 Change of direction and stop signals,Change of direction and stop signals
+doc1_s27,1,act-road-rules-p1.txt,"Part 6 Traffic lights, traffic arrows and twin red lights",Traffic signs and road markings
+doc2_s02,2,act-road-rules-p2.txt,Part 10 Level crossings,Level crossings
+doc2_s04,2,act-road-rules-p2.txt,Part 12 Restrictions on stopping and parking,Parking
+doc2_s05,2,act-road-rules-p2.txt,Part 13 Lights and warning devices,Devices
+doc2_s06,2,act-road-rules-p2.txt,Part 14 Rules for pedestrians,People
+doc2_s00,2,act-road-rules-p2.txt,Part 8 Traffic signs and road markings,"Traffic lights, traffic arrows and twin red lights"
+doc3_s00,3,act-road-rules-p3.txt,Part 15 Additional rules for bicycle riders,People
+doc3_s03,3,act-road-rules-p3.txt,Part 18 Miscellaneous road rules,other
+doc3_s02,3,act-road-rules-p3.txt,"Part 17 Additional rules for drivers of trams, tram recovery vehicles and public buses",People
+doc3_s01,3,act-road-rules-p3.txt,Part 16 Rules for people travelling in or on vehicles,People
+doc3_s04,3,act-road-rules-p3.txt,Part 19 Exemptions,other
