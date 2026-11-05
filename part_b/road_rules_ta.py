@@ -27,8 +27,8 @@ import numpy as np                                        # numpy = numbers, vec
 # File names. The recorded files come with the lab; the "MY_" files collect your own live results.
 # LLM = large language model, i.e. the chat model.
 # CORPUS = Path(__file__).parent.parent / "data" 
-REPLIES_FILE = Path("llm_replies_week11.json")            # recorded real LLM replies (used when USE_RECORDED = True)
-EMBEDS_FILE = Path("embeddings_week11.json")              # recorded real vectors, also for replay
+REPLIES_FILE = Path("llm_replies_road_rules.json")            # recorded real LLM replies (used when USE_RECORDED = True)
+EMBEDS_FILE = Path("embeddings_road_rules.json")              # recorded real vectors, also for replay
 MY_REPLIES_FILE = Path("outputs/my_llm_replies.json")     # every live LLM reply you get is saved here
 MY_EMBEDS_FILE = Path("outputs/my_embeddings.json")       # every live vector you get is saved here
 # Load the recorded files into dictionaries (an empty dictionary if a file is missing).
@@ -36,6 +36,7 @@ RECORDED = json.loads(REPLIES_FILE.read_text(encoding="utf-8")) if REPLIES_FILE.
 RECORDED_EMB = json.loads(EMBEDS_FILE.read_text(encoding="utf-8")) if EMBEDS_FILE.exists() else {}    # load vectors
 MY_REPLIES, MY_EMBEDS = {}, {}                            # this session's live replies and vectors
 USED_KEYS, USED_EMB = set(), set()                        # which requests this run used (for the run record)
+CORPUS = Path("data")
 # A replay key is a short fingerprint of a request: the same model and messages always give the
 # same key, so we can look up the recorded reply. Any change to the prompt text gives a new key.
 def reply_key(payload):                                   # replay key of one chat request
@@ -115,7 +116,7 @@ def recorded_seconds(keys, store):                        # total recorded secon
 # Result: docs_df, a table with one row per tutorial and its size in characters and words.
 import pandas as pd                                       # pandas = tables (DataFrames)
 from pydantic import BaseModel, ConfigDict, Field         # data contracts, as in Week 10
-CORPUS = Path(__file__).parent.parent / "data"                                  # the folder with the six .md tutorials
+                               # the folder with the six .md tutorials
 # A data contract (a pydantic model): every document must have exactly these four fields with these
 # types. If a value is wrong (e.g. week 7), pydantic stops with an error, so no bad data is kept.
 class DocRecord(BaseModel):                               # the contract for one loaded document
@@ -133,7 +134,6 @@ def load_docs(folder=CORPUS):
     for path in sorted(folder.glob("act-road-rules-p*.txt")):          # week01 to week06, in sorted order
         # Build and check one record. path.name[4:6] takes characters 4 and 5 of the file name,
         # so "doc04_..." gives "04", and int() turns that into the week number 4.
-        print(path, path.stem, path.name)
         rec = DocRecord(doc_id=path.stem, doc=int(path.name[-5]), source_file=path.name,   # "doc04_..." -> 4
                         text=path.read_bytes().decode("utf-8"))   # raw text, line endings untouched
         rows.append(rec.model_dump())                     # the checked record, as a plain dict
@@ -401,6 +401,8 @@ def code_chunks(text, size=800):                          # one section's text i
             out.append((a, b, note))                      # start a new chunk
     # Cut every chunk out of the original text, so not a single character is changed.
     return [(text[start[a]:end(b)], note) for a, b, note in out]   # exact slices of the section text
+
+
 # chunk_code() runs code_chunks() on every section and builds the chunks table: the same columns
 # as the old chunks (checked by the Chunk model), plus a "note" column.
 def chunk_code(sections, size=800):                       # sections in, a table of chunks out
@@ -613,8 +615,8 @@ def check_grounded(out, texts, gold_quote="", schema=None):   # step 4: check on
 
 # ---------- from the notebook: Exercise 19.1 (27_course_ta.py) ----------
 # TA_CONFIG = the setting chosen in Exercise 17.1, written out in full; the assert checks it.
-TA_CONFIG = {"chunks": "code-aware", "search": "hybrid", "n_each": 10, "doc_from_question": True, "top_k": 5}   # Exercise 17.1
-# build_ta_index() builds the TA's own search index from scratch, repeating Parts 2-7: load the
+TA_CONFIG = {"chunks": "800-120", "search": "hybrid", "n_each": 10, "doc_from_question": True, "top_k": 5}   # Exercise 17.1
+# build_ta_index() builds the TA's own search index from swcratch, repeating Parts 2-7: load the
 # tutorials, clean them, cut them into sections and chunks, embed the chunks (turn them into
 # vectors), then build a Chroma collection (search by meaning) and a BM25 index (by keywords).
 
@@ -626,7 +628,7 @@ def build_ta_index(name="course_ta"):                     # returns the collecti
     # Cut the sections into chunks as TA_CONFIG says: code-aware (Exercise 15.1) or 800/150 (4.2).
     chunks = chunk_code(sections) if TA_CONFIG["chunks"] == "code-aware" else chunk(sections, 800, 120)   # Exercise 15.1 / 4.2
     # No LLM labels here: the TA filters on the week only, which comes reliably from the file name.
-    chunks["category"], chunks["tools"] = "unknown", ""  # the TA filters on the week only (reliable file-name metadata)
+    chunks["category"], chunks["entities"] = "unknown", ""  # the TA filters on the week only (reliable file-name metadata)
     vectors = embed_texts(chunks["text"].tolist())        # Exercise 8.2: one vector per chunk
     col = build_index(name, chunks, vectors)              # Exercise 9.1: a Chroma collection
     return {"col": col, "bm": bm25_index(chunks), "chunks": chunks}   # Exercise 13.1: plus its keyword index
