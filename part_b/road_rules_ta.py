@@ -6,13 +6,13 @@
 # ---------- from the notebook: Exercise 1 (01_setup_check.py) ----------
 # OK, or NOT OK followed by the fix to try. Result: the settings below plus a list of checks.
 # PREPARED: just run it. No Ollama (or a slow laptop)? Set USE_RECORDED = True to replay the recorded real run.
-import base64, hashlib, importlib, json, platform, re, sys, time   # standard-library helpers used in this notebook
+import base64, hashlib, importlib, json, platform, re, sys, time, os   # standard-library helpers used in this notebook
 from pathlib import Path                                  # file paths for Windows and macOS
 # Settings used by the whole notebook. Replay mode = reuse the saved real replies of a finished run,
 # so you do not need Ollama. Live mode = really ask the models on your laptop.
 USE_RECORDED = False                       # True = replay mode: use the recorded real replies and vectors (no Ollama). False = live: ask Ollama.
 # 127.0.0.1 means "this computer". We avoid "localhost": on Windows it adds about 2 s per request.
-OLLAMA_URL = "http://127.0.0.1:11434"      # 127.0.0.1, not localhost: on Windows localhost adds ~2 s per request
+OLLAMA_URL = os.environ.get("OLLAMA_BASE_URL", "http://127.0.0.1:11434") 
 MODEL = "qwen2.5:3b"                       # the chat model, as in Week 10 (qwen2.5:1.5b works, but replay will not match)
 # An embedding = a list of numbers (a vector) that captures the meaning of a text.
 EMBED_MODEL = "nomic-embed-text:latest"    # the embedding model: turns a text into 768 numbers
@@ -27,8 +27,8 @@ import numpy as np                                        # numpy = numbers, vec
 # File names. The recorded files come with the lab; the "MY_" files collect your own live results.
 # LLM = large language model, i.e. the chat model.
 # CORPUS = Path(__file__).parent.parent / "data" 
-REPLIES_FILE = Path("llm_replies_road_rules.json")            # recorded real LLM replies (used when USE_RECORDED = True)
-EMBEDS_FILE = Path("embeddings_road_rules.json")              # recorded real vectors, also for replay
+REPLIES_FILE = Path("replay/llm_replies_road_rules.json")            # recorded real LLM replies (used when USE_RECORDED = True)
+EMBEDS_FILE = Path("replay/embeddings_road_rules.json")              # recorded real vectors, also for replay
 MY_REPLIES_FILE = Path("outputs/my_llm_replies.json")     # every live LLM reply you get is saved here
 MY_EMBEDS_FILE = Path("outputs/my_embeddings.json")       # every live vector you get is saved here
 # Load the recorded files into dictionaries (an empty dictionary if a file is missing).
@@ -620,7 +620,7 @@ TA_CONFIG = {"chunks": "800-120", "search": "hybrid", "n_each": 10, "doc_from_qu
 # tutorials, clean them, cut them into sections and chunks, embed the chunks (turn them into
 # vectors), then build a Chroma collection (search by meaning) and a BM25 index (by keywords).
 
-def build_ta_index(name="course_ta"):                     # returns the collection, BM25 and chunks
+def build_ta_index(name="coourse_ta"):                     # returns the collection, BM25 and chunks
     docs = load_docs()                                    # Exercise 3.1: the six tutorials
     docs["clean"] = docs["text"].map(clean_text)          # Exercise 3.2: clean them
     sections = make_sections(docs)                        # Exercise 4.1: split at headings
