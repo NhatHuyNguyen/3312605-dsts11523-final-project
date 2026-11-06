@@ -622,7 +622,6 @@ TA_CONFIG = {"chunks": "800-120", "search": "hybrid", "n_each": 10, "doc_from_qu
 
 def build_ta_index(name="course_ta"):                     # returns the collection, BM25 and chunks
     docs = load_docs()                                    # Exercise 3.1: the six tutorials
-    print(docs)
     docs["clean"] = docs["text"].map(clean_text)          # Exercise 3.2: clean them
     sections = make_sections(docs)                        # Exercise 4.1: split at headings
     # Cut the sections into chunks as TA_CONFIG says: code-aware (Exercise 15.1) or 800/150 (4.2).
