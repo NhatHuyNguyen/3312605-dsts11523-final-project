@@ -1,0 +1,5 @@
+{
+  "version": "V3",
+  "template": "Read this section of the ACT Road Rules and describe it.\n\nReturn one JSON object with exactly three fields:\n\"category\": one of Speed limits, Making turns, Giving way, Traffic signs and road markings, Pedestrians, Bicycles, other.\n\"entities\": a list of at most 5 road users mentioned (e.g., driver, pedestrian, cyclist).\n\"evidence\": a short exact quote from the section that supports the category.\n\nSection text:\n<section>\n{section}\n</section>",
+  "sha256": "09452fce4349c574b3b17d483f6070c160b352b900dbaa5a9e5dfe198f14e9da"
+}
