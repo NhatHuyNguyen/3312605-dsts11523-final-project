@@ -1,14 +1,25 @@
 Python version used: 3.11.17
 
-code.ipynb: Initial code, pipeline and plotting
-train.py: Classification training pipeline, run CV pipelines and save the best models
-predict.py: Classficaition prediction pipeline, load models and predict without training
+notebooks/code.ipynb: RAG pipeline for answering the project questions
+src/app.py: Code for running the TA Road Rules QA app.
+src/road_rules_ta.py: Main logic of the QA app.
+assets/: ACT logo for the QA app
+data/: ACT Road Rules data for the project
+gold/: gold questions and sections
+index/: Chroma indices
+outputs/: csv and json outputs of the notebook and app
+replay/: replay jsons for Replay mode of the app
+Dockerfile and .dockerignore: Docker build files 
 
-Command to install required packages, run from part_a: pip install -r requirements.txt
-Command to run train.py, run from part_a: python src/train.py
-Command to run predict.py, run from part_a: python src/train.py
 
-Commands to run docker, train and test pipelines: 
-- docker run --rm -v "./data/raw:/app/data/raw:ro" -v "./outputs:/app/outputs:rw" -v "./models:/app/models:rw" part_a python src/train.py
+All commands to be executed from part_b folder
 
-- docker run --rm -v "./data/allocated:/app/data/allocated:ro" -v "./outputs:/app/outputs:rw" -v "./models:/app/models:ro" part_a python src/predict.py
+Command to install required packages: pip install -r requirements.txt
+Command to run the QA app: python -m streamlit run src/app.py
+
+Command to build part_a docker image, using the supplied Dockerfile:
+
+- docker build -t part_b .
+
+Commands to run the QA app with port 8501 exposed:
+- docker run -p 8501:8501 part_b
