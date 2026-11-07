@@ -1,0 +1,17 @@
+Python version used: 3.11.17
+
+notebooks/code.ipynb: RAG pipeline for answering the project questions
+src/app.py: Code for running the TA Road Rules QA app.
+src/road_rules_ta.py: Main logic of the QA app.
+
+All commands to be executed from part_b folder
+
+Command to install required packages: pip install -r requirements.txt
+Command to run the QA app: python -m streamlit run src/app.py
+
+Command to build part_a docker image, using the supplied Dockerfile:
+
+- docker build -t part_b .
+
+Commands to run the QA app with port 8501 exposed:
+- docker run -p 8501:8501 part_b
