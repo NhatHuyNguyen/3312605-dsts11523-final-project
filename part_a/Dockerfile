@@ -4,8 +4,8 @@ FROM python:3.11-slim
 WORKDIR /app
 
 # Copy dependency list and install
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+COPY requirements_docker.txt .
+RUN pip install --no-cache-dir -r requirements_docker.txt
 
 # Copy the source code (ignore models, and outputs via .dockerignore)
 COPY src/ ./src/
