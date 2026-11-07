@@ -1,0 +1,2274 @@
+Part 8	Traffic signs and road markings
+Division 8.1	Traffic signs and road markings at intersections and other places
+88	Left turn sign
+	(1)	If there is a left turn only sign at an intersection, a driver must turn left at the intersection.
+Maximum penalty:  20 penalty units.
+	(2)	If there is a left lane must turn left sign at an intersection, a driver who is in the left marked lane when entering the intersection must turn left at the intersection.
+Maximum penalty:  20 penalty units.
+89	Right turn sign
+	(1)	If there is a right turn only sign at an intersection, a driver must turn right at the intersection.
+Maximum penalty:  20 penalty units.
+	(2)	If there is a right lane must turn right sign at an intersection, a driver who is in the right marked lane when entering the intersection must turn right at the intersection.
+Maximum penalty:  20 penalty units.
+	(3)	In this section:
+turn right does not include make a U-turn.
+90	No turns sign
+If there is a no turns sign at an intersection, a driver must not turn left or right, or make a U-turn, at the intersection.
+Maximum penalty:  20 penalty units.
+91	No left turn and no right turn sign
+	(1)	If there is a no left turn sign at an intersection, or another place on a road, a driver must not turn left at the intersection or place.
+Maximum penalty:  20 penalty units.
+	(2)	If there is a no right turn sign at an intersection, or another place on a road, a driver must not turn right or make a U-turn at the intersection or place.
+Maximum penalty:  20 penalty units.
+	(3)	However, a driver may make a U-turn at the intersection or place if there is a U-turn permitted sign at the intersection or place.
+92	Traffic lane arrows
+	(1)	If a driver is driving in a marked lane at an intersection (except a roundabout) and there are traffic lane arrows applying to the lane, the driver must-
+	(a)	if the arrows indicate a single direction-drive in that direction; or
+	(b)	if the arrows indicate 2 or more directions-drive in 1 of those directions.
+Maximum penalty:  20 penalty units.
+	(2)	However, this section does not apply to a driver if-
+	(a)	the arrows indicate a direction to the right (whether or not they also indicate another direction) at an intersection and the driver is making a U-turn at the intersection; or
+	(b)	a traffic sign indicates that the driver may drive in a direction different to that indicated by the traffic lane arrows; or
+	(c)	the driver is driving in the direction indicated by traffic lane arrows that apply to 1 or more marked lanes and there is an obstruction in each of those lanes; or
+	(d)	the driver is turning at an intersection in accordance with section 28 (2) (Starting left turn from multi-lane road) or section 32 (2) (Starting right turn from multi-lane road).
+Example 1
+Traffic lane arrows on the surface of marked lanes
+
+Example 2
+Traffic lane arrows on a traffic sign
+
+	(3)	The existence of a bicycle storage area in a marked lane does not alter a driver's obligation to comply with this section.
+Division 8.2	Traffic signs and road markings generally
+93	No overtaking or passing sign
+	(1)	A driver must not-
+	(a)	drive past a no overtaking or passing sign if any oncoming vehicle is on the bridge or length of road to which the sign applies; or
+	(b)	overtake a vehicle on a bridge or length of road to which a no overtaking or passing sign applies.
+Maximum penalty:  20 penalty units.
+	(2)	A no overtaking or passing sign on a road applies to the length of road (including a length of road on a bridge) beginning at the sign and ending-
+	(a)	if information on or with the sign indicates a distance-at that distance past the sign; or
+	(b)	if the sign applies to a bridge-at the end of the bridge; or
+	(c)	at an end no overtaking or passing sign on the road.
+94	No overtaking on bridge sign
+A driver on a bridge with a no overtaking on bridge sign must not overtake a vehicle between the sign and the far end of the bridge.
+Maximum penalty:  20 penalty units.
+95	Emergency stopping lane only sign
+	(1)	A driver must not drive in an emergency stopping lane unless-
+	(a)	the driver needs to drive in the emergency stopping lane to avoid a collision, to stop in the lane, or because the driver's vehicle is disabled; or
+	(b)	the driver is driving a police vehicle or emergency vehicle.
+Maximum penalty:  20 penalty units.
+	(2)	This section does not apply to the rider of a bicycle.
+	(3)	In this regulation:
+emergency stopping lane means a marked lane, or the part of a marked lane, to which an emergency stopping lane only sign applies.
+96	Keep clear marking
+	(1)	A driver must not stop on an area of a road marked with a keep clear marking.
+Maximum penalty:  20 penalty units.
+	(2)	In this regulation:
+keep clear marking means the words 'keep clear' marked across all or part of a road, with or without continuous lines marked across all or part of the road.
+Example 1
+Keep clear marking bounded by line road markings
+
+Example 2
+Keep clear marking with no line road markings
+
+97	Road access sign
+	(1)	A driver must not drive on a length of road to which a road access sign applies if information on or with the sign indicates that the driver or the driver's vehicle is not permitted beyond the sign.
+Maximum penalty:  20 penalty units.
+	(2)	A road access sign on a road applies to the length of road beginning at the sign (including any road into which the length of road merges) and ending-
+	(a)	if the sign is on a freeway-at an end freeway sign or end road access sign on the road; or
+	(b)	if the sign is not on a freeway-at the nearer of the following:
+	(i)	if the road ends at a T-intersection or dead end-the end of the road;
+	(ii)	an end road access sign on the road.
+Example
+A road access sign on an access ramp to a freeway applies to the access ramp and the freeway into which the access ramp merges
+Road access sign
+End freeway sign
+
+
+End road access sign
+
+98	One-way sign
+	(1)	A driver must not drive on a length of road to which a one-way sign applies except in the direction indicated by the arrow on the sign.
+Maximum penalty:  20 penalty units.
+	(2)	A one-way sign on a road applies to the length of road beginning at the sign and ending at the nearer of the following:
+	(a)	a two-way sign on the road;
+	(b)	a keep left sign on the road;
+	(c)	another sign or road marking on the road that indicates that the road is a two-way road;
+	(d)	if the road ends at a T-intersection-the end of the road.
+	(3)	This section does not apply to the rider of a motorbike that is a postal vehicle, the rider of a bicycle or the rider of an animal if the rider-
+	(a)	is riding on a bicycle path, footpath, nature strip, separated footpath or shared path adjacent to the length of road; and
+	(b)	is permitted to ride on the bicycle path, footpath, nature strip, separated footpath or shared path under this regulation.
+99	Keep left and keep right sign
+	(1)	A driver driving past a keep left sign must drive to the left of the sign.
+Maximum penalty:  20 penalty units.
+	(2)	A driver driving past a keep right sign must drive to the right of the sign.
+Maximum penalty:  20 penalty units.
+	(3)	This section does not apply to the rider of a motorbike that is a postal vehicle, the rider of a bicycle or the rider of an animal if the rider-
+	(a)	is riding on a bicycle path, footpath, nature strip, separated footpath or shared path; and
+	(b)	is permitted to ride on the bicycle path, footpath, nature strip, separated footpath or shared path under this regulation.
+100	No entry sign
+A driver must not drive past a no entry sign.
+Maximum penalty:  20 penalty units.
+101	Hand-held stop sign
+	(1)	A driver approaching a hand-held stop sign must stop before reaching the sign.
+Maximum penalty:  20 penalty units.
+	(2)	The driver must not proceed until the holder of the sign-
+	(a)	no longer displays the sign towards the driver; or
+	(b)	otherwise indicates that the driver may proceed.
+Maximum penalty:  20 penalty units.
+	(3)	This section does not apply to a driver approaching or at a hand-held stop sign at a children's crossing.
+101A	Safety ramp and arrester bed sign
+	(1)	A driver must not drive on a safety ramp or arrester bed unless it is necessary for the driver to do so in the interests of safety.
+Maximum penalty:  20 penalty units.
+	(2)	In this section:
+arrester bed means an area to which an arrester bed sign applies.
+safety ramp means an area to which a safety ramp sign applies.
+Division 8.3	Signs for trucks, buses and other large vehicles
+102	Clearance and low clearance sign
+	(1)	A driver must not drive past a clearance sign, or a low clearance sign, if the driver's vehicle, or any vehicle connected to it, is higher than the height (in metres) indicated by the sign.
+Maximum penalty:  20 penalty units.
+	(2)	In this section:
+vehicle includes any load carried by the vehicle.
+103	Load limit sign
+	(1)	A driver must not drive past a bridge load limit (gross mass) sign or gross load limit sign if the total of the gross mass (in tonnes) of the driver's vehicle, and any vehicle connected to it, is more than the gross mass indicated by the sign.
+Maximum penalty:  20 penalty units.
+	(2)	A driver must not drive past a bridge load limit (mass per axle group) sign if the mass (in tonnes) carried by an axle group of the driver's vehicle, or any vehicle connected to it, is more than the mass indicated by the sign for the axle group.
+Maximum penalty:  20 penalty units.
+	(3)	In this section:
+vehicle includes any load carried by the vehicle.
+104	No trucks sign
+	(1)	A driver (except the driver of a bus) must not drive past a no trucks sign that has information on or with it indicating a mass if the GVM of the driver's vehicle (or, if the driver is driving a combination, any vehicle in the combination) is more than that mass.
+Maximum penalty:  20 penalty units.
+	(2)	A driver (except the driver of a bus) must not drive past a no trucks sign that has information on or with it indicating a length if the length of the driver's vehicle (or, if the driver is driving a combination, the length of the combination) is longer than that length.
+Maximum penalty:  20 penalty units.
+	(3)	The driver of a truck must not drive past a no trucks sign that has no information on or with it indicating a mass or length.
+Maximum penalty:  20 penalty units.
+	(4)	This section does not apply to a driver if the destination of the driver lies beyond a no trucks sign and-
+	(a)	there is no other route by which the driver's vehicle could reach that destination; or
+	(b)	any other route by which the driver's vehicle could reach that destination would require the vehicle to pass another no trucks sign.
+105	Trucks must enter sign
+If the driver of a truck drives past a trucks must enter sign, the driver must enter the area indicated by information on or with the sign.
+Maximum penalty:  20 penalty units.
+106	No buses sign
+	(1)	The driver of a bus must not drive past a no buses sign that has information on or with it indicating a mass if the GVM of the bus is more than that mass.
+Maximum penalty:  20 penalty units.
+	(2)	The driver of a bus must not drive past a no buses sign that has information on or with it indicating a length if the bus is longer than that length.
+Maximum penalty:  20 penalty units.
+	(3)	The driver of a bus must not drive past a no buses sign that has no information on or with it indicating a mass or length.
+Maximum penalty:  20 penalty units.
+107	Buses must enter sign
+If the driver of a bus drives past a buses must enter sign, the driver must enter the area indicated by information on or with the sign.
+Maximum penalty:  20 penalty units.
+108	Trucks and buses low gear sign
+	(1)	If the driver of a truck or bus is driving on a length of road to which a trucks and buses low gear sign applies, the driver must drive the truck or bus in a gear that is low enough to limit the speed of the truck or bus without the use of a primary brake.
+Maximum penalty:  20 penalty units.
+	(2)	Subsection (1) does not apply to the driver of a bus if information on or with the sign indicates that it applies only to trucks.
+	(3)	A trucks and buses low gear sign on a road applies to the length of road beginning at the sign and ending-
+	(a)	if information on or with the sign indicates a distance-at that distance on the road from the sign; or
+	(b)	in any other case-at an end trucks and buses low gear sign on the road.
+	(4)	In this section:
+primary brake means the footbrake, or other brake, fitted to a truck or bus that is normally used to slow or stop the vehicle.
+
+
+Part 9	Roundabouts
+    
+109	Meaning of roundabout
+In this regulation:
+roundabout means an intersection-
+	(a)	with either-
+	(i)	1 or more marked lanes, all of which are for the use of vehicles travelling in the same direction around a central traffic island; or
+	(ii)	room for 1 or more lines of traffic travelling in the same direction around a central traffic island; and
+	(b)	with or without a roundabout sign at each entrance.
+110	Meaning of halfway around roundabout
+A driver leaves a roundabout halfway around the roundabout if the driver leaves the roundabout on a road that is straight ahead, or substantially straight ahead, from the road on which the driver enters the roundabout.
+111	Entering roundabout from multi-lane road or road with 2 or more lines of traffic travelling in same direction
+	(1)	A driver entering a roundabout from a multi-lane road, or a road with room for 2 or more lines of traffic (other than motorbikes, bicycles, motorised wheelchairs or animals) travelling in the same direction as the driver, must enter the roundabout in accordance with this section.
+Maximum penalty:  20 penalty units.
+	(2)	If the driver is to leave the roundabout less than halfway around it, the driver must enter the roundabout from the left marked lane or, if the road is not a multi-lane road, as near as practicable to the left side of the road.
+Example 1
+Leaving a roundabout less than halfway around it
+
+	(3)	If the driver is to leave the roundabout more than halfway around it, the driver must enter the roundabout from the right marked lane or, if the road is not a multi-lane road, from the left of, parallel to, and as near as practicable to, the dividing line or median strip.
+Example 2
+Leaving a roundabout more than halfway around it
+
+	(4)	If the driver is to leave the roundabout halfway around it, the driver may enter the roundabout from any marked lane or, if the road is not a multi-lane road, anywhere on the part of the road on which vehicles travelling in the same direction as the driver may travel.
+Example 3
+Leaving a roundabout halfway around it
+
+	(5)	Despite subsections (2) to (4), if the driver is entering the roundabout from a marked lane and there are traffic lane arrows applying to the lane, the driver must-
+	(a)	if the arrows indicate a single direction-drive in that direction after entering the roundabout; or
+	(b)	if the arrows indicate 2 or more directions-drive in 1 of those directions after entering the roundabout.
+Example 4
+Roundabout with 3 entry points
+
+Example 5
+Roundabout with 5 entry points
+
+	(6)	Subsection (3) does not apply to the rider of a bicycle or animal.
+	(7)	Subsection (5) does not apply to the rider of a bicycle or animal if the rider is to leave the roundabout more than halfway around it.
+	(8)	Despite subsection (2), a driver may approach and enter the roundabout from the marked lane next to the left lane as well as, or instead of, the left lane if-
+	(a)	the driver's vehicle, together with any load or projection, is 7.5m long, or longer; and
+	(b)	the vehicle displays a do not overtake turning vehicle sign; and
+	(c)	any part of the vehicle is within 50m of the nearest point of the roundabout; and
+	(d)	it is not practicable for the driver to leave the roundabout less than halfway around it from within the left lane; and
+	(e)	the driver can safely occupy the next marked lane and can safely leave the roundabout less than halfway around it by occupying the next marked lane, or both lanes.
+	(9)	Despite subsection (3), the driver may approach and enter the roundabout from the marked lane next to the right lane as well as, or instead of, the right lane if-
+	(a)	the driver's vehicle, together with any load or projection, is 7.5m long, or longer; and
+	(b)	the vehicle displays a do not overtake turning vehicle sign; and
+	(c)	any part of the vehicle is within 50m of the nearest point of the roundabout; and
+	(d)	it is not practicable for the driver to leave the roundabout more than halfway around it from within the right lane; and
+	(e)	the driver can safely occupy the next marked lane and can safely leave the roundabout more than halfway around it by occupying the next marked lane, or both lanes.
+	(10)	In this section:
+left lane means-
+	(a)	the marked lane nearest to the far left side of the road; or
+	(b)	if there is an obstruction (for example, a parked car or roadworks) in that marked lane-the marked lane nearest to that marked lane that is not obstructed.
+marked lane, for a driver, does not include a special purpose lane in which the driver is not permitted to drive.
+right lane means-
+	(a)	the marked lane nearest to the dividing line or median strip on the road; or
+	(b)	if there is an obstruction (for example, a parked car or roadworks) in that marked lane-the marked lane nearest to that marked lane that is not obstructed.
+112	Giving left change of direction signal when entering roundabout
+	(1)	This section applies to a driver entering a roundabout if-
+	(a)	the driver is to leave the roundabout at the first exit after entering the roundabout; and
+	(b)	the exit is less than halfway around the roundabout.
+	(2)	Before entering the roundabout, the driver must give a left change of direction signal for long enough to give sufficient warning to other drivers and pedestrians.
+Maximum penalty:  20 penalty units.
+	(3)	The driver must continue to give the change of direction signal until the driver has left the roundabout.
+Maximum penalty:  20 penalty units.
+	(4)	This section does not apply to a driver if the driver's vehicle is not fitted with direction indicator lights.
+113	Giving right change of direction signal when entering roundabout
+	(1)	This section applies to a driver entering a roundabout if the driver is to leave the roundabout more than halfway around it.
+	(2)	Before entering the roundabout, the driver must give a right change of direction signal for long enough to give sufficient warning to other drivers and pedestrians.
+Maximum penalty:  20 penalty units.
+	(3)	The driver must continue to give the change of direction signal while the driver is driving in the roundabout, unless-
+	(a)	the driver is changing marked lanes, or entering another line of traffic; or
+	(b)	the driver's vehicle is not fitted with direction indicator lights; or
+	(c)	the driver is about to leave the roundabout.
+Maximum penalty:  20 penalty units.
+114	Giving way when entering or driving in roundabout
+	(1)	A driver entering a roundabout must give way to-
+	(a)	any vehicle in the roundabout; and
+	(b)	a tram that is entering or approaching the roundabout.
+Maximum penalty:  20 penalty units.
+	(2)	A driver driving in a roundabout must give way to a tram that is in, entering or approaching the roundabout.
+Maximum penalty:  20 penalty units.
+	(3)	In this section:
+tram includes a bus travelling along tram tracks.
+115	Driving in roundabout
+	(1)	A driver driving in a roundabout must drive-
+	(a)	to the left of the central traffic island in the roundabout; or
+	(b)	if subsection (2) applies to the driver-on the edge of the central traffic island, to the left of the centre of the island; or
+	(c)	if subsection (3) applies to the driver-over the central traffic island, as near as practicable to the left of the centre of the central traffic island.
+Maximum penalty:  20 penalty units.
+	(2)	This subsection applies to a driver if-
+	(a)	the driver's vehicle is too large to drive in the roundabout without driving on the edge of the central traffic island; and
+	(b)	the driver can safely drive on the edge of the central traffic island.
+	(3)	This subsection applies to a driver if-
+	(a)	the driver's vehicle is too large to drive in the roundabout without driving over the central traffic island; and
+	(b)	the central traffic island is designed to allow a vehicle of that kind to be driven over it; and
+	(c)	the driver can safely drive over the central traffic island.
+116	Obeying traffic lane arrows when driving in or leaving roundabout
+If a driver is driving in a marked lane in a roundabout and there are traffic lane arrows applying to the lane, the driver must-
+	(a)	if the arrows indicate a single direction-drive in or leave the roundabout in that direction; or
+	(b)	if the arrows indicate 2 or more directions-drive in or leave the roundabout in 1 of those directions.
+Maximum penalty:  20 penalty units.
+117	Giving change of direction signal when changing marked lane or line of traffic in roundabout
+	(1)	A driver driving in a roundabout must give a left change of direction signal before the driver changes marked lanes to the left, or enters a part of the roundabout where there is room for another line of traffic to the left, in the roundabout, unless the driver's vehicle is not fitted with direction indicator lights.
+Maximum penalty:  20 penalty units.
+	(2)	A driver driving in a roundabout must give a right change of direction signal before the driver changes marked lanes to the right, or enters a part of the roundabout where there is room for another line of traffic to the right, in the roundabout.
+Maximum penalty:  20 penalty units.
+118	Giving left change of direction signal when leaving roundabout
+	(1)	If practicable, a driver driving in a roundabout must give a left change of direction signal when leaving the roundabout.
+Maximum penalty:  20 penalty units.
+	(2)	The driver must stop giving the change of direction signal as soon as the driver has left the roundabout.
+Maximum penalty:  20 penalty units.
+	(3)	This section does not apply to a driver if the driver's vehicle is not fitted with direction indicator lights.
+119	Giving way by rider of bicycle or animal to vehicle leaving roundabout
+The rider of a bicycle or animal who is riding in the far left marked lane of a roundabout with 2 or more marked lanes, or the far left line of traffic in a roundabout with room for 2 or more lines of traffic (other than motorbikes, bicycles, motorised wheelchairs or animals), must give way to any vehicle leaving the roundabout.
+Maximum penalty:  20 penalty units.
+
+
+Part 10	Level crossings
+    
+120	Meaning of level crossing
+	(1)	In this regulation:
+level crossing means-
+	(a)	an area where a road and a railway meet at substantially the same level, whether or not there is a level crossing sign on the road at all or any of the entrances to the area; or
+	(b)	an area where a road and tram tracks meet at substantially the same level and that has a level crossing sign on the road at each entrance to the area.
+	(1A)	A reference to a level crossing in this section includes a reference to any area adjacent to the crossing that is denoted by painted cross-hatched road markings.
+	(2)	In this section:
+road does not include a road related area.
+121	Stopping and giving way at stop sign at level crossing
+A driver at a level crossing with a stop sign must-
+	(a)	stop as near as practicable to, but before reaching, the stop line or, if there is no stop line, as near as practicable to, but before reaching, the stop sign; and
+	(b)	give way to any train or tram on, approaching or entering the crossing.
+Maximum penalty:  20 penalty units.
+122	Giving way at give way sign or give way line at level crossing
+A driver at a level crossing with a give way sign or give way line must give way to any train or tram on, approaching or entering the crossing.
+Maximum penalty:  20 penalty units.
+123	Entering level crossing when train or tram approaching etc
+A driver must not enter a level crossing if-
+	(a)	warning lights (for example, twin red lights or rotating red lights) are operating or warning bells are ringing; or
+	(b)	a gate, boom or barrier at the crossing is closed or is opening or closing; or
+	(c)	a train or tram is on or entering the crossing; or
+	(d)	a train or tram approaching the crossing can be seen from the crossing, or is sounding a warning, and there would be a danger of a collision with the train or tram if the driver entered the crossing; or
+	(e)	the driver cannot drive through the crossing because the crossing, or a road beyond the crossing, is blocked.
+Maximum penalty:  20 penalty units.
+Examples-par (e)
+The crossing, or a road beyond the crossing, may be blocked by congested traffic, a disabled vehicle, a collision between vehicles or between a vehicle and a pedestrian, or by stock on the road.
+124	Leaving level crossing
+A driver who enters a level crossing must leave the level crossing as soon as the driver can do so safely.
+Maximum penalty:  20 penalty units.
+
+
+Part 11	Keeping left, overtaking and other driving rules
+Division 11.1	General
+125	Unreasonably obstructing driver or pedestrian
+	(1)	A driver must not unreasonably obstruct the path of another driver or a pedestrian.
+Maximum penalty:  20 penalty units.
+	(2)	For this section, a driver does not unreasonably obstruct the path of another driver or a pedestrian only because-
+	(a)	the driver is stopped in traffic; or
+	(b)	the driver is driving more slowly than other vehicles (unless the driver is driving abnormally slowly in the circumstances).
+Example-driver driving abnormally slowly
+A driver driving at a speed of 20km/h on a length of road to which a speed limit of 80km/h applies when there is no reason for the driver to drive at that speed on the length of road.
+126	Keeping safe distance behind vehicle
+A driver must drive a sufficient distance behind a vehicle travelling in front of the driver so the driver can, if necessary, stop safely to avoid a collision with the vehicle.
+Maximum penalty:  20 penalty units.
+127	Keeping minimum distance between long vehicles
+	(1)	The driver of a long vehicle must drive at least the required minimum distance behind another long vehicle travelling in front of the driver, unless the driver is-
+	(a)	driving on a multi-lane road or any length of road in a built-up area; or
+	(b)	overtaking.
+Maximum penalty:  20 penalty units.
+	(2)	In this section:
+long vehicle means a vehicle that, together with any load or projection, is 7.5m long, or longer.
+required minimum distance means-
+	(a)	for a road train that is behind a long vehicle-200m; or
+	(b)	for a long vehicle other than a road train that is behind a long vehicle-60m.
+128	Entering blocked intersection
+A driver must not enter an intersection if the driver cannot drive through the intersection because the intersection, or a road beyond the intersection, is blocked.
+Maximum penalty:  20 penalty units.
+Examples
+The intersection, or a road beyond the intersection, may be blocked by congested traffic, a disabled vehicle, a collision between vehicles or between a vehicle and a pedestrian, or by a fallen load on the road.
+128A	Entering blocked crossing
+	(1)	A driver must not enter a children's crossing, marked foot crossing or pedestrian crossing if the driver cannot drive through the crossing because the crossing, or a road beyond the crossing, is blocked.
+Maximum penalty:  20 penalty units.
+Examples
+The crossing, or a road beyond the crossing, may be blocked by congested traffic, a disabled vehicle, a collision between vehicles or between a vehicle and a pedestrian, or by a fallen load on the road.
+	(2)	Despite subsection (1), a driver may enter a children's crossing or a pedestrian crossing if-
+	(a)	the crossing is immediately before an intersection that does not have traffic lights; and
+	(b)	the crossing is not blocked; and
+	(c)	before entering the crossing, the driver gives way to any pedestrian on the crossing.
+	(3)	Subsection (2) applies despite anything to the contrary in section 171 (Stopping on or near children's crossing) or section 172 (Stopping on or near pedestrian crossing (except at intersection)).
+	(4)	However, subsection (3) is not intended to permit a driver to park a vehicle contrary to section 171 or section 172.
+Division 11.2	Keeping to left
+129	Keeping to far left side of road
+	(1)	A driver on a road (except a multi-lane road) must drive as near as practicable to the far left side of the road.
+Maximum penalty:  20 penalty units.
+	(2)	This section does not apply to the rider of a motorbike.
+	(3)	In this section:
+road does not include a road related area.
+130	Keeping to left on multi-lane road
+	(1)	This section applies to a driver driving on a multi-lane road if-
+	(a)	the speed limit applying to the driver for the length of road where the driver is driving is over 80km/h; or
+	(b)	a keep left unless overtaking sign applies to the length of road where the driver is driving.
+	(2)	The driver must not drive in the right lane unless-
+	(a)	the driver is turning right, or making a U-turn from the centre of the road, and is giving a right change of direction signal; or
+	(b)	the driver is overtaking; or
+	(c)	a left lane must turn left sign or left traffic lane arrows apply to any other lane and the driver is not turning left; or
+	(d)	the driver is required to drive in the right lane under section 159 (Marked lane required to be used by particular kind of vehicle); or
+	(e)	the driver is avoiding an obstruction; or
+	(f)	the traffic in each other lane is congested; or
+	(g)	the traffic in every lane is congested; or
+	(h)	the right lane is a special purpose lane in which the driver, under another provision of this regulation, is permitted to drive; or
+	(i)	there are only 2 marked lanes and the left lane is a slow vehicle turn out lane.
+Maximum penalty:  20 penalty units.
+	(3)	A keep left unless overtaking sign on a multi-lane road applies to the length of road beginning at the sign and ending at the nearest of the following:
+	(a)	an end keep left unless overtaking sign on the road;
+	(b)	a traffic sign or road marking on the road that indicates that the road is no longer a multi-lane road;
+	(c)	if the road ends at a T-intersection or dead end-the end of the road.
+	(4)	In this section:
+lane, for a driver, means a marked lane for vehicles travelling in the same direction as the driver, but does not include a special purpose lane in which the driver is not permitted to drive.
+slow vehicle turn out lane means a marked lane, or the part of a marked lane, to which a slow vehicle turn out lane sign applies.
+131	Keeping to left of oncoming vehicle
+	(1)	A driver must drive to the left of any oncoming vehicle unless-
+	(a)	the driver is turning right at an intersection; and
+	(b)	the driver is passing an oncoming vehicle turning right at the intersection; and
+	(c)	there is no traffic sign or road marking indicating that the driver must pass to the left of the oncoming vehicle.
+Maximum penalty:  20 penalty units.
+	(2)	This section does not apply to the rider of a motorbike that is a postal vehicle, the rider of a bicycle or the rider of an animal if-
+	(a)	the rider is riding on a footpath, nature strip or shared path; and
+	(b)	the rider is permitted to ride on the footpath, nature strip or shared path under this regulation; and
+	(c)	either-
+	(i)	the oncoming vehicle is not on the footpath, nature strip or shared path; or
+	(ii)	the oncoming vehicle is not permitted, under this regulation, to be on the footpath, nature strip or shared path.
+Example 1
+Driving to the left of an oncoming vehicle
+
+Example 2
+Oncoming vehicles turning right passing to the right of each other
+
+132	Keeping to left of centre of road or dividing line
+	(1)	A driver on a two-way road without a dividing line or median strip must drive to the left of the centre of the road, except as permitted under section 133 or section 139 (1) (Exceptions for avoiding obstruction on road).
+Maximum penalty:  20 penalty units.
+	(2)	A driver on a road with a dividing line must drive to the left of the dividing line, except as permitted under section 134 (Exceptions to keeping to left of dividing line) or section 139 (2).
+Maximum penalty:  20 penalty units.
+Example 1
+Driving to the left of a single continuous dividing line only
+
+Example 2
+Driving to the left of a single continuous dividing line to the left of a broken dividing line
+
+Example 3
+Driving to the left of 2 parallel continuous dividing lines
+
+	(2A)	A driver on a road with a single continuous dividing line, a single continuous dividing line to the left of a broken dividing line or 2 parallel continuous dividing lines must not drive across the dividing lines to perform a U-turn.
+Maximum penalty:  20 penalty units.
+Example 1
+Driving across a single continuous dividing line to make a U-turn is not permitted
+
+Example 2
+Driving across a single continuous dividing line to the left of a broken dividing line to make a U-turn is not permitted
+
+Example 3
+Driving across 2 parallel continuous dividing lines to make a U-turn is not permitted
+
+	(3)	This section, section 133, section 134 and section 139 (1) and (2) apply to a service road to which a two-way sign applies as if it were a separate road, but do not apply to any other service road.
+	(4)	In this section:
+road does not include a footpath, nature strip, bicycle path, separated footpath or shared path.
+133	Exceptions to keeping to left of centre of road
+	(1)	This section applies to a driver on a two-way road without a dividing line or median strip.
+	(2)	The driver may drive to the right of the centre of the road-
+	(a)	to overtake another driver; or
+	(b)	to enter or leave the road; or
+	(c)	to enter a part of the road of 1 kind from a part of the road of another kind (for example, moving to or from a service road or emergency stopping lane).
+	(3)	The driver may also drive to the right of the centre of the road if-
+	(a)	because of the width or condition of the road, it is not practicable to drive to the left of the centre of the road; and
+	(b)	the driver can do so safely.
+134	Exceptions to keeping to left of dividing line
+	(1)	This section applies to a driver on a road with a dividing line.
+	(2)	If the dividing line is a single broken dividing line only, or a broken dividing line to the left of a single continuous dividing line, or 2 parallel broken dividing lines, the driver may drive to the right of the dividing line-
+	(a)	to overtake another driver; or
+	(b)	to perform a U-turn, unless another provision would prohibit the driver performing the U-turn.
+	(3)	If the dividing line is a single continuous or broken dividing line, or a broken dividing line to the left or right of a single continuous dividing line, or 2 parallel broken dividing lines, the driver may drive to the right of the dividing line-
+	(a)	to enter or leave the road; or
+	(b)	to enter a part of the road of 1 kind from a part of the road of another kind (for example, moving to or from a service road or emergency stopping lane); or
+	(c)	to park in angle parking on the opposite side of the road provided that the driver does not need to perform a U-turn to reach the parking area.
+Example 1
+Driving to the right of the centre of the road permitted-overtaking on a road with a broken dividing line only
+
+Example 2
+Driving to the right of the centre of the road permitted-overtaking on a road with a broken dividing line to the left of a single continuous dividing line
+
+Example 2A
+Driving across a single continuous dividing line is permitted to enter or leave the road
+
+Example 2B
+Driving across a single continuous dividing line is permitted to leave the road to enter a road related area
+
+Example 2C
+Driving across a single continuous dividing line to the left of a broken dividing line is permitted to enter or leave the road
+
+Example 3
+Driving to the right of the centre of the road not permitted - overtaking on a road with a single continuous dividing line only
+
+Example 4
+Driving to the right of the centre of the road not permitted - overtaking on a road with a single continuous dividing line to the left of a broken dividing line
+
+Example 5
+Driving to the right of the centre of the road not permitted-overtaking on a road with 2 parallel continuous dividing lines
+
+135	Keeping to left of median strip
+	(1)	A driver on a road with a median strip must drive to the left of the median strip, unless the driver is-
+	(a)	entering or driving in a median strip parking area; or
+	(b)	required to drive to the right of the median strip by a keep right sign.
+Maximum penalty:  20 penalty units.
+	(2)	In this section:
+median strip does not include a painted island.
+136	Driving on one-way service road
+A driver on the part of the road that is a service road (except a service road to which a two-way sign applies) must drive in the same direction as a vehicle travelling on the part of the road closest to the service road is required to travel.
+Maximum penalty:  20 penalty units.
+137	Keeping off dividing strip
+	(1)	A driver must not drive on a dividing strip, except as permitted under this section or section 139 (4) (Exceptions for avoiding obstruction on road).
+Maximum penalty:  20 penalty units.
+	(2)	A driver may drive on a dividing strip that is at the same level as the road, and marked at each side by a continuous line-
+	(a)	to enter or leave the road; or
+	(b)	to enter or leave an area on the dividing strip to which a parking control sign applies if the driver is permitted to park in the area.
+	(2A)	For subsection (2), a dividing strip is to be treated as being at the same level as the road even if it contains 1 or more raised pavement bars or markers.
+	(3)	In this section:
+dividing strip does not include a painted island.
+138	Keeping off painted island
+	(1)	A driver must not drive on or over a single continuous line, or 2 parallel continuous lines, along a side of or surrounding a painted island, except as permitted under this section or section 139 (4).
+Maximum penalty:  20 penalty units.
+Example
+Painted island surrounded by 2 parallel continuous lines
+
+In this example, vehicle B is contravening the section.
+	(2)	A driver may drive on or over a single continuous line along the side of or surrounding a painted island for up to 50m-
+	(a)	to enter or leave the road; or
+	(b)	to enter a turning lane that begins immediately after the painted island; or
+	(c)	to enter a part of the road of 1 kind from a part of the road of another kind (for example, moving to or from a service road or emergency stopping lane); or
+	(d)	to park in angle parking on the opposite side of the road provided that the driver does not need to perform a U-turn to reach the parking area.
+	(3)	Subsection (2) (a) does not apply in the case of a painted island-
+	(a)	that separates a road that takes vehicles in 1 direction from another road that takes vehicles in the same direction at a place where the roads merge; or
+	(b)	that separates 1 part of a road from other parts of the road to create a slip lane.
+Example 1
+
+In this example, vehicle B is contravening the section.
+Example 2
+
+In this example, vehicle B is contravening the section.
+139	Exceptions for avoiding obstruction on road
+	(1)	A driver on a two-way road without a dividing line or median strip may drive to the right of the centre of the road to avoid an obstruction if-
+	(a)	the driver has a clear view of any approaching traffic; and
+	(b)	it is necessary and reasonable, in all the circumstances, for the driver to drive to the right of the centre of the road to avoid the obstruction; and
+	(c)	the driver can do so safely.
+	(2)	A driver on a road with a dividing line may drive to the right of the dividing line to avoid an obstruction if-
+	(a)	the driver has a clear view of any approaching traffic; and
+	(b)	it is necessary and reasonable, in all the circumstances, for the driver to drive to the right of the dividing line to avoid the obstruction; and
+	(c)	the driver can do so safely.
+	(3)	For subsection (2), if the dividing line is a single continuous dividing line to the left of a broken dividing line, a single continuous dividing line only or 2 parallel continuous dividing lines, the hazard in driving to the right of such a dividing line must be taken into account in deciding whether it is reasonable to drive to the right of the dividing line.
+	(4)	A driver may drive on a dividing strip, or on or over a single continuous line, or 2 parallel continuous lines, along a side of or surrounding a painted island, to avoid an obstruction if-
+	(a)	the driver has a clear view of any approaching traffic; and
+	(b)	it is necessary and reasonable to drive on the dividing strip or painted island to avoid the obstruction; and
+	(c)	the driver can do so safely.
+Division 11.3	Overtaking
+140	No overtaking unless safe to do so
+A driver must not overtake a vehicle unless-
+	(a)	the driver has a clear view of any approaching traffic; and
+	(b)	the driver can safely overtake the vehicle.
+Maximum penalty:  20 penalty units.
+141	No overtaking etc to left of vehicle
+	(1)	A driver (except the rider of a bicycle) must not overtake a vehicle to the left of the vehicle unless-
+	(a)	the driver is driving on a multi-lane road and the vehicle can be safely overtaken in a marked lane to the left of the vehicle; or
+	(b)	the vehicle is turning right, or making a U-turn from the centre of the road, and is giving a right change of direction signal and it is safe to overtake to the left of the vehicle; or
+	(c)	the vehicle is stationary and it is safe to overtake to the left of the vehicle; or
+	(d)	the driver is lane filtering in accordance with section 151A.
+Maximum penalty:  20 penalty units.
+	(2)	The rider of a bicycle must not ride past, or overtake, to the left of a vehicle that is turning left and is giving a left change of direction signal.
+Maximum penalty:  20 penalty units.
+	(3)	In this section:
+turning right does not include making a hook turn.
+vehicle does not include a tram, a bus travelling along tram tracks, or any vehicle displaying a do not overtake turning vehicle sign.
+142	No overtaking to right of vehicle turning right etc
+	(1)	A driver must not overtake to the right of a vehicle if the vehicle is turning right, or making a U-turn from the centre of the road, and is giving a right change of direction signal.
+Maximum penalty:  20 penalty units.
+	(2)	In this section:
+turning right does not include making a hook turn.
+vehicle does not include a tram, a bus travelling along tram tracks, or any vehicle displaying a do not overtake turning vehicle sign.
+143	Passing or overtaking vehicle displaying do not overtake turning vehicle sign
+	(1)	A driver must not drive past, or overtake, to the left of a vehicle displaying a do not overtake turning vehicle sign if the vehicle is turning left and is giving a left change of direction signal, unless it is safe to do so.
+Maximum penalty:  20 penalty units.
+	(1A)	A driver must not drive past, or overtake, to the left of a vehicle displaying a do not overtake turning vehicle sign unless-
+	(a)	the driver is driving on a multi-lane road and the vehicle can be safely overtaken in a marked lane to the left of the vehicle; or
+	(b)	the vehicle is turning right, or making a U-turn from the centre of the road, and is giving a right change of direction signal and it is safe to overtake to the left of the vehicle; or
+	(c)	the vehicle is stationary and it is safe to overtake to the left of the vehicle.
+Maximum penalty:  20 penalty units.
+	(2)	A driver must not drive past, or overtake, to the right of a vehicle displaying a do not overtake turning vehicle sign if the vehicle is turning right, or making a U-turn from the centre of the road, and is giving a right change of direction signal, unless it is safe to do so.
+Maximum penalty:  20 penalty units.
+Example
+A driver driving on a multi-lane road who is turning right at an intersection to which a right turn only sign applies may drive past a vehicle displaying a do not overtake turning vehicle sign that is turning right from another marked lane, and giving a right change of direction signal, if it is safe to do so.
+	(3)	In this section:
+turning right does not include making a hook turn.
+144	Keeping safe distance when overtaking
+A driver overtaking a vehicle-
+	(a)	must pass the vehicle at a sufficient distance to avoid a collision with the vehicle or obstructing the path of the vehicle; and
+	(b)	must not return to the marked lane or line of traffic where the vehicle is travelling until the driver is a sufficient distance past the vehicle to avoid a collision with the vehicle or obstructing the path of the vehicle.
+Maximum penalty:  20 penalty units.
+145	Driver being overtaken not to increase speed
+If a driver is overtaking another driver on a two-way road by crossing a dividing line, or crossing to the right of the centre of the road, the other driver must not increase the speed at which the driver is driving until the first driver-
+	(a)	has passed the other driver; and
+	(b)	has returned to the marked lane or line of traffic where the other driver is driving; and
+	(c)	is a sufficient distance in front of the other driver to avoid a collision.
+Maximum penalty:  20 penalty units.
+Division 11.4	Driving in marked lanes or lines of traffic
+146	Driving within single marked lane or line of traffic
+	(1)	A driver on a multi-lane road must drive so the driver's vehicle is completely in a marked lane, unless the driver is-
+	(a)	entering a part of the road of 1 kind from a part of the road of another kind (for example, moving to or from a service road or a shoulder of the road); or
+	(b)	entering or leaving the road; or
+	(c)	moving from 1 marked lane to another marked lane; or
+	(d)	avoiding an obstruction; or
+	(e)	obeying a traffic control device applying to the marked lane; or
+	(ea)	lane filtering in accordance with section 151A; or
+	(f)	permitted to drive in more than 1 marked lane under another provision of this regulation.
+Maximum penalty:  20 penalty units.
+	(2)	A driver on a road with 2 or more lines of traffic travelling in the same direction as the driver, but without marked lanes, must drive so the driver's vehicle is completely in a single line of traffic unless-
+	(a)	it is not practicable to drive completely in a single line of traffic; or
+	(b)	the driver is entering a part of the road of 1 kind from a part of the road of another kind (for example, moving to or from a service road or a shoulder of the road); or
+	(c)	the driver is entering or leaving the road; or
+	(d)	the driver is moving from 1 line of traffic to another line of traffic; or
+	(e)	the driver is avoiding an obstruction; or
+	(f)	the driver is lane filtering in accordance with section 151A.
+Maximum penalty:  20 penalty units.
+147	Moving from 1 marked lane to another marked lane across continuous line separating lanes
+A driver on a multi-lane road must not move from 1 marked lane to another marked lane by crossing a continuous line separating the lanes unless-
+	(a)	the driver is avoiding an obstruction; or
+	(b)	the driver is obeying a traffic control device applying to the first marked lane; or
+	(c)	the driver is permitted to drive in both marked lanes under another provision of this regulation; or
+	(d)	either of the marked lanes is a special purpose lane in which the driver is permitted to drive under this regulation and the driver is moving to or from the special purpose lane; or
+	(e)	either of the marked lanes is a special purpose lane during specified times only and the driver-
+	(i)	is moving to or from that lane outside of the times during which it is a special purpose lane; and
+	(ii)	is permitted to drive in that lane outside of the times during which it is a special purpose lane under this regulation; or
+	(f)	the driver is lane filtering in accordance with section 151A.
+Maximum penalty:  20 penalty units.
+148	Giving way when moving from 1 marked lane or line of traffic to another marked lane or line of traffic
+	(1)	A driver who is moving from 1 marked lane (whether or not the lane is ending) to another marked lane must give way to any vehicle travelling in the same direction as the driver in the marked lane to which the driver is moving.
+Maximum penalty:  20 penalty units.
+Example 1
+Giving way when moving from 1 marked lane to another marked lane
+
+In this example, vehicle B must give way to vehicle A.
+Example 2
+Giving way when moving from 1 marked lane to another marked lane
+
+In this example, vehicle B must give way to vehicle A.
+	(2)	A driver on a road with 2 or more lines of traffic travelling in the same direction as the driver, and who is moving from 1 line of traffic to another line of traffic, must give way to any vehicle travelling in the same direction as the driver in the line of traffic to which the driver is moving.
+Maximum penalty:  20 penalty units.
+	(3)	Subsection (2) does not apply to a driver if the line of traffic in which the driver is driving is merging with the line of traffic to which the driver is moving.
+Example
+Giving way when moving from 1 line of traffic to another line of traffic when the lines are not merging
+
+In this example, vehicle B must give way to vehicle A
+148A	Giving way when moving within single marked lane
+If a driver diverges to the left or right within a marked lane, the driver must give way to any vehicle that is in the lane.
+Maximum penalty:  20 penalty units.
+149	Giving way when lines of traffic merge into single line of traffic
+A driver in a line of traffic that is merging with 1 or more lines of traffic travelling in the same direction as the driver must give way to a vehicle in another line of traffic if any part of the vehicle is ahead of the driver's vehicle.
+Maximum penalty:  20 penalty units.
+Example
+Giving way when lines of traffic merge into a single line of traffic
+
+In this example, vehicle B must give way to vehicle A.
+150	Driving on or across continuous white edge line
+	(1)	A driver must not drive on or over a continuous white edge line on a road unless subsection (1A) or (1B) applies to the driver.
+Maximum penalty:  20 penalty units.
+	(1A)	A driver may drive on or over a continuous white edge line on a road if the driver is-
+	(a)	overtaking a vehicle that is turning right, or making a U-turn from the centre of the road, and is giving a right change of direction signal; or
+	(b)	driving a slow-moving vehicle, and it is necessary for the driver to drive on or over the edge line to allow the vehicle to be overtaken or passed by another vehicle; or
+	(c)	driving a vehicle that is too wide, or too long, to drive on the road without driving on or over the edge line; or
+	(d)	avoiding an obstruction.
+	(1B)	A driver may drive on or over a continuous white edge line on a road for up to 100m if the driver is-
+	(a)	turning at an intersection; or
+	(b)	entering or leaving the road; or
+	(c)	entering a part of the road of 1 kind from a part of the road of another kind (for example, moving to or from a service road, a shoulder of the road or an emergency stopping lane); or
+	(d)	stopping at the side of the road (including any shoulder of the road).
+	(2)	This section does not apply to the rider of a bicycle or animal.
+	(3)	For this section, a driver drives over a continuous white edge line on a road if-
+	(a)	for a line on the far left side of the road-the driver's vehicle is wholly or partly to the left of the line; or
+	(b)	for a line on the far right side of the road-the driver's vehicle is wholly or partly to the right of the line.
+151	Riding motorbike or bicycle alongside more than 1 other rider
+	(1)	The rider of a motorbike or bicycle must not ride on a road that is not a multi-lane road alongside more than 1 other rider, unless subsection (3) applies to the rider.
+Maximum penalty:  20 penalty units.
+	(2)	The rider of a motorbike or bicycle must not ride in a marked lane alongside more than 1 other rider in the marked lane, unless subsection (3) applies to the rider.
+Maximum penalty:  20 penalty units.
+	(3)	The rider of a motorbike or bicycle may ride alongside more than 1 other rider if the rider is-
+	(a)	overtaking the other riders; or
+	(b)	taking part in an event approved by the road transport authority for this subsection.
+	(4)	If the rider of a motorbike or bicycle is riding on a road that is not a multi-lane road alongside another rider, or in a marked lane alongside another rider in the marked lane, the rider must ride not over 1.5m from the other rider.
+Maximum penalty:  20 penalty units.
+	(5)	In this section:
+road does not include a road related area, but includes a bicycle path, shared path and any shoulder of the road.
+151A	Motorbike lane filtering
+	(1)	The following sections do not apply to a motorbike rider who is lane filtering:
+	(a)	section 46 (Giving left change of direction signal);
+	(b)	section 48 (Giving right change of direction signal);
+	(c)	section 141 (No overtaking etc to left of vehicle);
+	(d)	section 146 (Driving within single marked lane or line of traffic);
+	(e)	section 147 (Moving from 1 marked lane to another marked lane across continuous line separating lanes).
+	(2)	However, the exemption in subsection (1) applies only if-
+	(a)	the motorbike rider holds a full motorcycle licence; and
+	(b)	the motorbike is travelling at less than 30km/h; and
+	(c)	the vehicles adjacent to the motorbike are travelling at a speed less than the motorbike; and
+	(ca)	the motorbike is travelling on a road on which the speed limit is more than 40km/h; and
+	(d)	the motorbike is not in a school zone; and
+	(e)	the motorbike is not travelling past a parked vehicle; and
+	(f)	the motorbike is not travelling in a bicycle lane; and
+	(fa)	a no filtering sign does not apply to the length of road; and
+	(g)	it is safe for the motorbike rider to lane filter.
+Examples-where it would not be safe for a motorbike rider to lane filter
+1	the rider is proceeding through a roundabout
+2	the rider is riding kerbside
+3	the rider is crossing a children's crossing or pedestrian crossing
+4	the rider lane filters between vehicles in a manner that does not seek to avoid collisions (including lane filtering between vehicles where there is insufficient clearance)
+5	the lane filtering occurs past a bus or heavy vehicle
+	(3)	For subsection 151A (2) (fa), a no filtering sign on a road applies to a length of road starting at the sign and ending at the nearer of the following:
+	(a)	if the length of road ends at a T-intersection or dead end-the end of the length of road;
+	(b)	the next end no filtering sign that is on the road.
+	(4)	The rider of a motorbike must not lane filter along a length of road to which a no lane filtering sign applies.  
+Maximum penalty:  20 penalty units. 
+	(5)	In this section:
+end no filtering sign means a traffic sign-
+	(a)	with a symbol displaying a motorbike positioned between 2 vehicles with a black diagonal line across the symbol; and
+	(b)	with a symbol positioned below the symbol mentioned in paragraph (a) displaying the word 'END' in black letters.
+full licence-see the Road Transport (Driver Licensing) Regulation 2000, section 5 (2) (Basic kinds of driver licence).
+lane filtering, for a motorbike rider, means riding a motorbike between 2 marked lanes of traffic travelling in the same direction as the motorbike when there are vehicles adjacent to the motorbike in both marked lanes.
+motorcycle licence-see the Road Transport (Driver Licensing) Regulation 2000, dictionary.
+no filtering sign means-
+	(a)	a traffic sign with a symbol displaying a motorbike positioned between 2 vehicles with a red diagonal line across the symbol; or
+	(b)	a traffic sign displaying the word 'no filtering'.
+Division 11.5	Obeying overhead lane control devices applying to marked lanes
+152	Complying with overhead lane control device
+	(1)	A driver in a marked lane to which an overhead lane control device applies must comply with this section.
+Maximum penalty:  20 penalty units.
+	(2)	If the device displays an illuminated red diagonal cross or is a traffic sign displaying a red diagonal cross, the driver must not drive in the marked lane past the device.
+	(3)	If the device displays a flashing illuminated red diagonal cross, the driver must leave the marked lane as soon as it is safe to do so.
+	(4)	If the device displays an illuminated white, green or yellow arrow pointing downwards or indicating 1 or more directions, the driver may drive in the marked lane past the device.
+Example
+Overhead lane control device applying to marked lanes
+
+Division 11.6	Driving in marked lanes designated for special purposes
+153	Bicycle lane
+	(1)	A driver (except the rider of a bicycle) must not drive in a bicycle lane, unless the driver is permitted to drive in the bicycle lane under this section or section 158 (Exceptions to driving in special purpose lane etc).
+Maximum penalty:  20 penalty units.
+	(2)	If stopping or parking is permitted at a place in a bicycle lane under this regulation, a driver may drive for up to 50m in the bicycle lane to stop or park at that place.
+	(3)	A driver may drive for up to 50m in a bicycle lane if the driver is-
+	(a)	driving a public bus, public minibus, taxi, rideshare vehicle or hire car; and
+	(b)	dropping off or picking up passengers.
+	(4)	In this regulation:
+bicycle lane means a marked lane, or the part of a marked lane-
+	(a)	beginning at a bicycle lane sign applying to the lane, or a road marking comprising both a white bicycle symbol and the word lane painted in white; and
+	(b)	ending at the nearest of the following:
+	(i)	an end bicycle lane sign applying to the lane, or a road marking comprising both a white bicycle symbol and the words end lane painted in white;
+	(ii)	an intersection (unless the lane is at the unbroken side of the continuing road at a T-intersection or continued across the intersection by broken lines);
+	(iii)	if the road ends at a dead end-the end of the road.
+154	Bus lane
+	(1)	A driver (except the driver of a public bus) must not drive in a bus lane, unless the driver is permitted to drive in the bus lane under section 158 (Exceptions to driving in special purpose lane etc).
+Maximum penalty:  20 penalty units.
+	(2)	In this regulation:
+bus lane means a marked lane, or the part of a marked lane-
+	(a)	beginning at a bus lane sign (whether or not there is also a bus lane road marking) and ending at the nearest of the following:
+	(i)	an end bus lane sign;
+	(ii)	a traffic sign that indicates the beginning of another special purpose lane; or
+	(b)	beginning at a bus lane road marking (if there is no bus lane sign) and ending at the next intersection.
+	(3)	In this section:
+bus lane road marking means a road marking consisting of-
+	(a)	the letters 'BL'; or
+	(b)	the words 'bus lane'; or
+	(c)	the words 'bus only'.
+155	Tram lane
+	(1)	A driver (except the driver of a tram, tram recovery vehicle or public bus) must not drive in a tram lane, unless the driver is permitted to drive in the tram lane under this section or section 158 (Exceptions to driving in special purpose lane etc).
+Maximum penalty:  20 penalty units.
+	(2)	A driver may drive in a tram lane if the driver is driving a truck and it is necessary for the driver to drive in the tram lane to reach a place to drop off or pick up passengers or goods.
+	(3)	In this regulation:
+tram lane means a part of a road with tram tracks that-
+	(a)	is between a tram lane sign and an end tram lane sign; and
+	(b)	is marked along the left side of the tracks (when facing the direction of travel of a tram on the tracks) by a continuous yellow line parallel to the tracks.
+Example
+Tram lane
+
+155A	Tramway
+	(1)	A driver (except the driver of a tram, tram recovery vehicle or public bus) must not drive in a tramway, unless the driver is permitted to drive in the tramway under subsection (2).
+Maximum penalty:  20 penalty units.
+	(2)	A driver may drive in a tramway if-
+	(a)	it is necessary for the driver to drive in the tramway to avoid an obstruction; and
+	(b)	when driving in the tramway, the driver does not move into the path of an approaching tram or public bus travelling in the tramway.
+	(3)	In this regulation:
+tramway means a part of a road with tram tracks that-
+	(a)	is between a tramway sign and an end tramway sign; and
+	(b)	is marked along the left side of the tracks (when facing the direction of travel of a tram on the tracks) by either-
+	(i)	2 continuous yellow lines parallel to the tracks; or
+	(ii)	a structure (for example, a dividing strip, pedestrian refuge, traffic island, row of bollards or separation kerb), whether or not the structure is also being used to indicate a safety zone;
+but does include any part of the road where vehicles are permitted to cross the tramway.
+	(4)	For subsection (3) (b) (i), a line is to be considered to be continuous despite any break in it that is designed to permit vehicles to cross the tramway.
+Example 1
+Tramway with double yellow line
+
+Example 2
+Tramway with separation kerb
+
+156	Transit lane
+	(1)	A driver must not drive in a transit lane unless-
+	(a)	the driver is driving-
+	(i)	a public bus, public minibus, motorbike, taxi, hire car or tram; or
+	(ii)	if the transit lane sign applying to the transit lane is a transit lane (T2) sign-a vehicle carrying at least 1 other person; or
+	(iii)	if the transit lane sign applying to the transit lane is a transit lane (T3) sign-a vehicle carrying at least 2 other people; or
+	(b)	the driver is permitted to drive in the transit lane under section 158 (Exceptions to driving in special purpose lane etc).
+Maximum penalty:  20 penalty units.
+	(2)	In this regulation:
+transit lane means a marked lane, or the part of a marked lane-
+	(a)	beginning at a transit lane sign; and
+	(b)	ending at an end transit lane sign.
+157	Truck lane
+	(1)	A driver (except the driver of a truck) must not drive in a truck lane, unless the driver is permitted to drive in the truck lane under section 158.
+Maximum penalty:  20 penalty units.
+	(2)	In this regulation:
+truck lane means a marked lane, or the part of a marked lane-
+	(a)	beginning at a truck lane sign; and
+	(b)	ending at an end truck lane sign.
+158	Exceptions to driving in special purpose lane etc
+	(1)	The driver of any vehicle may drive for up to the permitted distance in a bicycle lane, bus lane, tram lane, transit lane or truck lane if it is necessary for the driver to drive in the lane-
+	(a)	to enter or leave the road; or
+	(b)	to enter a part of the road of 1 kind from a part of the road of another kind (for example, moving to or from a service road, the shoulder of the road or an emergency stopping lane); or
+	(c)	to overtake a vehicle that is turning right, or making a U-turn from the centre of the road, and is giving a right change of direction signal; or
+	(d)	to enter a marked lane, or part of the road where there is room for a line of traffic (other than motorbikes, bicycles, motorised wheelchairs or animals), from the side of the road.
+	(2)	The driver of any vehicle may drive in a bicycle lane, bus lane, tram lane, transit lane or truck lane if-
+	(a)	it is necessary for the driver to drive in the lane to avoid an obstruction; or
+	(b)	information on or with a traffic sign applying to the lane indicates that the driver may drive in the lane.
+	(2A)	The driver of any of the following vehicles may drive in a bus lane:
+	(a)	a taxi;
+	(b)	a hire car;
+	(c)	a demand responsive service vehicle;
+	(d)	a motorbike.
+	(3)	It is a defence to the prosecution of a driver for an offence against a provision of this division for driving in a bicycle lane, bus lane, tram lane, transit lane or truck lane if-
+	(a)	it is necessary for the driver to drive in the lane to stop at a place in the lane; and
+	(b)	the driver is permitted to stop at that place under this regulation, or it is a defence under section 165 (Stopping in emergency etc or to comply with another provision) for the driver to stop at that place; and
+	(c)	if the lane is a bicycle lane-the driver drives in the lane for no more than the permitted distance.
+	(4)	In this section:
+permitted distance means-
+	(a)	for a bicycle lane or tram lane-50m; or
+	(b)	for any other lane-100m.
+159	Marked lane required to be used by particular kind of vehicle
+	(1)	If information on or with a traffic sign applying to a length of road indicates that a vehicle of a particular kind must drive in a particular marked lane, a driver driving a vehicle of that kind on the length of road must drive in the indicated lane, unless the driver is-
+	(a)	avoiding an obstruction; or
+	(b)	obeying a traffic control device applying to the indicated lane; or
+	(c)	permitted to drive in the indicated lane and also another marked lane under another provision of this regulation; or
+	(d)	intending to turn off the road or to make a U-turn, and in order to do so safely without disrupting other vehicles on the road it is necessary to position the vehicle in another lane before starting the turn, or to make the turn.
+Maximum penalty:  20 penalty units.
+	(2)	A traffic sign mentioned in this section that is on a road applies to the length of road beginning at the sign and ending at the nearest of the following:
+	(a)	a traffic sign or road marking on the road that indicates that the first traffic sign no longer applies;
+	(b)	the next intersection on the road;
+	(c)	if the road ends at a T-intersection or dead end-the end of the road.
+Examples-traffic sign mentioned in the section and a traffic sign indicating that the first traffic sign no longer applies
+Trucks use left lane sign
+End trucks use left lane sign
+
+
+
+Division 11.7	Passing trams and safety zones
+160	Passing or overtaking tram that is not at or near left side of road
+	(1)	This section applies to a driver driving on a road with tram tracks that are not at or near the far left side of the road.
+	(2)	The driver must not drive past, or overtake, a tram to the right of the tram, unless the driver is permitted to do so by a traffic sign or road marking.
+Maximum penalty:  20 penalty units.
+	(3)	The driver must not drive past, or overtake, a tram if the tram is turning left or is giving a left change of direction signal, unless the driver is turning left and there is no danger of a collision with the tram.
+Maximum penalty:  20 penalty units.
+	(4)	In this section:
+tram includes a bus travelling along tram tracks.
+161	Passing or overtaking tram at or near left side of road
+	(1)	This section applies to a driver driving on a road with tram tracks at or near the far left side of the road.
+	(2)	The driver must not drive past, or overtake, a tram to the left of the tram unless the driver is turning left and there is no danger of a collision with the tram.
+Maximum penalty:  20 penalty units.
+	(3)	The driver must not drive past, or overtake, a tram if the tram is turning right or is giving a right change of direction signal.
+Maximum penalty:  20 penalty units.
+	(4)	In this section:
+tram includes a bus travelling along tram tracks.
+162	Driving past safety zone
+	(1)	A driver driving past a safety zone-
+	(a)	must not drive on the safety zone; and
+	(b)	must drive to the left of the safety zone at a speed that does not put at risk the safety of any pedestrian crossing the road to or from the safety zone.
+Maximum penalty:  20 penalty units.
+	(2)	In this regulation:
+safety zone means an area of a road-
+	(a)	at a place with safety zone signs at or near a tram stop; and
+	(b)	indicated by a structure on the road (for example, a dividing strip, pedestrian refuge or traffic island).
+163	Driving past rear of stopped tram at tram stop
+	(1)	A driver must comply with this section if-
+	(a)	the driver is driving behind the rear of a tram travelling in the same direction as the driver; and
+	(b)	the tram stops at a tram stop, except at the far left side of the road; and
+	(c)	there is no safety zone, dividing strip or traffic island between the tram and the part of the road where the driver is driving.
+Maximum penalty:  20 penalty units.
+	(2)	The driver must stop before passing the rear of the tram.
+	(3)	After stopping in accordance with subsection (2), the driver must not proceed if-
+	(a)	1 or more of the doors on the side of the tram closest to the driver are open or opening; or
+	(b)	a pedestrian is entering or crossing the road between the tram tracks and the far left side of the road.
+	(4)	After stopping in accordance with subsection (2), if the tram remains at the tram stop and subsection (3) does not apply, the driver must not proceed past the tram at a speed greater than 10km/h.
+	(5)	However, subsections (2) to (4) do not apply if the driver is directed to drive past the tram by an authorised person or police officer.
+	(6)	In this section:
+tram includes a bus travelling along tram tracks.
+164	Stopping beside stopped tram at tram stop
+	(1)	A driver must comply with this section if-
+	(a)	the driver is driving alongside, or overtaking, a tram travelling in the same direction as the driver; and
+	(b)	the tram stops at a tram stop, except at the far left side of the road; and
+	(c)	there is no safety zone, dividing strip or traffic island between the tram and the part of the road where the driver is driving.
+Maximum penalty:  20 penalty units.
+	(2)	The driver must stop.
+	(3)	After stopping in accordance with subsection (2), the driver must not proceed if-
+	(a)	1 or more of the doors on the side of the tram closest to the driver are open or opening; or
+	(b)	a pedestrian is entering or crossing the road between the tram tracks and the far left side of the road.
+	(4)	After stopping in accordance with subsection (2), if the tram remains at the tram stop and subsection (3) does not apply, the driver must not proceed past the tram at a speed greater than 10km/h.
+	(5)	However, subsections (2) to (4) do not apply if the driver is directed to drive past the tram by an authorised person or police officer.
+	(6)	In this section:
+tram includes a bus travelling along tram tracks.
+164A	Staying stopped if tram comes from behind stopped driver and stops
+	(1)	A driver must comply with this section if-
+	(a)	the driver is stopped beside a tram stop; and
+	(b)	a tram stops at the tram stop, except at the far left side of the road; and
+	(c)	there is no safety zone, dividing strip or traffic island between the tram and the part of the road where the driver is driving.
+Maximum penalty:  20 penalty units.
+	(2)	The driver must not proceed if-
+	(a)	1 or more of the doors on the side of the tram closest to the driver are open or opening; or
+	(b)	a pedestrian is entering or crossing the road between the tram tracks and the far left side of the road.
+	(3)	If the tram remains at the tram stop and subsection (2) does not apply, the driver must not proceed past the tram at a speed greater than 10km/h.
+	(4)	However, subsections (2) and (3) do not apply if the driver is directed to proceed past the tram by an authorised person or police officer.
+	(5)	In this section:
+tram includes a bus travelling along tram tracks.
+Division 11.8	Motor vehicles passing bicycle riders
+164B	Keeping safe lateral distance when passing bicycle rider
+	(1)	The driver of a motor vehicle passing the rider of a bicycle that is travelling in the same direction as the driver must pass the bicycle at a sufficient distance from-
+	(a)	the bicycle; or
+	(b)	if the rider is riding alongside another rider-the bicycle furthest to the right.
+Maximum penalty:  20 penalty units.
+	(2)	This section does not apply to a driver of a light rail vehicle.
+	(3)	For this section-
+	(a)	a driver passes a bicycle at a sufficient distance from the bicycle if the driver passes at a lateral distance from the bicycle of-
+	(i)	if the applicable speed limit at the point the driver passes the bicycle is not more than 60km/h-at least 1m; or
+	(ii)	if the applicable speed limit at the point the driver passes the bicycle is more than 60km/h-at least 1.5m; and
+	(b)	the lateral distance between a motor vehicle passing a bicycle and the bicycle is the distance between-
+	(i)	the most distant point to the left-
+	(A)	on the driver's vehicle; or
+	(B)	on any projection from the vehicle (whether or not attached to the vehicle); and
+	(ii)	the most distant point to the right-
+	(A)	on the bicycle (or any part of the bicycle); or
+	(B)	on the rider of the bicycle; or
+	(C)	on any bicycle trailer towed by the bicycle; or
+	(D)	on any passenger in or on any bicycle trailer.
+Examples-part of a bicycle
+basket, pannier bags
+Example-not part of a bicycle
+a flag or stick, whether or not flexible, attached to the bicycle, that projects sideways from the bicycle
+164C	Exceptions-passing bicycle rider
+	(1)	The driver of a motor vehicle passing the rider of a bicycle that is travelling in the same direction as the driver may make a permitted manoeuvre to pass the rider if-
+	(a)	the driver has a clear view of any approaching traffic; and
+	(b)	the permitted manoeuvre is necessary to comply with section 164B; and
+	(c)	the driver can do so safely.
+	(2)	In this section:
+permitted manoeuvre means-
+	(a)	if the driver is driving on a two-way road without a dividing line or median strip-drive to the right of the centre of the road; or
+	(b)	if the driver is driving on a road with a dividing line-drive to the right of the dividing line; or
+	(c)	drive on a dividing strip that is at the same level as the road; or
+	(d)	drive on or over a single continuous line; or
+	(e)	drive on or over 2 parallel lines; or
+	(f)	drive along a side, or surrounding, of a painted island.
+
+
+Part 12	Restrictions on stopping and parking
+Division 12.1	General
+165	Stopping in emergency etc or to comply with another provision
+It is a defence to the prosecution of a driver for an offence against a provision of this part if-
+	(a)	the driver stops at a particular place, or in a particular way, to avoid a collision, and the driver stops for no longer than is necessary to avoid the collision; or
+	(b)	the driver stops at a particular place, or in a particular way, because the driver's vehicle is disabled, and the driver stops for no longer than is necessary for the vehicle to be moved safely to a place where the driver is permitted to park the vehicle under this regulation; or
+	(c)	the driver stops at a particular place, or in a particular way, to deal with a medical or other emergency, or to assist a disabled vehicle, and the driver stops for no longer than is necessary in the circumstances; or
+	(d)	the driver stops at a particular place, or in a particular way, because the condition of the driver, a passenger, or the driver's vehicle makes it necessary for the driver to stop in the interests of safety, and the driver stops for no longer than is necessary in the circumstances; or
+	(e)	the driver stops at a particular place, or in a particular way, to comply with another provision of this regulation, and the driver stops for no longer than is necessary to comply with the other provision.
+Example-par (e)
+If a driver stops at an intersection at a stop line, stop sign, or traffic lights, or to give way to a vehicle, in accordance with this regulation, the driver does not contravene s 170.
+166	Application-pt 12-bicycles
+This part (other than division 12.12A (Signs attached to vehicles parked in designated place)) does not apply to a bicycle that is parked at a bicycle rail or in a bicycle rack.
+Division 12.2	No stopping and no parking signs and road markings
+167	No stopping sign
+A driver must not stop on a length of road or in an area to which a no stopping sign applies.
+Maximum penalty:  20 penalty units.
+168	No parking sign
+	(1)	The driver of a vehicle must not stop on a length of road or in an area to which a no parking sign applies, unless the driver-
+	(a)	is dropping off or picking up passengers or goods; and
+	(b)	does not leave the vehicle unattended; and
+	(c)	completes the dropping off or picking up of the passengers or goods, and drives on, as soon as possible and, in any case, within the required time after stopping.
+Maximum penalty:  20 penalty units.
+	(2)	For this section, a driver leaves a vehicle unattended if the driver leaves the vehicle so the driver is over 3m from the closest point of the vehicle.
+	(3)	In this section:
+required time means-
+	(a)	if information on or with the sign indicates a time-the indicated time; or
+	(b)	if there is no indicated time-2 minutes; or
+	(c)	if there is no indicated time, or the indicated time is less than 5 minutes, and section 206 (Time extension for people with disabilities) applies to the driver-5 minutes.
+169	No stopping on road with yellow edge line
+A driver must not stop at the side of a road marked with a continuous yellow edge line.
+Maximum penalty:  20 penalty units.
+Division 12.3	Stopping at intersections and crossings
+170	Stopping in or near intersection
+	(1)	A driver must not stop in an intersection unless-
+	(a)	the driver is permitted to stop at that place under this regulation; or
+	(b)	the intersection is a T-intersection without traffic lights and the driver stops along the continuous side of the continuing road at the intersection.
+Maximum penalty:  20 penalty units.
+	(2)	A driver must not stop on a road within 20m from the nearest point of an intersecting road at an intersection with traffic lights, unless the driver stops at a place on a length of road, or in an area, to which a parking control sign applies and the driver is permitted to stop at that place under this regulation.
+Maximum penalty:  20 penalty units.
+	(3)	A driver must not stop on a road within 10m from the nearest point of an intersecting road at an intersection without traffic lights, unless the driver stops-
+	(a)	at a place on a length of road, or in an area, to which a parking control sign applies and the driver is permitted to stop at that place under this regulation; or
+	(b)	if the intersection is a T-intersection-along the continuous side of the continuing road at the intersection.
+Maximum penalty:  20 penalty units.
+	(4)	For this section, distances are measured in the direction in which the driver is driving, and-
+	(a)	for subsection (2)-as shown in example 1; or
+	(b)	for subsection (3)-as shown in example 2.
+	(5)	In this section:
+road does not include a road related area, but includes any shoulder of the road.
+Example 1
+Measurement of distance-intersection with traffic lights
+
+Example 2
+Measurement of distance-T-intersection without traffic lights
+
+171	Stopping on or near children's crossing
+	(1)	A driver must not stop on a children's crossing, or on the road within 20m before the crossing and 10m after the crossing, unless the driver stops at a place on a length of road, or in an area, to which a parking control sign applies and the driver is permitted to stop at that place under this regulation.
+Maximum penalty:  20 penalty units.
+	(2)	For this section, distances are measured-
+	(a)	in the direction in which the driver is driving; and
+	(b)	as shown in example 1 or 2.
+	(3)	In this section:
+road does not include a road related area, but includes any shoulder of the road.
+Example 1
+Measurement of distance-children's crossing with red and white posts
+
+Example 2
+Measurement of distance-children's crossing with 2 parallel continuous or broken lines
+
+172	Stopping on or near pedestrian crossing (except at intersection)
+	(1)	A driver must not stop on a pedestrian crossing that is not at an intersection, or on the road within 20m before the crossing and 10m after the crossing, unless the driver stops at a place on a length of road, or in an area, to which a parking control sign applies and the driver is permitted to stop at that place under this regulation.
+Maximum penalty:  20 penalty units.
+	(2)	For this section, distances are measured-
+	(a)	in the direction in which the driver is driving; and
+	(b)	as shown in the example.
+	(3)	In this section:
+road does not include a road related area, but includes any shoulder of the road.
+Example
+Measurement of distance-pedestrian crossing
+
+173	Stopping on or near marked foot crossing (except at intersection)
+	(1)	A driver must not stop on a marked foot crossing that is not at an intersection, or on the road within 10m before the traffic lights pole nearest to the driver at the crossing and 3m after the crossing, unless the driver stops at a place on a length of road, or in an area, to which a parking control sign applies and the driver is permitted to stop at that place under this regulation.
+Maximum penalty:  20 penalty units.
+	(2)	For this section, distances are measured-
+	(a)	in the direction in which the driver is driving; and
+	(b)	as shown in the example.
+	(3)	In this section:
+road does not include a road related area, but includes any shoulder of the road.
+Example
+Measurement of distance-marked foot crossing
+
+174	Stopping at or near bicycle crossing lights (except at intersection)
+	(1)	This section applies to a place on a road-
+	(a)	with bicycle crossing lights facing bicycle riders crossing the road; and
+	(b)	with traffic lights facing traffic travelling on the road; and
+	(c)	that is not at an intersection.
+	(2)	A driver must not stop within 10m before the traffic lights nearest to the driver at the place, and 3m after the traffic lights, unless the driver stops at a place on a length of road, or in an area, to which a parking control sign applies and the driver is permitted to stop at that place under this regulation.
+Maximum penalty:  20 penalty units.
+	(3)	For this section, distances are measured-
+	(a)	in the direction in which the driver is driving; and
+	(b)	as shown in the example.
+	(4)	In this section:
+road does not include a road related area, but includes any shoulder of the road.
+Example
+Measurement of distance-bicycle crossing lights
+
+175	Stopping on or near level crossing
+	(1)	A driver must not stop on a level crossing, or on a road within 20m before the nearest rail or track to the driver approaching the crossing and 20m after the nearest rail or track to the driver leaving the crossing, unless the driver stops at a place on a length of road, or in an area, to which a parking control sign applies and the driver is permitted to stop at that place under this regulation.
+Maximum penalty:  20 penalty units.
+	(2)	For this section, distances are measured as shown in the example.
+	(3)	In this section:
+road does not include a road related area, but includes any shoulder of the road.
+Example
+Measurement of distance-level crossing
+
+Division 12.4	Stopping on clearways and freeways and in emergency stopping lanes
+176	Stopping on clearway
+	(1)	A driver must not stop on a length of road (other than a road related area) to which a clearway sign applies, unless the driver is-
+	(a)	driving a public bus, public minibus, taxi, rideshare vehicle or hire car; and
+	(b)	dropping off or picking up passengers.
+Maximum penalty:  20 penalty units.
+	(2)	A clearway sign applies, for the days or times indicated on the sign, to a length of road beginning at the sign and ending at the nearest of the following:
+	(a)	a clearway sign on the road that indicates different days or times;
+	(b)	an end clearway sign on the road;
+	(c)	the end of the road.
+177	Stopping on freeway
+	(1)	A driver must not stop on a freeway unless the driver stops in an emergency stopping lane.
+Maximum penalty:  20 penalty units.
+	(2)	In this regulation:
+freeway means a length of road to which a freeway sign applies.
+	(3)	A freeway sign on a road applies to a length of road beginning at the sign (including any road into which the length of road merges) and ending at the next end freeway sign on the road.
+178	Stopping in emergency stopping lane
+A driver (except the rider of a bicycle) must not stop in an emergency stopping lane unless-
+	(a)	the condition of the driver, a passenger or the driver's vehicle, or any other factor, makes it necessary or desirable for the driver to stop in the emergency stopping lane in the interests of safety; and
+	(b)	the driver stops for no longer than is necessary in the circumstances.
+Maximum penalty:  20 penalty units.
+Division 12.5	Stopping in zones for particular vehicles
+179	Stopping in loading zone
+	(1)	A driver must not stop in a loading zone unless the driver is driving-
+	(a)	a public bus that is dropping off or picking up passengers; or
+	(b)	a truck that is dropping off or picking up goods; or
+	(c)	a motor vehicle that is built mainly for the transport of goods and is dropping off or picking up goods; or
+	(d)	a vehicle that is displaying a current loading zone permit and is complying with the conditions of the permit; or
+	(e)	a taxi, rideshare vehicle or hire car, and the driver-
+	(i)	is dropping off or picking up passengers; and
+	(ii)	does not leave the vehicle unattended, otherwise than to comply with a passenger assistance requirement.
+Maximum penalty:  20 penalty units.
+	(2)	A driver who is permitted to stop in a loading zone must not stay continuously in the zone for longer than-
+	(a)	30 minutes; or
+	(b)	if information on or with the loading zone signs applying to the loading zone indicates another time-the indicated time; or
+	(c)	for a driver who is permitted to stop in the loading zone under a loading zone permit that provides for a shorter period-that period; or
+	(d)	for the driver of a taxi, rideshare vehicle or hire car permitted to stop in a loading zone under subsection (1) (e)-
+	(i)	2 minutes; or
+	(ii)	if the driver is complying with a passenger assistance requirement-the period necessary to comply with the requirement.
+Maximum penalty:  20 penalty units.
+	(3)	In this regulation:
+loading zone means a length of a road to which a loading zone sign applies.
+	(4)	In this section:
+loading zone permit means a loading zone permit issued under the Road Transport (Safety and Traffic Management) Regulation 2017, section 64 (Parking permits).
+passenger assistance requirement means a requirement under the Road Transport (Public Passenger Services) Regulation 2002, section 132 (5) (which requires a wheelchair-accessible taxi driver to provide reasonable assistance in loading and unloading a wheelchair, or a person in a wheelchair, into or from the taxi).
+unattended-a driver leaves a vehicle unattended if the driver leaves the vehicle so the driver is over 3m from the closest point of the vehicle.
+180	Stopping in truck zone
+	(1)	A driver must not stop in a truck zone unless the driver is driving a truck that is dropping off or picking up goods.
+Maximum penalty:  20 penalty units.
+	(2)	In this regulation:
+truck zone means a length of a road to which a truck zone sign applies.
+181	Stopping in works zone
+	(1)	A driver must not stop in a works zone unless the driver is driving a vehicle that is engaged in construction work in or near the zone.
+Maximum penalty:  20 penalty units.
+	(2)	In this regulation:
+works zone means a length of a road to which a works zone sign applies.
+182	Stopping in taxi zone
+	(1)	A driver must not stop in a taxi zone, unless the driver is driving a taxi.
+Maximum penalty:  20 penalty units.
+	(2)	In this regulation:
+taxi zone means a length of a road to which a taxi zone sign applies.
+183	Stopping in bus zone
+	(1)	A driver must not stop in a bus zone unless the driver is driving a public bus (except a public bus of a kind that is not permitted to stop in the bus zone by information on or with the bus zone sign applying to the bus zone).
+Maximum penalty:  20 penalty units.
+	(2)	However, the driver of a demand responsive service vehicle may stop in a bus zone if-
+	(a)	the driver is dropping off or picking up a passenger; and
+	(b)	the vehicle is authorised to stop in the bus zone under an authority under the Road Transport (Public Passenger Services) Regulation 2002, section 305 (1) (DRS vehicles-bus stop and bus zone authorities).
+	(3)	In this regulation:
+bus zone means a length of a road to which a bus zone sign applies.
+183A	Stopping public bus in bus zone
+	(1)	The driver of a public bus must not stop in a bus zone unless the driver-
+	(a)	is dropping off or picking up passengers; or
+	(b)	is stopping for a regular route service.
+Maximum penalty:  20 penalty units.
+	(2)	Subsection (1) does not apply to the driver of a public bus that is not permitted to stop in the bus zone by information on or with the bus zone sign applying to the bus zone.
+184	Stopping in minibus zone
+	(1)	A driver (except the driver of a public minibus) must not stop in a minibus zone.
+Maximum penalty:  20 penalty units.
+	(2)	In this regulation:
+minibus zone means a length of road to which a minibus zone sign applies.
+185	Stopping in permit zone
+	(1)	A driver must not stop in a permit zone unless the driver's vehicle displays a current permit issued under the Road Transport (Safety and Traffic Management) Regulation 2017, section 64 (Parking permits) that permits the vehicle to stop in the zone
+Maximum penalty:  20 penalty units.
+	(2)	In this regulation:
+permit zone means a length of a road to which a permit zone sign applies.
+186	Stopping in mail zone
+	(1)	A driver must not stop in a mail zone.
+Maximum penalty:  20 penalty units.
+	(2)	This section does not apply to the driver of a postal vehicle.
+	(3)	In this regulation:
+mail zone means a length of a road to which a mail zone sign applies.
+Division 12.6	Other places where stopping is restricted
+187	Stopping in bicycle lane, bus lane, tram lane, tramway, transit lane, truck lane or on tram tracks
+	(1)	A driver must not stop in a bus lane, transit lane or truck lane unless the driver-
+	(a)	is driving a public bus, public minibus, taxi or hire car and is dropping off or picking up passengers; and
+	(b)	is permitted to drive in the lane under this regulation.
+Maximum penalty:  20 penalty units.
+	(2)	A driver must not stop in a bicycle lane unless the driver-
+	(a)	is driving a public bus, public minibus, taxi or hire car; and
+	(b)	is dropping off or picking up passengers; and
+	(c)	is permitted to drive in the lane under this regulation.
+Maximum penalty:  20 penalty units.
+	(3)	A driver (except the driver of a tram, a tram recovery vehicle or a public bus) must not stop in a tram lane, a tramway or on tram tracks.
+Maximum penalty:  20 penalty units.
+188	Stopping in shared zone
+A driver must not stop in a shared zone unless-
+	(a)	the driver stops at a place on a length of road, or in an area, to which a parking control sign applies and the driver is permitted to stop at that place under this regulation; or
+	(b)	the driver stops in a parking bay and the driver is permitted to stop in the parking bay under this regulation; or
+	(c)	the driver is dropping off or picking up passengers or goods; or
+	(d)	the driver is engaged in the door-to-door delivery or collection of goods, or in the collection of waste or garbage.
+Maximum penalty:  20 penalty units.
+189	Double parking
+	(1)	A driver must not stop on a road if to do so would put any part of the vehicle that the driver is driving between a vehicle that is parked on the road and the centre of the road.
+Maximum penalty:  20 penalty units.
+Example 1
+Double parked on a two-way road without a dividing line
+
+In this example, the vehicle marked with an 'X' is stopped in contravention of this section.
+Example 2
+Double parked on two-way road with a centre dividing line
+
+In this example, the vehicle marked with an 'X' is stopped in contravention of this section.
+Example 3
+Double parked on the right side of a one-way road with no vehicles parked on the left side of the road
+
+In this example, the vehicle marked with an 'X' is stopped in contravention of this section.
+Example 4
+Double parked on the left side of a one-way road with other vehicles lawfully parked on the right side of the road
+
+In this example, the vehicle marked with an 'X' is stopped in contravention of this section.
+	(2)	A driver does not contravene this section by parking on the side of the road, or in a median strip parking area, in accordance with section 210 (Angle parking).
+Example
+
+In this example, the angle-parked vehicles are not stopped in contravention of this section.
+	(3)	Also, the rider of a motorbike may stop on the road with part of the motorbike between another motorbike that is parked on the road and the centre of the road if both motorbikes are parked within the same parking bay.
+190	Stopping in or near safety zone
+	(1)	A driver must not stop in a safety zone, or on a road within 10m before or after a safety zone, unless the driver stops at a place on a length of road, or in an area, to which a parking control sign applies and the driver is permitted to stop at that place under this regulation.
+Maximum penalty:  20 penalty units.
+	(2)	For this section, distances are measured-
+	(a)	in the direction in which the driver is driving; and
+	(b)	from the end of the structure; and
+	(c)	as shown in the example.
+	(3)	In this section:
+road does not include a road related area, but includes any shoulder of the road.
+Example
+Measurement of distance-safety zone
+
+In this example, the vehicles marked with an 'X' are stopped in contravention of this section.
+191	Stopping near obstruction
+A driver must not stop on a road near an obstruction on the road in a position that obstructs traffic on the road.
+Maximum penalty:  20 penalty units.
+192	Stopping on bridge or in tunnel etc
+	(1)	A driver must not stop on a bridge, causeway, ramp or similar structure unless-
+	(a)	the road is at least as wide on the structure as it is on each of the approaches; or
+	(b)	the driver stops at a place on a length of road, or in an area, to which a parking control sign applies and the driver is permitted to stop at that place under this regulation.
+Maximum penalty:  20 penalty units.
+	(2)	A driver must not stop in a tunnel or underpass unless-
+	(a)	the road is at least as wide in the tunnel or underpass as it is on each of the approaches; or
+Example
+Stopping on a bridge where the road on the bridge is narrower than on an approach
+
+In this example, the vehicle is stopped in contravention of s (1).
+193	Stopping on crest or curve outside built-up area
+	(1)	A driver must not stop on or near a crest or curve on a length of road that is not in a built-up area unless-
+	(a)	the driver's vehicle is visible for 100m to drivers approaching the vehicle and travelling in the direction of travel of traffic on the same side of the road as the vehicle; or
+	(b)	the driver stops at a place on a length of road, or in an area, to which a parking control sign applies and the driver is permitted to stop at that place under this regulation.
+Maximum penalty:  20 penalty units.
+	(2)	In this section:
+road does not include a road related area, but includes any shoulder of the road.
+194	Stopping near fire hydrant etc
+	(1)	A driver must not stop within 1m of a fire hydrant, fire hydrant indicator, or fire plug indicator, unless-
+	(a)	the driver is driving a public bus, and the driver stops at a bus stop or in a bus zone and does not leave the bus unattended; or
+	(b)	the driver is driving a taxi or hire car, and the driver stops in a taxi zone and does not leave the taxi or hire car unattended; or
+	(c)	the driver is driving a public minibus, and the driver stops in a minibus zone and does not leave the minibus unattended.
+Maximum penalty:  20 penalty units.
+	(2)	For this section, a driver leaves a vehicle unattended if the driver leaves the vehicle so the driver is over 3m from the closest point of the vehicle.
+	(3)	In this section:
+fire hydrant means an upright pipe with a spout, nozzle or other outlet for drawing water from a main or service pipe in case of fire or other emergency.
+Example 1
+Fire hydrant indicators
+		
+Example 2
+Fire plug indicator
+
+195	Stopping at or near bus stop
+	(1)	A driver (except the driver of a public bus) must not stop at a bus stop, or on the road, within 20m before a sign on the road that indicates the bus stop, and 10m after the sign, unless the driver stops at a place on a length of road, or in an area, to which a parking control sign applies and the driver is permitted to stop at that place under this regulation.
+Maximum penalty:  20 penalty units.
+	(1A)	However, the driver of a demand responsive service vehicle may stop at a bus stop, or on the road, within 20m before a sign on the road that indicates the bus stop, and 10m after the sign if-
+	(a)	the driver is dropping off or picking up passengers; and
+	(b)	the vehicle is authorised to stop at the bus stop under an authority under the Road Transport (Public Passenger Services) Regulation 2002, section 305 (1) (DRS vehicles-bus stop and bus zone authorities).
+	(2)	For this section, distances are measured in the direction in which the driver is driving.
+	(3)	In this section:
+authorised to stop, at a bus stop, for a demand responsive service vehicle, means a bus stop that the demand responsive service vehicle is authorised to stop at under an authority under the Road Transport (Public Passenger Services) Regulation 2002, section 305 (1).
+road does not include a road related area, but includes any shoulder of the road.
+195A	Stopping public bus at bus stop
+The driver of a public bus must not stop at a bus stop, or on the road, within 20m before a sign on the road that indicates the bus stop, and 10m after the sign, unless the driver-
+	(a)	stops at a place on a length of road, or in an area, to which a parking control sign applies and the driver is permitted to stop at that place under this regulation; or
+	(b)	is dropping off or picking up passengers; or
+	(c)	is stopping for a regular route service.
+Maximum penalty:  20 penalty units.
+196	Stopping at or near tram stop
+	(1)	A driver (except the driver of a tram, a tram recovery vehicle or a public bus travelling along tram tracks) must not stop at a tram stop or on the road within 20m before a sign that indicates a tram stop, unless-
+	(a)	the driver stops at a place on a length of road, or in an area, to which a parking control sign applies; and
+	(b)	the driver is permitted to stop at that place under this regulation.
+Maximum penalty:  20 penalty units.
+	(2)	For this section, the distance is measured in the direction in which the driver is driving.
+	(3)	In this section:
+road does not include a road related area, but includes any shoulder of the road.
+197	Stopping on path, dividing strip, nature strip, painted island or traffic island
+	(1)	A driver must not stop on a bicycle path, footpath, shared path or dividing strip, or a nature strip adjacent to a length of road in a built-up area, unless-
+	(a)	the driver stops at a place on a length of road, or in an area, to which a parking control sign applies; and
+	(b)	the driver is permitted to stop at that place under this regulation.
+Maximum penalty:  20 penalty units.
+	(1A)	A driver must not stop on a painted island.
+Maximum penalty:  20 penalty units.
+	(1B)	A driver must not stop on a traffic island.
+Maximum penalty:  20 penalty units.
+	(2)	Subsections (1) and (1B) do not apply to the rider of a bicycle or animal.
+198	Obstructing access to and from footpath, driveway etc
+	(1)	A driver must not stop on a road in a position that obstructs access by vehicles or pedestrians to or from a footpath ramp or a similar way of access to a footpath, or a bicycle path or passageway unless-
+	(a)	the driver is driving a public bus that is dropping off or picking up passengers; or
+	(b)	the driver stops in a parking bay and the driver is permitted to stop in the parking bay under this regulation.
+Maximum penalty:  20 penalty units.
+	(2)	A driver must not stop on or across a driveway or other way of access for vehicles travelling to or from adjacent land unless-
+	(a)	the driver-
+	(i)	is dropping off or picking up passengers; and
+	(ii)	does not leave the vehicle unattended; and
+	(iii)	completes the dropping off or picking up of the passengers, and drives on, as soon as possible and, in any case, within 2 minutes after stopping; or
+	(b)	the driver stops in a parking bay and the driver is permitted to stop in the parking bay under this regulation.
+Maximum penalty:  20 penalty units.
+Example
+Blocking a driveway
+
+In the example, the vehicle marked with an 'X' is stopped in contravention of s (2).
+	(3)	For this section, a driver leaves a vehicle unattended if the driver leaves the vehicle so that the driver is over 3m from the closest point of the vehicle.
+199	Stopping near postbox
+	(1)	A driver must not stop on a road within 3m of a public postbox, unless the driver-
+	(a)	is dropping off or picking up passengers or mail; or
+	(b)	stops at a place on a length of road, or in an area, to which a parking control sign applies and the driver is permitted to stop at that place under this regulation.
+Maximum penalty:  20 penalty units.
+	(2)	In this section:
+public postbox means a postbox erected, maintained or used by Australia Post.
+200	Stopping on roads-heavy or long vehicle
+	(1)	The driver of a heavy vehicle, or long vehicle, must not stop on a length of road that is not in a built-up area, except on the shoulder of the road.
+Maximum penalty:  20 penalty units.
+	(2)	The driver of a heavy vehicle, or long vehicle, must not stop on a length of road in a built-up area for longer than 1 hour, unless the driver is permitted to stop on the length of road for longer than 1 hour by information on or with a traffic control device, or under subsection (2A).
+Maximum penalty:  20 penalty units.
+	(2A)	The driver of a heavy vehicle, or long vehicle, other than a bus, is permitted to stop on a length of road in a built up area for longer than 1 hour if, throughout the period when the vehicle is stopped on the length of road, the driver is engaged in dropping off or picking up goods.
+	(3)	In this section:
+long vehicle means a vehicle that, together with any load or projection, is 7.5m long, or longer.
+road does not include a road related area, but includes any shoulder of the road.
+201	Stopping on road with bicycle parking sign
+A driver (except the rider of a bicycle) must not stop on a length of road to which a bicycle parking sign applies, unless the driver is dropping off or picking up passengers.
+Maximum penalty:  20 penalty units.
+202	Stopping on road with motorbike parking sign
+A driver (except the rider of a motorbike) must not stop on a length of road to which a motorbike parking sign applies, unless the driver is dropping off or picking up passengers.
+Maximum penalty:  20 penalty units.
+203	Stopping in parking area for people with disabilities
+	(1)	A driver must not stop in a parking area for people with disabilities unless-
+	(a)	the driver displays in or on the vehicle a current mobility parking scheme authority; and
+	(b)	the driver complies with the conditions (if any) of the authority.
+Maximum penalty:  20 penalty units.
+	(2)	In this regulation:
+parking area for people with disabilities means a length or area of a road-
+	(a)	to which a permissive parking sign displaying a people with disabilities symbol applies; or
+	(b)	to which a people with disabilities parking sign applies; or
+	(c)	indicated by a road marking (a people with disabilities road marking) that consists of, or includes, a people with disabilities symbol.
+203A	Stopping in slip lane
+A driver must not stop in a slip lane unless-
+	(a)	a parking control sign applies to the place where the driver stops; and
+	(b)	the driver is permitted to stop at that place under this regulation.
+Maximum penalty:  20 penalty units.
+203B	Stopping in parking area for electric-powered vehicles
+	(1)	A driver of a vehicle that is not an electric-powered vehicle must not stop in a parking area for electric-powered vehicles.
+Maximum penalty:  20 penalty units.
+	(2)	In this section:
+electric-powered vehicle means a vehicle that-
+	(a)	is powered by 1 or more electric motors or traction motors, regardless of whether the vehicle is also powered by another form of propulsion; and
+	(b)	can be recharged from an external source of electricity.
+electric-powered vehicle parking sign means a sign displaying an electric-powered vehicle symbol.
+Example-electric-powered vehicle parking sign
+
+electric-powered vehicle symbol means a picture of a vehicle with an adjacent charging plug as shown in the diagram in schedule 4.
+parking area for electric-powered vehicles means a length or area of a road-
+	(a)	to which a permissive parking sign displaying an electric-powered vehicle symbol applies; or
+	(b)	to which an electric-powered vehicle parking sign applies; or
+	(c)	indicated by a road marking (an electric-powered vehicle road marking) that consists of, or includes, an electric-powered vehicle symbol.
+203C	Stopping in parking area for charging of electric-powered vehicles
+	(1)	A driver must not stop in a parking area for the charging of electric-powered vehicles unless-
+	(a)	the driver's vehicle is an electric-powered vehicle; and
+	(b)	the electric-powered vehicle is plugged in to an external source of electricity.
+Maximum penalty:  20 penalty units.
+	(2)	In this section:
+electric-powered vehicle-see section 203B (2).
+electric-powered vehicle charging parking sign means a sign displaying an electric-powered vehicle symbol and the words 'while charging'.
+Example-electric-powered vehicle charging parking sign
+
+electric-powered vehicle charging road marking means a picture that consists of, or includes a picture of an 'EV' symbol with an adjacent charging plug as shown in the diagram in schedule 4.
+electric-powered vehicle symbol-see section 203B (2).
+parking area for charging of electric-powered vehicles means a length or area of a road-
+	(a)	to which a permissive parking sign displaying an electric-powered vehicle symbol and the words 'while charging' applies; or
+	(b)	to which an electric-powered vehicle charging parking sign applies; or
+	(c)	indicated by an electric-powered vehicle charging road marking.
+Division 12.7	Permissive parking signs and parking fees
+204	Meaning of certain information on or with permissive parking sign
+	(1)	This section explains the meaning of certain information on or with a permissive parking sign applying to a length of road or an area.
+	(2)	A whole number, fraction, or whole number and fraction, immediately to the left of the letter 'P' indicates that a driver must not park on the length of road, or in the area, continuously for longer than the period of hours, or fraction of an hour, equal to the number, fraction, or number and fraction, shown.
+Example 1-permissive parking sign showing permitted parking periods and times of operation
+Permissive parking sign applying to a length of road with a whole number to the left of P
+
+In this example, the sign indicates that a driver must not park continuously for longer than 1 hour on Saturdays between 9 am and 12 noon.
+Example 2-permissive parking sign showing permitted parking periods and times of operation
+Permissive parking sign applying to an area with a whole number to the left of P
+
+In this example, the sign indicates that a driver must not park in the area for longer than 2 hours on Mondays to Fridays between 8.30 am and 5 pm, and on Saturdays between 8.30 am and 12 noon, unless permitted by information on or with another traffic control device.
+	(3)	A number, together with the word 'minute', immediately to the right of the letter 'P' indicate that a driver must not park on the length of road, or in the area, continuously for longer than the number of minutes shown.
+Example 3
+Permissive parking sign with a number of minutes to the right of P
+
+In this example, the sign indicates that a driver must not park continuously for longer than 5 minutes on Mondays to Fridays between 9 am and 4 pm.
+	(4)	The word 'parking', together with words indicating a number of hours or minutes, indicate that a driver must not park on the length of road, or in the area, continuously for longer than the number of hours or minutes shown.
+205	Parking for longer than indicated
+	(1)	A driver must not park continuously on a length of road, or in an area, to which a permissive parking sign applies for longer than the period indicated by information on or with the sign or, if section 206 (Time extension for people with disabilities) applies to the driver, the period allowed under that section.
+Maximum penalty:  20 penalty units.
+	(1A)	If a permissive parking sign does not indicate a period and does not indicate that it applies at particular times, or at particular times on particular days, a driver may, at any time, park continuously on a length of road, or in an area, to which the sign applies, unless-
+	(a)	another parking control sign applies to the length of road or area; and
+	(b)	the driver is prohibited from parking on the length of road, or in the area, under this regulation.
+	(2)	For subsection (1), a driver parks continuously on a length of road, or in an area, to which a permissive parking sign applies, from the time when the driver parks on the length of road, or in the area, until the driver, or another driver, moves the vehicle off the length of road, or out of the area, to which the permissive parking sign applies.
+205A	Parking outside time indicated
+If a permissive parking sign indicates that it applies at particular times, or at particular times on particular days, a driver may park on the length of road, or in an area, to which the sign applies at a time, or at a time on a day, when the sign does not apply, unless-
+	(a)	another parking control sign applies to the length of road or area; and
+	(b)	the driver is prohibited from parking on the length of road, or in the area, at that time, or at that time on that day, under this regulation.
+206	Time extension for people with disabilities
+	(1)	This section applies to a driver if-
+	(a)	the driver displays in or on the vehicle a current mobility parking scheme authority; and
+	(b)	the driver complies with the conditions (if any) of the authority.
+	(2)	The driver may park continuously on a length of road, or in an area, to which a permissive parking sign applies-
+	(a)	in a parking area for electric-powered vehicles or a parking area for charging of electric-powered vehicles-for 30 minutes longer than the period indicated on the permissive parking sign; or
+	(b)	in any other case, for the longer of-
+	(i)	if the time limit on the sign is 30 minutes or less-2 hours; or
+	(ii)	if the time limit on the sign is longer than 30 minutes-an unlimited period.
+	(3)	Subsection (2) (b) does not apply if the driver parks in a parking area for people with disabilities.
+	(4)	In this section:
+parking area for charging of electric-powered vehicles-see section 203C (2).
+parking area for electric-powered vehicles-see section 203B (2).
+207	Parking where fee payable
+	(1)	This section applies to a driver who parks a vehicle on a length of road, or in an area, to which a permissive parking sign applies if information on or with the sign indicates that a fee is payable for parking by buying a ticket or putting money into a parking meter.
+	(2)	The driver must-
+	(a)	pay the relevant parking fee (if any) for parking the vehicle on the road or in the area; and
+	(b)	obey any instructions on or with the sign, meter, ticket or ticket-vending machine.
+Maximum penalty:  20 penalty units.
+Division 12.8	Parallel parking
+208	Parallel parking on road (except in median strip parking area)
+	(1)	A driver who parks on a road (except in a median strip parking area) must position the driver's vehicle in accordance with subsections (2) to (8).
+Maximum penalty:  20 penalty units.
+	(2)	The driver must position the vehicle to face-
+	(a)	in the direction of travel of vehicles in the marked lane or line of traffic on, or next to, the part of the road where the driver parks; or
+	(b)	if there is no traffic on, or next to, that part of the road-in the direction in which vehicles could lawfully travel on that part of the road.
+	(3)	If the road is a two-way road, the driver must position the vehicle parallel, and as near as practicable, to the far left side of the road.
+	(4)	If the road is a one-way road, the driver must position the vehicle parallel, and as near as practicable, to the far left or far right side of the road, unless otherwise indicated by information on or with a parking control sign.
+	(5)	If the driver does not park in a parking bay, the driver must position the vehicle at least 1m from the closest point of any vehicle in front of it and any vehicle behind it.
+	(6)	If the road has a continuous dividing line or a dividing strip, the driver must position the vehicle at least 3m from the continuous dividing line or dividing strip, unless otherwise indicated by information on or with a parking control sign.
+	(7)	If the road does not have a continuous dividing line or a dividing strip, the driver must position the vehicle so there is at least 3m of the road alongside the vehicle that is clear for other vehicles to pass, unless otherwise indicated by information on or with a parking control sign.
+	(8)	The driver must position the vehicle so the vehicle does not unreasonably obstruct the path of other vehicles or pedestrians.
+	(9)	This section does not apply to-
+	(a)	a driver if the driver parks on a length of road, or in an area, to which a parking control sign or road marking applies, and information on or with the sign or road marking includes the words 'angle parking' or 'angle'; or
+	(b)	the rider of a motorbike if the rider parks the motorbike on a length of road, or in an area, to which a permissive parking sign applies and the sign indicates that the length of road or area is for parking motorbikes.
+	(10)	Subsections (3) and (4) do not apply to the rider of a motorbike if the rider positions the motorbike so at least 1 wheel is as near as practicable to the far left or far right side of the road.
+	(11)	If a road has 1 or more service roads, the part of the road used by the main body of moving vehicles, and each service road, is taken to be a separate road for this section.
+	(12)	In this section:
+continuous dividing line means-
+	(a)	a single continuous dividing line only; or
+	(b)	a single continuous dividing line to the left or right of a broken dividing line; or
+	(c)	2 parallel continuous dividing lines.
+road does not include a road related area, but includes any shoulder of the road.
+Example
+Parallel parking-minimum distance from other vehicles and dividing strip
+
+In this example, the vehicles marked with an 'X' are parked in contravention of this section.
+208A	Parallel parking in road related area (except in median strip parking area)
+	(1)	A driver who parks in a road related area (except in a median strip parking area) must position the driver's vehicle to face-
+	(a)	in the direction of travel of vehicles in the marked lane or line of traffic next to the part of the road related area where the driver parks; or
+	(b)	if there is no traffic next to that part of the road related area-in the direction in which vehicles could lawfully travel in the road related area; or
+	(c)	if the road related area is an area that divides a road-either-
+	(i)	in the direction of travel of vehicles in the marked lane or line of traffic to the left of the driver; or
+	(ii)	if there is no traffic to the left of the driver-in the direction in which vehicles could lawfully travel on that part of the road.
+Maximum penalty:  20 penalty units.
+	(2)	Subsection (1) does not apply if signs or road markings indicate that angle parking is required in the road related area.
+209	Parallel parking in median strip parking area
+	(1)	This section applies to a driver who parks in a median strip parking area if a parking control sign or road marking applies to the area, and information on or with the sign or road marking indicates that the driver's vehicle must be positioned parallel to the median strip.
+	(2)	The driver must position the driver's vehicle-
+	(a)	to face-
+	(i)	in the direction of travel of vehicles in the marked lane or line of traffic to the left of the driver; or
+	(ii)	if there is no traffic to the left of the driver-in the direction in which vehicles could lawfully travel on that part of the road; and
+	(b)	parallel, and as near as practicable, to the centre of the median strip; and
+	(c)	if the driver does not park in a parking bay-at least 1m from the closest point of any vehicle in front of it and any vehicle behind it.
+Maximum penalty:  20 penalty units.
+	(3)	This section does not apply to the rider of a motorbike.
+Division 12.9	Angle parking
+210	Angle parking
+	(1)	If a driver parks in a parking area on the side of a road, or in a median strip parking area-
+	(a)	to which a parking control sign with the words 'angle parking' or 'angle' applies; or
+	(b)	to which a road marking indicating an angle applies;
+the driver must position the driver's vehicle in accordance with subsections (2) to (4).
+Maximum penalty:  20 penalty units.
+	(2)	If the parking control sign or road marking indicates that the vehicle must be positioned at a specified angle (other than 90?), the driver must position the vehicle-
+	(a)	so that the vehicle is at an angle as near as practicable to the specified angle; and
+	(b)	if the vehicle is parked on the side of the road-with the rear of the vehicle nearest to the centre of the road.
+	(2A)	If the parking control sign or road marking does not indicate the angle at which the vehicle must be positioned, the driver must position the vehicle-
+	(a)	so that the vehicle is at an angle as near as practicable to 45?, as shown in example 1 or 2; and
+	(b)	if the vehicle is parked on the side of the road-with the rear of the vehicle nearest to the centre of the road.
+Example 1
+Parking at 45? at the side of a two-way road
+
+Example 2
+Parking at 45? at the right side of a one-way road
+
+	(2B)	Subsections (2) and (2A) do not apply if the road marking, or information on the parking control sign, includes the words 'rear in' or similar words.
+	(3)	If the parking control sign or road marking indicates that the vehicle must be positioned at an angle of 90?, the driver-
+	(a)	must position the driver's vehicle so the vehicle is at an angle as near as practicable to 90?, as shown in example 3 or 4; and
+	(b)	if the vehicle is parked on the side of the road-
+	(i)	if the road marking, or information on the parking control sign, includes the words 'rear in' or 'front in', or similar words-must position the vehicle so that the front of the vehicle is nearest the centre of the road, or the rear of the vehicle is nearest the centre of the road, in accordance with the road marking or sign; or
+	(ii)	otherwise-may position the vehicle either way around.
+Example 3
+Parking at 90? at the side of a two-way road
+
+Example 4
+Parking at 90? at the right side of a one-way road
+
+	(4)	If the road marking, or information on the parking control sign, includes the words 'rear in', or similar words, the driver must position the driver's vehicle-
+	(a)	so that the vehicle is at an angle as near as practicable to-
+	(i)	the angle indicated by the road marking or parking control sign; or
+	(ii)	if the road marking or parking control sign does not indicate an angle-45?; and
+	(b)	if the vehicle is parked on the side of the road-with the front of the vehicle nearest to the centre of the road.
+Example 5
+Parking 'rear in' at 30? at the side of a road
+
+Example 6
+Parking 'rear in' at 30? in a median strip parking area
+
+Example 7
+Parking 'rear in' at 45? at the side of a road
+
+Example 8
+Parking 'rear in' at 45? in a median strip parking area
+
+Example 9
+Parking 'rear in' at 60? at the side of a road
+
+Example 10
+Parking 'rear in' at 60? in a median strip parking area
+
+	(4A)	Subsection (4) does not apply if the parking control sign or road marking indicates that the vehicle must be positioned at an angle of 90?.
+	(5)	This section does not apply to the rider of a motorbike.
+Division 12.10	Other parking related sections
+211	Parking in parking bay
+	(1)	This section applies to a driver who parks on a length of road, or in an area, that has parking bays (whether or not a park in bays only sign applies to the length of road or area).
+	(2)	The driver must position the driver's vehicle completely within a single parking bay, unless the vehicle is too wide or long to fit completely within the bay.
+Maximum penalty:  20 penalty units.
+	(3)	If the vehicle is too wide or long to fit completely within a single parking bay, the driver must park the driver's vehicle within the minimum number of parking bays needed to park the vehicle.
+Maximum penalty:  20 penalty units.
+212	Entering and leaving median strip parking area
+	(1)	If information on or with a traffic control device indicates that a driver must enter or leave a median strip parking area in a particular direction, the driver must enter or leave the area in that direction.
+Maximum penalty:  20 penalty units.
+	(2)	If there is no information on or with a traffic control device that indicates that a driver must enter or leave a median strip parking area in a particular direction, the driver must enter or leave the area by driving forward.
+Maximum penalty:  20 penalty units.
+Example
+Leaving median strip parking area by driving forward
+
+213	Making motor vehicle secure
+	(1)	This section applies to the driver of a motor vehicle who stops and leaves the vehicle on a road.
+	(2)	Before leaving the vehicle, the driver must apply the parking brake effectively or, if weather conditions (for example, snow) would prevent the effective operation of the parking brake, effectively restrain the motor vehicle's movement in another way.
+Maximum penalty:  20 penalty units.
+	(3)	If the driver will be over 3m from the closest part of the vehicle, the driver must switch off the engine before leaving the vehicle.
+Maximum penalty:  20 penalty units.
+	(4)	If the driver will be over 3m from the closest part of the vehicle, and-
+	(a)	there is no-one left in the vehicle; or
+	(b)	there is only a child or children under 16 years old left in the vehicle;
+the driver must remove the ignition key before leaving the vehicle.
+Maximum penalty:  20 penalty units.
+Division 12.11	Metered parking
+213A	Metered parking-parking in space
+	(1)	A driver commits an offence if-
+	(a)	the driver parks in a metered parking area; and
+	(b)	the driver's vehicle is not parked in a metered parking space.
+Maximum penalty:  20 penalty units.
+	(2)	A driver must not park the driver's vehicle in a metered parking space if another vehicle is parked in the space.
+Maximum penalty:  20 penalty units.
+	(3)	Subsection (2) does not apply to the rider of a motorbike if the other vehicle is also a motorbike.
+	(4)	A driver who parks in a metered parking space must position the driver's vehicle completely within the space.
+Maximum penalty:  20 penalty units.
+213B	Metered parking-parking in space-motorbike
+	(1)	The rider of a motorbike commits an offence if-
+	(a)	the rider parks the motorbike in a metered parking space; and
+	(b)	there are more than 2 other motorbikes already parked in the space.
+Maximum penalty:  20 penalty units.
+	(2)	The rider of a motorbike commits an offence if-
+	(a)	the rider parks the motorbike in a metered parking space; and
+	(b)	another motorbike is already parked in the space; and
+	(c)	the rider parks the motorbike in a position that unreasonably obstructs the path of the other motorbike out of the space.
+Maximum penalty:  20 penalty units.
+213C	Metered parking-parking fee
+	(1)	A driver must not park in a metered parking space without paying the relevant parking fee for the space.
+Maximum penalty:  20 penalty units.
+	(2)	A driver does not commit an offence against subsection (1) if-
+	(a)	the relevant parking fee for the metered parking space is paid immediately after the driver parks the driver's vehicle in the metered parking space; or
+	(b)	the parking meter for the metered parking space indicates that the period for which parking in the space has been paid for has not expired; or
+	(c)	the parking meter for the metered parking space-
+	(i)	is not working; or
+	(ii)	is covered with a parking meter hood bearing the words 'out of order time limit applies'.
+213D	Metered parking-maximum length of stay
+	(1)	A driver must not allow the driver's vehicle to remain parked in a metered parking space if the parking meter for the space indicates that the period for which parking in the space has been paid for has expired.
+Maximum penalty:  20 penalty units.
+	(2)	A driver must not allow the driver's vehicle to remain parked in a metered parking space for longer than the period (if any) indicated on the metered parking signs applying to the space as the maximum period for which a vehicle may be parked in the space.
+Maximum penalty:  20 penalty units.
+213E	Metered parking-exceptions
+	(1)	Section 213C (Metered parking-parking fee) and section 213D (Metered parking-maximum length of stay) do not apply to-
+	(a)	a driver for any period the driver's vehicle is parked in a metered parking space outside the controlled parking hours for the space; or
+	(b)	a driver if-
+	(i)	the driver's vehicle is parked in a metered parking space; and
+	(ii)	the driver displays in or on the vehicle a current mobility parking scheme authority; and
+	(iii)	the driver complies with the conditions (if any) of the authority; or
+	(c)	a driver if-
+	(i)	the driver's vehicle is parked in a metered parking space designated by a permit zone sign for use by the holder of a stated kind of parking permit; and
+	(ii)	the driver displays in or on the vehicle a current parking permit of that kind; and
+	(iii)	the driver complies with the conditions (if any) of the permit.
+	(2)	In this section:
+controlled parking hours, in relation to a metered parking space, means the periods (as indicated by information on or with traffic signs applying to the space) when a vehicle may not be parked in the space unless the relevant parking fee has been paid.
+213F	Temporary closure of metered parking space
+	(1)	If the road transport authority decides that the use of a metered parking space should be temporarily discontinued, the authority may close the space by-
+	(a)	installing a sign, at or near the space, that displays words to the effect that the space is closed; or
+	(b)	covering the parking meter applying to the space with a parking meter hood bearing the words 'no parking'.
+	(2)	A driver must not park in a metered parking space that has been closed under subsection (1).
+Maximum penalty:  20 penalty units.
+	(3)	In this section:
+sign includes a board, device, plate, screen, words or anything else, whether or not installed with or on a traffic sign.
+213G	Misuse of parking meter
+A person must not-
+	(a)	insert in a parking meter anything other than coins appropriate for the meter; or
+	(b)	attach anything (for example, advertising material) to a parking meter.
+Maximum penalty:  20 penalty units.
+213H	Interfering with parking meter etc
+A person must not-
+	(a)	do anything that interferes with (or is likely to interfere with) the proper working of a parking meter; or
+	(b)	fraudulently operate a parking meter.
+Maximum penalty:  20 penalty units.
+Division 12.12	Ticket parking
+213I	Ticket parking-parking in space
+	(1)	A driver commits an offence if-
+	(a)	the driver parks in a ticket parking area; and
+	(b)	the driver's vehicle is not parked in a ticket parking space.
+Maximum penalty:  20 penalty units.
+	(2)	However, the driver does not commit an offence against subsection (1) if the driver parks in a metered parking space within a ticket parking area and the driver complies with division 12.11 (Metered parking) in relation to parking in the space.
+	(3)	A driver must not park the driver's vehicle in a ticket parking space if another vehicle is parked in the space.
+Maximum penalty:  20 penalty units.
+	(4)	Subsection (3) does not apply to the rider of a motorbike if the other vehicle is also a motorbike.
+	(5)	A driver who parks in a ticket parking space must position the driver's vehicle completely within the space.
+Maximum penalty:  20 penalty units.
+213J	Ticket parking-parking in space-motorbike
+	(1)	The rider of a motorbike commits an offence if-
+	(a)	the rider parks the motorbike in a ticket parking space; and
+	(b)	there are more than 2 other motorbikes already parked in the space.
+Maximum penalty:  20 penalty units.
+	(2)	The rider of a motorbike commits an offence if-
+	(a)	the rider parks the motorbike in a ticket parking space; and
+	(b)	another motorbike is already parked in the space; and
+	(c)	the rider parks the motorbike in a position that unreasonably obstructs the path of the other motorbike out of the space.
+Maximum penalty:  20 penalty units.
+213K	Ticket parking-display of ticket
+	(1)	A driver may park the driver's vehicle in a ticket parking area only if-
+	(a)	for an RTA multi-stay ticket parking area-
+	(i)	a current parking ticket for the area is correctly displayed in or on the vehicle; or
+	(ii)	a current part-day parking ticket for another RTA multi-stay ticket parking area is correctly displayed in or on the vehicle; or
+	(iii)	a current equivalent all-day parking ticket for another RTA multi-stay ticket parking area is correctly displayed in or on the vehicle; or
+	(b)	for any other ticket parking area-a current parking ticket for the area is correctly displayed in or on the vehicle.
+Maximum penalty:  20 penalty units.
+Examples-par (b)-ticket parking areas
+1	a ticket parking area set up by the road transport authority in which parking up to a maximum of 4 hours is permitted by the ticket parking signs applying to the area
+2	a ticket parking area set up by a parking authority
+	(2)	Subsection (1) (a) does not apply to a driver if, immediately after parking in the ticket parking area, the driver-
+	(a)	obtains a parking ticket for the ticket parking area and the ticket is correctly displayed in or on the driver's vehicle; or
+	(b)	correctly displays in or on the driver's vehicle a parking ticket mentioned in subsection (1) (a) (ii) or (iii).
+	(3)	Subsection (1) (b) does not apply to a driver if, immediately after parking in the ticket parking area, the driver obtains a parking ticket for the ticket parking area and the ticket is correctly displayed in or on the driver's vehicle.
+	(4)	It is a defence to the prosecution of a driver for an offence against subsection (1) if the driver proves that-
+	(a)	a parking ticket was displayed in accordance with the subsection; and
+	(b)	the driver took reasonable steps to ensure that the ticket remained correctly displayed while the driver's vehicle was parked in the ticket parking area.
+	(5)	In this section:
+all-day parking ticket, for a ticket parking area, means a parking ticket for which the relevant parking fee for parking all-day in the area has been paid.
+correctly displayed-a parking ticket is correctly displayed in or on a vehicle if the ticket is displayed-
+	(a)	in or on the front left-hand side of the vehicle or, if the ticket requires the driver to display the ticket in or on a part of the vehicle, in or on that part of the vehicle; and
+	(b)	in a way that its expiry date (and, for a parking ticket other than an all-day parking ticket, its expiry time) and the ticket parking area for which it is issued, are clearly visible from outside the vehicle.
+equivalent, for a multi-stay ticket parking area, means another ticket parking area for which the relevant parking fee for an all-day parking ticket for the area is the same or higher.
+part-day parking ticket means a parking ticket that is not an all-day parking ticket.
+RTA multi-stay ticket parking area means a ticket parking area set aside under the Road Transport (Safety and Traffic Management) Regulation2017, section 35 (2) (a) (Ticket parking schemes-road transport authority) where all-day parking is permitted by the ticket parking signs applying to the area.
+213L	Ticket parking-e-payment
+Section 213K (1) does not apply to a driver if-
+	(a)	the driver's vehicle is parked in a parking space in a ticket parking area; and
+	(b)	the driver has paid for the parking space using an approved e-payment method.
+213M	Ticket parking-maximum length of stay
+	(1)	A driver must not allow the driver's vehicle to remain parked in a ticket parking area after the expiry of a parking ticket displayed in or on the vehicle.
+Maximum penalty:  20 penalty units.
+	(2)	A driver who has used an approved e-payment method to pay for a parking space must not allow the driver's vehicle to remain parked in the parking space after the e-payment parking period for which parking in the space has been paid for ends.
+Maximum penalty:  20 penalty units.
+	(3)	A driver must not allow the driver's vehicle to remain parked in a ticket parking area for longer than the period (if any) indicated on the ticket parking signs applying to the area as the maximum period for which a vehicle may be parked in the area.
+Maximum penalty:  20 penalty units.
+213N	Ticket parking-exceptions to s 213K and s 213M
+	(1)	Section 213K (Ticket parking-display of ticket) and section 213M (Ticket parking-maximum length of stay) do not apply to-
+	(a)	a driver if the driver parks the driver's vehicle in a metered parking space within a ticket parking area and the driver complies with division 12.11 (Metered parking) in relation to parking in the space; or
+	(b)	a driver for any period the driver's vehicle is parked in a ticket parking space outside the controlled parking hours for the space; or
+	(c)	a driver if-
+	(i)	the driver's vehicle is parked in a ticket parking space; and
+	(ii)	the driver displays in or on the vehicle a current mobility parking scheme authority; and
+	(iii)	the driver complies with the conditions (if any) of the authority; or
+	(d)	a driver if-
+	(i)	the driver's vehicle is parked in a ticket parking space, or on a length of road in a ticket parking area, designated by a permit zone sign for use by the holder of a stated kind of parking permit; and
+	(ii)	the driver displays in or on the vehicle a current parking permit of that kind; and
+	(iii)	the driver complies with the conditions (if any) of the permit.
+	(2)	In this section:
+controlled parking hours, in relation to a ticket parking space, means the periods (as indicated by information on or with traffic signs applying to the space) when a vehicle may not be parked in the space unless the relevant parking fee has been paid.
+213O	Temporary closure of ticket parking space and area
+	(1)	If the road transport authority decides that the use of a ticket parking area, or ticket parking space, should be temporarily discontinued, the authority may close the area or space by-
+	(a)	for the closure of a ticket parking area-installing a sign, at or near each traffic sign applying to the area, that displays words to the effect that the area is closed; or
+	(b)	for the closure of a ticket parking space-installing a sign, at or near the space, that displays words to that effect.
+	(2)	If a parking authority decides that the use of a ticket parking area, or ticket parking space, within its area of operations should be temporarily discontinued, the authority may close the area or space by-
+	(a)	for the closure of a ticket parking area-installing a sign, at or near each traffic sign applying to the area, that displays words to the effect that the area is closed; or
+	(b)	for the closure of a ticket parking space-installing a sign, at or near the space, that displays words to that effect.
+	(3)	A driver must not park in a ticket parking area or ticket parking space that has been closed under subsection (1) or (2).
+Maximum penalty:  20 penalty units.
+	(4)	In this section:
+sign includes a board, device, plate, screen, words or anything else, whether or not installed with or on a traffic sign.
+213P	Use of false or damaged parking ticket etc
+	(1)	This section applies in relation to a vehicle that is parked in a ticket parking space within a ticket parking area.
+	(2)	A person must not display in or on the vehicle-
+	(a)	anything resembling a parking ticket that falsely suggests that the relevant parking fee for parking in the space has been paid; or
+	(b)	a parking ticket that has been changed, damaged or defaced.
+Maximum penalty:  20 penalty units.
+	(3)	Subsection (2) does not apply if the parking ticket was not changed, damaged or defaced in a material particular.
+213Q	Misuse of parking ticket machine
+A person must not-
+	(a)	insert in a parking ticket machine anything other than coins, or another means of payment, appropriate for the machine; or
+	(b)	attach anything (for example, advertising material) to a parking ticket machine.
+Maximum penalty:  20 penalty units.
+213R	Interfering with parking ticket machine etc
+A person must not-
+	(a)	do anything that interferes with (or is likely to interfere with) the proper working of a parking ticket machine; or
+	(b)	fraudulently operate a parking ticket machine.
+Maximum penalty:  20 penalty units.
+213S	Interfering with parking ticket
+A person commits an offence if-
+	(a)	the person removes, changes, damages, defaces or otherwise interferes with a parking ticket that is in or on a vehicle; and
+	(b)	the vehicle is parked in a ticket parking area; and
+	(c)	the person is not-
+	(i)	the driver of the vehicle; or
+	(ii)	the responsible person for the vehicle.
+Maximum penalty:  20 penalty units.
+Division 12.12A	Signs attached to vehicles parked in designated place
+213SA	Vehicle parked in designated place must not have sign attached
+	(1)	A driver must not park a vehicle in a designated place if a sign displaying advertising or electoral matter is attached to the vehicle.
+Maximum penalty:  20 penalty units.
+	(2)	Subsection (1) does not apply to a vehicle being used by or for the Territory.
+	(3)	The Minister may, for subsection (1), declare-
+	(a)	a road or public unleased land to be a designated place if satisfied that making the declaration is in the interests of road safety; and
+	(b)	matter that is or is not advertising.
+	(4)	A declaration is-
+	(a)	for subsection (3) (a)-a notifiable instrument; and
+	(b)	for subsection (3) (b)-a disallowable instrument.
+	(5)	In this section:
+advertising-
+	(a)	means any matter declared to be advertising under subsection (3) (b); but
+	(b)	does not include-
+	(i)	any matter declared not to be advertising under subsection (3) (b); or
+	(ii)	a bumper sticker displayed in or on the vehicle; or
+	(iii)	advertising indicating that the vehicle is for sale.
+designated place means a place declared under subsection (3) (a).
+electoral matter-
+	(a)	means any matter that is intended, or is likely, to affect voting in an ACT, Commonwealth or State election or referendum; and
+	(b)	includes any matter that contains an express or implied reference to-
+	(i)	an ACT, Commonwealth or State election or referendum; or
+	(ii)	any matter on which electors are required to vote in an ACT, Commonwealth or State election or referendum; but
+Note	State includes the Northern Territory (see Legislation Act, dict, pt 1).
+	(c)	does not include electoral matter on a bumper sticker displayed in or on a vehicle.
+public unleased land-see the Public Unleased Land Act 2013, section 8.
+sign means a board, device, plate or screen.
+Division 12.13	Other road rules about stopping and parking
+213T	Unauthorised use of parking permit and mobility parking scheme authority
+	(1)	A driver must not display a parking permit in or on the driver's vehicle if the driver is not entitled to do so under the conditions of the permit.
+Maximum penalty:  20 penalty units.
+	(2)	A driver must not display a mobility parking scheme authority in or on the driver's vehicle if the driver is not entitled to do so under the conditions of the authority.
+Maximum penalty:  20 penalty units.
+213U	Interfering with parking permit and mobility parking scheme authority
+	(1)	A person commits an offence if-
+	(a)	the person removes or otherwise interferes with a parking permit or mobility parking scheme authority that is in or on a vehicle; and
+	(b)	the person is not-
+	(i)	the driver of the vehicle; or
+	(ii)	the responsible person for the vehicle; or
+	(iii)	the person to whom the permit or authority was issued.
+Maximum penalty:  20 penalty units.
+	(2)	A person commits an offence if the person displays in or on a vehicle-
+	(a)	a copy of a parking permit or mobility parking scheme authority; or
+	(b)	a parking permit or mobility parking scheme authority that has been changed, damaged or defaced.
+Maximum penalty:  20 penalty units.
+213V	Stopping in emergency etc or to comply with another law
+	(1)	This section applies to each of the following (a stopping or parking provision of this part):
+	(a)	section 183A (Stopping public bus in bus zone);
+	(b)	section 195A (Stopping public bus at bus stop);
+	(c)	division 12.11 (Metered parking);
+	(d)	division 12.12 (Ticket parking);
+	(e)	this division.
+	(2)	A stopping or parking provision of this part does not apply to a driver if-
+	(a)	the driver stops at a particular place, or in a particular way, to avoid a collision, and the driver stops for no longer than is necessary to avoid the collision; or
+	(b)	the driver stops at a particular place, or in a particular way, because the driver's vehicle is disabled, and the driver stops for no longer than is necessary for the vehicle to be moved safely to a place where the driver is permitted to park the vehicle under this regulation and a stopping or parking provision of this part; or
+	(c)	the driver stops at a particular place, or in a particular way, to deal with a medical or other emergency, and the driver stops for no longer than is necessary in the circumstances; or
+	(d)	the driver stops at a particular place, or in a particular way, because the condition of the driver, a passenger, or the driver's vehicle makes it necessary for the driver to stop in the interests of safety, and the driver stops for no longer than is necessary in the circumstances; or
+	(e)	the driver stops at a particular place, or in a particular way, to comply with a provision of this regulation or a provision of another law, and the driver stops for no longer than is necessary to comply with the provision.
+
+
+Part 13	Lights and warning devices
+Division 13.1	Lights on vehicles (except bicycles, animals and animal-drawn vehicles)
+214	Application-div 13.1-rider of bicycle, animal and animal-drawn vehicle
+This division does not apply to the rider of a bicycle, animal or animal-drawn vehicle.
+215	Using lights when driving at night or in hazardous weather conditions
+	(1)	A driver must not drive at night, or in hazardous weather conditions causing reduced visibility, unless-
+	(a)	the headlights, tail lights and numberplate light fitted to the driver's vehicle are operating effectively and are clearly visible; and
+	(b)	if the vehicle is fitted with clearance lights or side marker lights-those lights are operating effectively and are clearly visible.
+Maximum penalty:  20 penalty units.
+	(2)	However, this section does not apply to a driver if the driver's vehicle is stopped or parked at a place on a length of road, or in an area, to which a parking control sign applies and the driver is permitted to stop or park at that place under this regulation.
+	(3)	Also, a driver driving during the day in fog, or other hazardous weather conditions causing reduced visibility, may drive without the headlights of the driver's vehicle operating if the vehicle is fitted with front fog lights and those lights are operating effectively and are clearly visible.
+	(4)	In subsection (1), a reference to a kind of light fitted to a vehicle is a reference to a light of that kind required to be fitted to the vehicle under the Road Transport (Vehicle Registration) Regulation 2000, schedule 1 (Light vehicle standards).
+	(5)	In this section:
+front fog light-see section 217 (2).
+216	Towing vehicle at night or in hazardous weather conditions
+	(1)	A driver must not tow a vehicle at night, or in hazardous weather conditions causing reduced visibility, unless-
+	(a)	if the towed vehicle is being towed from the front of the vehicle-
+	(i)	the tail lights of the vehicle are operating effectively and are clearly visible; or
+	(ii)	the vehicle has portable rear lights that are operating; or
+	(b)	if the towed vehicle is being towed from the rear of the vehicle-the vehicle has portable rear lights that are operating.
+Maximum penalty:  20 penalty units.
+	(2)	However, this section does not apply to the driver of a tow truck if-
+	(a)	the driver is towing a disabled vehicle carrying a placard load of dangerous goods to a place that is safely off the road; and
+	(b)	a vehicle carrying a warning to other traffic is following immediately behind the disabled vehicle.
+	(3)	In this section:
+dangerous goods-see the Dangerous Goods (Road Transport) Act 2009, dictionary.
+placard load-see the Dangerous Goods (Road Transport) Act 2009, dictionary.
+portable rear lights means-
+	(a)	for a vehicle being towed from the front of the vehicle-a pair of lights attached to the rear of the vehicle that, when operating, show a red light that is clearly visible for at least 200m from the rear of the vehicle; and
+	(b)	for a vehicle being towed from the rear of the vehicle-a pair of lights attached to the front of the vehicle that, when operating, show a red light that is clearly visible for at least 200m from the front of the vehicle.
+road does not include a road related area, but includes any shoulder of the road.
+217	Using fog lights
+	(1)	The driver of a vehicle fitted with front fog lights or rear fog lights must not operate the fog light unless the driver is driving in fog or other hazardous weather conditions causing reduced visibility.
+Maximum penalty:  20 penalty units.
+	(2)	In this regulation:
+front fog light means a light (other than a headlight) fitted to the front of a vehicle to improve illumination of the road in fog, snowfall, heavy rain or dust clouds.
+rear fog light means a light (other than a brake light, a tail light, a numberplate light or a reversing light) fitted to the rear of a vehicle to make the vehicle more easily visible from the rear in fog, snowfall, heavy rain or dust clouds.
+218	Using headlights on high-beam
+	(1)	The driver of a vehicle must not use the vehicle's headlights on high-beam, or allow the vehicle's headlights to be used on high-beam, if the driver is driving-
+	(a)	less than 200m behind a vehicle travelling in the same direction as the driver; or
+	(b)	less than 200m from an oncoming vehicle.
+Maximum penalty:  20 penalty units.
+	(2)	However, if the driver is overtaking a vehicle, the driver may briefly switch the headlights from low-beam to high-beam immediately before the driver begins to overtake the vehicle.
+Example 1
+Using headlights on low-beam when travelling less than 200m behind another vehicle travelling in the same direction
+
+Example 2
+Using headlights on low-beam when travelling within 200m of an oncoming vehicle
+
+219	Lights not to be used to dazzle other road user
+A driver must not use, or allow to be used, any light fitted to or in the driver's vehicle to dazzle, or in a way that is likely to dazzle, another road user.
+Maximum penalty:  20 penalty units.
+220	Using lights on vehicle that is stopped
+	(1)	A driver must not stop on a road at night unless-
+	(a)	if the driver's vehicle is 2.2m wide, or wider-the clearance and side marker lights fitted to the vehicle are operating effectively and are clearly visible; or
+	(b)	in any other case-the parking lights fitted to the driver's vehicle are operating effectively and are clearly visible.
+Maximum penalty:  20 penalty units.
+	(2)	This section does not apply to a driver if the driver stops on a length of road, or in an area, with street lighting and the driver's vehicle is visible for at least 200m in all directions from the vehicle.
+	(3)	In subsection (1), a reference to a kind of light fitted to a vehicle is a reference to a light of that kind required to be fitted to the vehicle under the Road Transport (Vehicle Registration) Regulation 2000, schedule 1 (Light vehicle standards).
+	(4)	In this section:
+road does not include a road related area, but includes any shoulder of the road.
+221	Using hazard warning lights
+	(1)	The driver of a vehicle fitted with hazard warning lights must not use the hazard warning lights, or allow them to be used, unless-
+	(a)	the vehicle is stopped and is obstructing, or is likely to obstruct, the path of other vehicles or pedestrians; or
+	(b)	the vehicle is a slow-moving vehicle and is obstructing, or is likely to obstruct, the path of other vehicles or pedestrians; or
+	(c)	the vehicle is stopped in an emergency stopping lane; or
+	(d)	the driver stops the vehicle to sell a product (for example, ice creams) that may attract children onto the road; or
+	(e)	the driver is driving in hazardous weather conditions (for example, fog or smoke); or
+	(f)	the vehicle is a bus that-
+	(i)	is not fitted with any other warning lights in accordance with the Road Transport (Vehicle Registration) Regulation 2000, schedule 1 (Light vehicle standards); and
+	(ii)	is carrying children, and the driver stops the vehicle to drop off or pick up a child; or
+	(g)	the hazard warning lights are operating as part of an anti-theft device, or an alcohol interlock device, fitted to the vehicle.
+Maximum penalty:  20 penalty units.
+	(2)	In this regulation:
+alcohol interlock device means a device in a vehicle that is designed to prevent the vehicle from being started or driven unless the device is supplied with a breath sample that contains either no alcohol, or less than a certain concentration of alcohol.
+222	Using warning lights on bus carrying children
+	(1)	This section applies to the driver of a bus carrying children if the bus is required to be fitted with warning lights under the Road Transport (Vehicle Registration) Regulation 2000, schedule 1 (Light vehicle standards), other than hazard warning lights.
+	(2)	The driver must not stop the bus to drop off or pick up a child unless the warning lights are activated by the driver.
+Maximum penalty:  20 penalty units.
+222A	Lights on motor vehicle generally
+	(1)	The driver of a motor vehicle fitted with a spotlight or searchlight must not operate the light, or allow it to be operated, on a road unless-
+	(a)	the vehicle is stationary, the light is operated only for examining or making adjustments or repairs to a vehicle, and light from it is not projected further than 6m; or
+	(b)	the light is operated for the temporary purpose of reading or looking for a notice, sign, house number or something similar; or
+	(c)	the vehicle is a police vehicle; or
+	(d)	the vehicle is being used by the Territory, the Commonwealth or any public authority.
+Maximum penalty:  20 penalty units.
+	(2)	The driver of a motor vehicle fitted with an additional headlight permitted to be fitted under the Road Transport (Vehicle Registration) Regulation 2000, schedule 1 (Light vehicle standards) must not operate the headlight, or allow it to be operated, if-
+	(a)	the vehicle is being driven on a length of road in a built-up area; or
+	(b)	the driver is driving less than-
+	(i)	200m behind a vehicle travelling in the same direction as the driver; or
+	(ii)	200m from an oncoming vehicle.
+Maximum penalty:  20 penalty units.
+222B	Use of do not overtake turning vehicle sign
+A person must not drive a motor vehicle or combination displaying a do not overtake turning vehicle sign unless the motor vehicle or combination, together with any load or projection, is at least 7.5m long.
+Maximum penalty:  20 penalty units.
+Division 13.2	Lights on animal-drawn vehicles
+223	Using lights when riding animal-drawn vehicle at night or in hazardous weather conditions
+A person must not ride an animal-drawn vehicle at night, or in hazardous weather conditions causing reduced visibility, unless the vehicle is fitted with, and displays-
+	(a)	a white light fitted at or towards the front of each side of the vehicle that is clearly visible for at least 200m from the front of the vehicle; and
+	(b)	a red light fitted at or towards the rear of each side of the vehicle that is clearly visible for at least 200m from the rear of the vehicle; and
+	(c)	a red reflector fitted at or towards the rear of each side of the vehicle that is-
+	(i)	not over 1.5m above ground level; and
+	(ii)	clearly visible for at least 50m from the rear of the vehicle when light is projected onto it by another vehicle's headlight on low-beam.
+Maximum penalty:  20 penalty units.
+Division 13.3	Horns and radar detectors
+224	Using horn or similar warning device
+A driver must not use, or allow to be used, a horn, or similar warning device, fitted to or in the driver's vehicle unless-
+	(a)	it is necessary to use the horn, or warning device, to warn other road users or animals of the approach or position of the vehicle; or
+	(b)	the horn, or warning device, is being used as part of an anti-theft device, or an alcohol interlock device, fitted to the vehicle.
+Maximum penalty:  20 penalty units.
+Division 13.4	Portable warning triangles for heavy vehicles
+226	Heavy vehicle to be equipped with portable warning triangles
+	(1)	A person must not drive a vehicle with a GVM over 12t unless the vehicle is equipped with at least 3 portable warning triangles.
+Maximum penalty:  20 penalty units.
+	(2)	The person must produce the portable warning triangles for inspection if the person is directed to do so by a police officer or an authorised person.
+Maximum penalty:  20 penalty units.
+227	Using portable warning triangles
+	(1)	This section applies to a driver if the GVM of the driver's vehicle is over 12t.
+	(2)	If the driver stops on a road, or if some or all of any load being carried by the vehicle falls on to a road, at a place where the speed limit is 80km/h or more and the vehicle is not visible at any time for at least 300m in all directions from that place, the driver must use at least 3 portable warning triangles, placed in accordance with subsection (4), to warn other road users of the vehicle or load.
+Maximum penalty:  20 penalty units.
+	(3)	If the driver stops on a road, or if some or all of any load being carried by the vehicle falls on to a road, at a place where the speed limit is less than 80km/h and the vehicle is not visible at any time for at least 200m in all directions from that place, the driver must use at least 3 portable warning triangles, placed in accordance with subsection (5), to warn other road users of the vehicle or load.
+Maximum penalty:  20 penalty units.
+	(4)	For subsection (2), the driver must-
+	(a)	place 1 triangle at least 200m, but not over 250m, behind the vehicle or fallen load; and
+	(b)	if the vehicle or fallen load is on a one-way or divided road, place 1 triangle between the triangle required by paragraph (a) and the vehicle or fallen load; and
+	(c)	if the vehicle or fallen load is not on a one-way or divided road, place 1 triangle at least 200m, but not over 250m, in front of the vehicle or fallen load; and
+	(d)	place 1 triangle at the side of the vehicle, or fallen load, in a position that gives sufficient warning to other road users of the position of the vehicle or fallen load.
+	(5)	For subsection (3), the driver must-
+	(a)	place 1 triangle at least 50m, but not over 150m, behind the vehicle or fallen load; and
+	(b)	if the vehicle or fallen load is on a one-way or divided road, place 1 triangle between the triangle required by paragraph (a) and the vehicle or fallen load; and
+	(c)	if the vehicle or fallen load is not on a one-way or divided road, place 1 triangle at least 50m, but not over 150m, in front of the vehicle or fallen load; and
+	(d)	place 1 triangle at the side of the vehicle, or fallen load, in a position that gives sufficient warning to other road users of the position of the vehicle or fallen load.
+	(7)	In this section:
+divided road means any length of a two-way road that has a median strip that is a structure.
+road does not include a road related area, but includes any shoulder of the road.
+
+
+Part 14	Rules for pedestrians
+Division 14.1	General
+228	No pedestrians sign
+A pedestrian must not travel past a no pedestrians sign.
+Maximum penalty:  20 penalty units.
+229	Pedestrian on road with road access sign
+A pedestrian must not be on a length of road to which a road access sign applies if information on or with the sign indicates that pedestrians are not permitted beyond the sign.
+Maximum penalty:  20 penalty units.
+230	Crossing road-general
+	(1)	A pedestrian crossing a road-
+	(a)	must cross by the shortest safe route; and
+	(b)	must not stay on the road longer than necessary to cross the road safely.
+Maximum penalty:  20 penalty units.
+	(2)	However, if the pedestrian is crossing the road at an intersection with traffic lights and a pedestrians may cross diagonally sign, the pedestrian may cross the road diagonally at the intersection.
+	(3)	In this section:
+road does not include a road related area, but includes any shoulder of the road.
+231	Crossing road at pedestrian lights
+	(1)	A pedestrian approaching or at an intersection, or another place on a road, with pedestrian lights and traffic lights must comply with this section.
+Maximum penalty:  20 penalty units.
+	(2)	If the pedestrian lights show a red pedestrian light and the pedestrian has not already started crossing the intersection or road, the pedestrian must not start to cross until the pedestrian lights change to green.
+	(3)	If, while the pedestrian is crossing the road, the pedestrian lights change to flashing red or red, the pedestrian must not stay on the road for longer than necessary to cross safely to the nearer (in the direction of travel of the pedestrian) of the following:
+	(a)	a dividing strip, safety zone, or traffic island, forming part of the area set aside or used by pedestrians to cross the road at the intersection or place (the safety area);
+	(b)	the nearest side of the road.
+	(4)	If, under subsection (3), the pedestrian crosses to the safety area, the pedestrian must remain in the safety area until the pedestrian lights change to green.
+	(5)	However, if the pedestrian cannot operate the pedestrian lights from the safety area, the pedestrian may cross to the far side of the road when-
+	(a)	the traffic lights change to green or flashing yellow, or there is no red traffic light showing; and
+	(b)	it is safe to do so.
+	(6)	In this section:
+road does not include a road related area, but includes any shoulder of the road.
+232	Crossing road at traffic lights
+	(1)	A pedestrian approaching or at an intersection, or another place on a road, with traffic lights, but without pedestrian lights, must comply with this section.
+Maximum penalty:  20 penalty units.
+	(2)	If the traffic lights show a red or yellow traffic light and the pedestrian has not already started crossing the intersection or road, the pedestrian must not start to cross until the traffic lights change to green or flashing yellow, or there is no red traffic light showing.
+	(3)	If, while the pedestrian is crossing the road, the traffic lights change to yellow or red, the pedestrian must not stay on the road for longer than necessary to cross safely to the nearer (in the direction of travel of the pedestrian) of the following:
+	(a)	a dividing strip, safety zone, or traffic island, forming part of the area set aside or used by pedestrians to cross the road at the intersection or place (the safety area);
+	(b)	the far side of the road.
+	(3A)	Despite subsection (3), in the circumstances set out in that subsection the pedestrian may instead return to the side of the road, or to the safety area, that the pedestrian has just left, but only if-
+	(a)	at the time the lights change, that side or safety area is closer to the pedestrian than the side or safety area (whichever is the closer) that the pedestrian was heading for at that time; and
+	(b)	the pedestrian does not stay on the road for longer than is necessary to return to that side or safety area.
+	(4)	If, under subsection (3), the pedestrian crosses to the safety area, the pedestrian must remain in the safety area until the traffic lights change to green or flashing yellow, or there is no red traffic light showing.
+	(5)	In this section:
+road does not include a road related area, but includes any shoulder of the road.
+233	Crossing road to or from tram
+	(1)	A pedestrian must not cross a road to get on a tram at a tram stop until the tram has stopped at the tram stop.
+Maximum penalty:  20 penalty units.
+	(2)	A pedestrian crossing a road after getting off a tram-
+	(a)	must cross to the nearest footpath by the shortest safe route or, if there is no footpath, cross the road by the shortest safe route; and
+	(b)	must not stay on the road for longer than necessary to cross the road safely.
+Maximum penalty:  20 penalty units.
+	(3)	This section does not apply to a pedestrian-
+	(a)	on a safety zone; or
+	(b)	crossing a road to or from a safety zone.
+	(4)	Subsection (2) does not apply to-
+	(a)	a pedestrian in a shared zone; or
+	(b)	an employee of a public transport operator who is in uniform and engaged in carrying out the employee's duties.
+	(5)	In this section:
+road does not include a road related area, but includes any shoulder of the road.
+tram includes a bus travelling along tram tracks.
+234	Crossing road on or near crossing for pedestrians
+	(1)	A pedestrian must not cross a road, or part of a road, within 20m of a crossing on the road, except at the crossing or another crossing, unless the pedestrian is-
+	(a)	crossing, or helping another pedestrian to cross, an area of the road between tram tracks and the far left side of the road to get on, or after getting off, a tram or public bus; or
+	(b)	crossing to or from a safety zone; or
+	(c)	crossing at an intersection with traffic lights and a pedestrians may cross diagonally sign; or
+	(d)	crossing in a shared zone; or
+	(e)	crossing a road, or a part of a road, from which vehicles are excluded, either permanently or temporarily.
+Maximum penalty:  20 penalty units.
+	(2)	A pedestrian must not stay on a crossing on a road for longer than necessary to cross the road safely.
+Maximum penalty:  20 penalty units.
+	(4)	In this section:
+crossing means a children's crossing, marked foot crossing or pedestrian crossing.
+235	Crossing level crossing
+	(1)	A pedestrian must not cross a railway line, or tram tracks, at a level crossing unless-
+	(a)	there is a pedestrian facility at the crossing and the pedestrian uses the facility; or
+	(b)	there is no pedestrian facility at, or within 20m of, the crossing.
+Maximum penalty:  20 penalty units.
+	(2)	A pedestrian must not cross a railway line, or tram tracks, at a level crossing if-
+	(a)	warning lights (for example, twin red lights or rotating red lights) are flashing or warning bells are ringing; or
+	(b)	a gate, boom or barrier at the crossing is closed or is opening or closing; or
+	(c)	a train or tram is on or entering the crossing; or
+	(d)	a train or tram approaching the crossing can be seen from the crossing or is sounding a warning, and there would be a danger of the pedestrian being struck by the train or tram if the pedestrian entered the crossing; or
+	(e)	the crossing, or a road beyond the crossing, is blocked.
+Maximum penalty:  20 penalty units.
+Example-s (2) (e)
+The crossing, or a road beyond the crossing, may be blocked by congested traffic, a disabled vehicle, a collision between vehicles or between a vehicle and a pedestrian, or by stock on the road.
+	(2A)	If any of the following events occurs after a pedestrian has started to cross a railway line, or tram tracks, at a level crossing, the pedestrian must finish crossing the line or tracks without delay:
+	(a)	warning lights start flashing, or warning bells start ringing;
+	(b)	a gate, boom or barrier starts to close;
+	(c)	a train or tram approaches the crossing.
+Maximum penalty:  20 penalty units.
+	(3)	In this section:
+pedestrian facility means a footpath, bridge or other structure designed for the use of pedestrians.
+235A	Crossing pedestrian level crossing that has red pedestrian light
+	(1)	In this regulation:
+pedestrian level crossing means an area where a footpath or shared path crosses a railway line or tram tracks at substantially the same level.
+	(2)	If a pedestrian approaches a pedestrian level crossing that has a red pedestrian light, the pedestrian must not start to cross the crossing while the light is red.
+Maximum penalty:  20 penalty units.
+	(3)	If a red pedestrian light at a pedestrian level crossing appears after a pedestrian has started to cross the crossing, the pedestrian must finish crossing the crossing without delay.
+Maximum penalty:  20 penalty units.
+236	Pedestrian not to cause traffic hazard or obstruction
+	(1)	A pedestrian must not cause a traffic hazard by moving into the path of a driver.
+Maximum penalty:  20 penalty units.
+	(2)	A pedestrian must not unreasonably obstruct the path of any driver or another pedestrian.
+Maximum penalty:  20 penalty units.
+	(3)	For subsection (2), a pedestrian does not unreasonably obstruct the path of another pedestrian only by travelling more slowly than other pedestrians.
+	(4)	A pedestrian (other than a person travelling in or on a personal mobility device, wheeled recreational device or wheeled toy) may stand on, or move onto, a road (other than a designated intersection) to-
+	(a)	solicit contributions, employment or business from a person in a vehicle; or
+	(b)	hitchhike; or
+	(c)	display an advertisement; or
+	(d)	sell or offer articles for sale; or
+	(e)	wash or clean, or offer to clean, the windscreen of a vehicle.
+	(4A)	A pedestrian commits an offence if the pedestrian-
+	(a)	stands on, or moves onto, a designated intersection; and
+	(b)	engages in any of the following activities:
+	(i)	solicits contributions, employment or business from a person in a vehicle;
+	(ii)	hitchhikes;
+	(iii)	displays an advertisement;
+	(iv)	sells or offers articles for sale;
+	(v)	washes or cleans, or offers to clean, the windscreen of a vehicle.
+Maximum penalty:  10 penalty units.
+	(5)	A person in a vehicle may buy, or offer to buy, an article or service from a person standing on a road (other than a designated intersection).
+	(6)	In this section:
+designated intersection means a road and a road related area at, or within 50m of, any of the following intersections:
+	(a)	Northbourne Avenue with Barry Drive and Cooyong Street;
+	(b)	Northbourne Avenue with MacArthur Avenue and Wakefield Avenue;
+	(c)	Northbourne Avenue with Mouat Street and Antill Street;
+	(d)	Northbourne Avenue with Barton Highway and Federal Highway;
+	(e)	Federal Highway with Flemington Road.
+road includes any shoulder of the road, and any median strip, painted island or traffic island, but does not include any other road related area.
+237	Getting on or into moving vehicle
+	(1)	A person must not get on, or into, a moving vehicle unless-
+	(a)	the person is engaged in the door-to-door delivery or collection of goods, or in the collection of waste or garbage, and is required to get in or out of the vehicle, or on or off the vehicle, at frequent intervals; and
+	(b)	the vehicle is not travelling at a speed over 5km/h.
+Maximum penalty:  20 penalty units.
+	(2)	This section does not apply to a person who is getting on or off a bicycle or animal.
+238	Pedestrian travelling along road (except in or on wheeled recreational device, wheeled toy or personal mobility device)
+	(1)	A pedestrian must not travel along a road if there is a footpath or nature strip adjacent to the road, unless it is impracticable to travel on the footpath or nature strip.
+Maximum penalty:  20 penalty units.
+	(2)	A pedestrian travelling along a road-
+	(a)	must keep as far to the left or right side of the road as practicable; and
+	(ab)	must, when moving forward, face approaching traffic that is moving in the direction opposite to which the pedestrian is travelling, unless it is impracticable to do so; and
+	(b)	must not travel on the road alongside more than 1 other pedestrian or vehicle travelling on the road in the same direction as the pedestrian, unless the pedestrian is overtaking other pedestrians.
+Maximum penalty:  20 penalty units.
+	(2A)	This section does not apply to a pedestrian in a shared zone.
+	(3)	In this section:
+pedestrian does not include-
+	(a)	a person travelling in or on a wheeled recreational device or wheeled toy; or
+	(b)	a person travelling in or on a personal mobility device.
+Note	People travelling along roads in or on wheeled recreational devices or wheeled toys are dealt with in s 241.  People travelling along roads in or on personal mobility devices are dealt with in s 244E.
+road does not include a road related area, but includes any shoulder of the road.
+239	Pedestrian on bicycle path or separated footpath
+	(1)	A pedestrian must not be on a bicycle path, or a part of a separated footpath designated for the use of bicycles, unless the pedestrian-
+	(a)	is crossing the bicycle path or separated footpath by the shortest safe route; and
+	(b)	does not stay on the bicycle path or separated footpath for longer than necessary to cross the bicycle path or separated footpath safely.
+Maximum penalty:  20 penalty units.
+	(2)	However, a pedestrian may be on a bicycle path, or a part of a separated footpath designated for the use of bicycles, if-
+	(a)	the pedestrian is-
+	(i)	in or pushing a wheelchair; or
+	(ii)	on rollerblades, rollerskates or a similar wheeled recreational device; or
+	(iii)	travelling in or on a personal mobility device; and
+	(b)	there is no traffic control device, or information on or with a traffic control device, applying to the bicycle path or separated footpath that indicates that the pedestrian is not permitted to be on the bicycle path or the part of the separated footpath designated for the use of bicycles.
+	(3)	A pedestrian who is crossing a bicycle path, or a part of a separated footpath designated for the use of bicycles, must keep out of the path of any bicycle, or any pedestrian who is permitted under subsection (2) to be on the bicycle path, or the part of the separated footpath designated for the use of bicycles.
+Maximum penalty:  20 penalty units.
+	(4)	In this regulation:
+bicycle path means a length of path beginning at a bicycle path sign or bicycle path road marking, and ending at the nearest of the following:
+	(a)	an end bicycle path sign or end bicycle path road marking;
+	(b)	a separated footpath sign or separated footpath road marking;
+	(c)	a road (except a road related area);
+	(d)	the end of the path.
+bicycle path road marking means a road marking on a path, consisting of a bicycle symbol, the words 'bicycles only', or both the bicycle symbol and the word 'only'.
+separated footpath means a length of footpath beginning at a separated footpath sign or separated footpath road marking, and ending at the nearest of the following:
+	(a)	an end separated footpath sign or end separated footpath road marking;
+	(b)	a bicycle path sign or bicycle path road marking;
+	(c)	a no bicycles sign or no bicycles road marking;
+	(d)	a road (except a road related area);
+	(e)	the end of the footpath.
+separated footpath road marking means a road marking on a footpath consisting of a pedestrian symbol and a bicycle symbol side by side, with or without the word 'only'.
+
+	(5)	In this section:
+end bicycle path road marking means a bicycle path road marking with the word 'end'.
+end separated footpath road marking means a separated footpath road marking with the word 'end'.
+Division 14.2	Additional rules for people travelling in or on wheeled recreational devices and wheeled toys
+240A	No wheeled recreational devices or toys sign
+A person on a road who is travelling in or on a wheeled recreational device or wheeled toy must not travel past a no wheeled recreational devices or toys sign.
+Maximum penalty:  20 penalty units.
+240	Wheeled recreational device or toy not to be used on certain roads
+	(1)	A person must not travel in or on a wheeled recreational device or wheeled toy on-
+	(a)	a road with a dividing line or median strip; or
+	(b)	a road on which the speed limit is greater than 50km/h; or
+	(c)	a one-way road with more than 1 marked lane.
+Maximum penalty:  20 penalty units.
+	(2)	A person must not travel in or on a wheeled recreational device on a road at night.
+Maximum penalty:  20 penalty units.
+	(3A)	Subsections (1) and (2) do not apply to a person who is crossing a road in or on a wheeled recreational device or wheeled toy, if the person-
+	(a)	crosses the road by the shortest safe route; and
+	(b)	does not stay on the road longer than necessary to cross the road safely.
+	(4)	In subsections (1) and (2), road does not include road related area, but includes any shoulder of the road.
+241	Travelling in or on wheeled recreational device or toy on road
+	(1)	A person travelling in or on a wheeled recreational device or wheeled toy on a road-
+	(a)	must keep as far to the left side of the road as is practicable; and
+	(b)	must not travel alongside more than 1 other pedestrian or vehicle travelling on the road in the same direction as the person, unless the person is overtaking other pedestrians.
+Maximum penalty:  20 penalty units.
+	(2)	In this section:
+road does not include a road related area but, in subsection (1) (b), includes any shoulder of the road.
+241A	Use of wheeled recreational device and wheeled toy on road
+	(1)	A person must not travel in or on a wheeled recreational device or wheeled toy on a road while it is attached to another vehicle.
+Maximum penalty:  20 penalty units.
+	(2)	A person travelling in or on a wheeled recreational device or wheeled toy on a road must not permit it to be drawn by another vehicle.
+Maximum penalty:  20 penalty units.
+	(3)	A person must not travel in or on a wheeled recreational device or wheeled toy on a road if anyone travelling in or on it is completely or partly assisted in propelling it by means other than human power or gravity.
+Maximum penalty:  20 penalty units.
+242	Travelling in or on wheeled recreational device or toy on footpath or shared path
+	(1)	A person travelling in or on a wheeled recreational device or wheeled toy on a footpath or shared path must-
+	(a)	keep to the left of the footpath or shared path unless it is impracticable to do so; and
+	(b)	give way to any pedestrian (except a person travelling in or on a wheeled recreational device or wheeled toy) who is on the footpath or shared path.
+Maximum penalty:  20 penalty units.
+	(2)	In this regulation:
+shared path means an area open to the public (except a separated footpath) that is designated for, or has as 1 of its main uses, use by both the riders of bicycles and pedestrians, and includes a length of path for use by both bicycles and pedestrians beginning at a shared path sign or shared path road marking and ending at the nearest of the following:
+	(a)	an end shared path sign or end shared path road marking;
+	(b)	a no bicycles sign or no bicycles road marking;
+	(c)	a bicycle path sign or bicycle path road marking;
+	(d)	a road (except a road related area);
+	(e)	the end of the path.
+	(3)	In this section:
+end shared path road marking means a shared path road marking with the word 'end'.
+shared path road marking means a road marking consisting of a pedestrian symbol above a bicycle symbol.
+243	Travelling on rollerblades etc on bicycle path or separated footpath
+	(1)	A person travelling on rollerblades, rollerskates, or a similar wheeled recreational device, must not be on a part of a separated footpath designated for the use of pedestrians unless the person-
+	(a)	is crossing the separated footpath by the shortest safe route; and
+	(b)	does not stay on the separated footpath for longer than necessary to cross the separated footpath safely.
+Maximum penalty:  20 penalty units.
+	(2)	A person travelling on rollerblades, rollerskates, or a similar wheeled recreational device, on a bicycle path, or a part of a separated footpath designated for the use of bicycles, must keep out of the path of any bicycle.
+Maximum penalty:  20 penalty units.
+244	Wheeled recreational device or wheeled toy being towed etc
+	(1)	A person must not travel in or on a wheeled recreational device or wheeled toy that is being towed by a vehicle.
+Maximum penalty:  20 penalty units.
+	(2)	A person travelling in or on a wheeled recreational device or wheeled toy must not hold onto a vehicle while the vehicle is moving.
+Maximum penalty:  20 penalty units.
+	(3)	A person travelling in or on a wheeled recreational device or wheeled toy must not travel within 2m of the rear of a moving motor vehicle continuously for more than 200m
+Maximum penalty:  20 penalty units.
+
+Division 14.3	Additional rules for people travelling in or on personal mobility devices
+244D	Personal mobility device not to be used on road if footpath etc available
+	(1)	A person must not travel in or on a personal mobility device on a length of road.
+Maximum penalty:  20 penalty units.
+	(2)	Subsection (1) does not apply if-
+	(a)	there is no footpath, nature strip or shared path adjacent to the road (an adjacent area); or
+	(b)	it is impracticable to travel on an adjacent area.
+	(3)	Subsection (1) does not apply to a person who is crossing a road in or on a personal mobility device if the person-
+	(a)	crosses the road by the shortest safe route; and
+	(b)	does not stay on the road longer than necessary to cross the road safely.
+	(4)	In subsections (1) and (2), road does not include road related area, but includes any shoulder of the road.
+244E	Travelling in or on personal mobility device on road
+	(1)	A person travelling in or on a personal mobility device on a road-
+	(a)	must keep as far to the left side of the road as is practicable; and
+	(b)	must not, when moving forward, face approaching traffic that is moving in the direction opposite to which the person is travelling; and
+	(c)	must not travel alongside more than 1 other pedestrian or vehicle travelling on the road in the same direction as the person, unless the person is overtaking other pedestrians.
+Maximum penalty:  20 penalty units.
+	(2)	This section does not apply to a person in a shared zone.
+	(3)	In this section:
+road does not include a road related area but, in subsection (1) (c), includes any shoulder of the road.
+244F	Travelling in or on personal mobility device on footpath or shared path
+A person travelling in or on a personal mobility device on a footpath or shared path must-
+	(a)	keep to the left of the footpath or shared path unless it is impracticable to do so; and
+	(b)	give way to any pedestrian (except a person travelling in or on a personal mobility device) who is on the footpath or shared path.
+Maximum penalty:  20 penalty units.
+244FA	Travelling in or on personal mobility device on bicycle path or separated footpath
+	(1)	A person travelling in or on a personal mobility device must not be on a part of a separated footpath designated for the use of pedestrians unless the person-
+	(a)	is crossing the separated footpath by the shortest safe route; and
+	(b)	does not stay on the separated footpath for longer than necessary to cross the separated footpath safely.
+Maximum penalty:  20 penalty units.
+	(2)	A person travelling in or on a personal mobility device on a bicycle path, or a part of a separated footpath designated for the use of bicycles, must keep out of the path of any bicycle.
+Maximum penalty:  20 penalty units.
+244FB	Speed limit travelling in or on personal mobility device
+A person travelling in or on a personal mobility device commits an offence if the person travels faster than-
+	(a)	if the person is travelling on a footpath-15km/h; or
+	(b)	in any other case-25km/h.
+Maximum penalty:  20 penalty units.
+244G	Travelling in or on personal mobility device across road on crossing
+	(1)	A person travelling in or on a personal mobility device commits an offence if, when approaching a crossing, the person-
+	(a)	travels faster than 10km/h; or
+	(b)	fails to look for approaching traffic and prepare to stop.
+Maximum penalty:  20 penalty units.
+	(2)	A person travelling in or on a personal mobility device commits an offence if, when riding on a crossing, the person-
+	(a)	travels faster than 10km/h; or
+	(b)	fails to give way to another pedestrian on the crossing; or
+	(c)	fails to keep to the left of an oncoming bicycle or pedestrian.
+Maximum penalty:  20 penalty units.
+	(3)	In this section:
+crossing means any of the following:
+	(a)	a children's crossing;
+	(b)	a marked foot crossing;
+	(c)	a pedestrian crossing.
+244GA	Use of mobile device in or on personal mobility device
+	(1)	A person commits an offence if the person uses a mobile device while travelling in or on a personal mobility device.
+Maximum penalty:  20 penalty units.
+	(2)	Subsection (1) does not apply if-
+	(a)	the mobile device is being used as a driver's aid and, while being used for that purpose, both of the following apply:
+	(i)	the body of the mobile device is secured in a mounting affixed to the personal mobility device;
+	(ii)	the use of the device does not require the person to press anything on the body of the mobile device or otherwise manipulate any part of the body of the mobile device;
+Examples-driver's aids
+*	dispatch systems
+*	navigational or intelligent highway and vehicle system equipment
+*	rear-view screens
+	(b)	the mobile device is being used to stream or play music or audio files and, while being used for that purpose, both of the following apply:
+	(i)	the body of the mobile device is not being held by the person;
+	(ii)	the use of the mobile device does not require the person to press anything on the body of the mobile device or otherwise manipulate any part of the body of the mobile device.
+Note	The defendant has an evidential burden in relation to the matters mentioned in s (2) (see Criminal Code, s 58).
+	(3)	For this section, a person does not use a mobile device to receive a text message, video message, email or similar communication if-
+	(a)	the communication is received automatically by the mobile device; and
+	(b)	on and after receipt, the communication itself (rather than any indication that the communication has been received) does not become automatically visible on the screen of the mobile device.
+	(4)	In this section:
+body, in relation to a mobile device-see section 300 (8).
+held, by a person-
+	(a)	includes rested on, or kept in place by-
+	(i)	a part of the person's body; or
+	(ii)	clothing worn by the person; or
+	(iii)	something else on the person's lap; but
+	(b)	does not include-
+	(i)	kept in a pocket of the person's clothing or in a pouch worn by the person; or
+	(ii)	for a mobile device that is a wearable device-worn by the person in the manner intended by the manufacturer.
+use, in relation to a mobile device, includes any of the following actions by a person:
+	(a)	holding the body of the device (whether or not engaged in a phone call);
+	(b)	entering or placing, other than by the use of voice, anything into the device, or sending or looking at anything that is in the device;
+	(c)	turning the device on or off;
+	(d)	operating any other function of the device.
+244H	Person travelling in or on personal mobility device must wear bicycle helmet
+	(1)	A person travelling in or on a personal mobility device must wear an approved bicycle helmet securely fitted and fastened on the person's head.
+Maximum penalty:  20 penalty units.
+	(2)	This section does not apply if-
+	(a)	the person is a member of a religious group; and
+	(b)	the person is wearing a type of headdress customarily worn by members of the group; and
+	(c)	the wearing of the headdress makes it impractical for the person to wear an approved bicycle helmet.
+Note	The defendant has an evidential burden in relation to the matters mentioned in s (2) (see Criminal Code, s 58).
+244HA	Carrying passenger in or on personal mobility device
+A person commits an offence if the person-
+	(a)	travels in or on a personal mobility device; and
+	(b)	another person is in or on the device.
+Maximum penalty:  20 penalty units.
+244HB	Child using personal mobility device
+A child under 12 years old may only use a personal mobility device with adult supervision.
+244I	Warning device-personal mobility device
+A person travelling in or on a personal mobility device commits an offence if-
+	(a)	a bell, horn or similar warning device in working order is not fitted to the personal mobility device; or
+	(b)	if it is not reasonably practicable for a bell, horn or similar warning device to be fitted to the personal mobility device-the person does not have ready access to a bell, horn or similar warning device in working order.
+Maximum penalty:  20 penalty units.
+244J	Personal mobility device use at night or hazardous weather conditions
+	(1)	A person commits an offence if-
+	(a)	the person travels in or on a personal mobility device-
+	(i)	at night; or
+	(ii)	in hazardous weather conditions causing reduced visibility.
+	(b)	fails to comply with a requirement under subsection (2).
+Maximum penalty:  20 penalty units.
+	(2)	The person must display, on themself or the personal mobility device-
+	(a)	a flashing or steady white light that is clearly visible for at least 200m from the front of the personal mobility device; and
+	(b)	a flashing or steady red light that is clearly visible for at least 200m from the rear of the personal mobility device; and
+	(c)	a red reflector that is clearly visible for at least 50m from the rear of the personal mobility device when light is projected onto it by a vehicle's headlight on low-beam.
+244K	Travelling in or on personal mobility device-maintaining proper control
+A person must not travel in or on a personal mobility device unless the person has proper control of the personal mobility device.
+Maximum penalty:  20 penalty units.
+244L	Travelling in or on personal mobility device without due care etc
+A person must not travel in or on a personal mobility device without-
+	(a)	due care and attention; or
+	(b)	reasonable consideration for other road users.
+Maximum penalty:  20 penalty units.
+
+
