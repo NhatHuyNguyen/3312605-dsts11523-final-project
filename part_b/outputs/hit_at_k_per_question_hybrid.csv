@@ -1,0 +1,61 @@
+chunks,mode,id,doc,rank_of_gold,top5,hit@1,hit@3,hit@5
+800/110,unfiltered,Q01,1,6,doc1_s24_c6;doc1_s24_c2;doc1_s24_c1;doc1_s24_c4;doc1_s24_c0;doc1_s24_c5,False,False,False
+800/110,doc filter,Q01,1,6,doc1_s24_c6;doc1_s24_c2;doc1_s24_c1;doc1_s24_c4;doc1_s24_c0;doc1_s24_c5,False,False,False
+800/110,unfiltered,Q02,1,3,doc1_s23_c0;doc1_s22_c0;doc1_s02_c0;doc1_s25_c14;doc3_s06_c23;doc2_s05_c6;doc3_s04_c9;doc3_s06_c57,False,True,True
+800/110,doc filter,Q02,1,3,doc1_s23_c0;doc1_s22_c0;doc1_s02_c0;doc1_s25_c14;doc1_s23_c1;doc1_s25_c3;doc1_s23_c2;doc1_s25_c5,False,True,True
+800/110,unfiltered,Q03,2,5,doc2_s04_c56;doc2_s04_c55;doc2_s03_c14;doc2_s04_c58;doc2_s03_c10;doc2_s04_c59;doc2_s03_c16,False,False,True
+800/110,doc filter,Q03,2,5,doc2_s04_c56;doc2_s04_c55;doc2_s03_c14;doc2_s04_c58;doc2_s03_c10;doc2_s04_c59;doc2_s03_c16,False,False,True
+800/110,unfiltered,Q04,1,4,doc1_s25_c22;doc2_s00_c2;doc1_s25_c21;doc1_s25_c20;doc1_s27_c13;doc3_s06_c67;doc1_s25_c13,False,False,True
+800/110,doc filter,Q04,1,5,doc1_s25_c22;doc1_s25_c21;doc1_s25_c20;doc1_s27_c13;doc1_s27_c8;doc1_s25_c13;doc1_s28_c5;doc1_s25_c15,False,False,True
+800/110,unfiltered,Q05,2,2,doc2_s04_c55;doc2_s03_c37;doc1_s28_c24;doc2_s03_c21;doc2_s03_c4;doc2_s03_c13;doc2_s03_c59;doc2_s03_c69;doc2_s03_c65,False,True,True
+800/110,doc filter,Q05,2,1,doc2_s04_c55;doc2_s03_c37;doc2_s03_c4;doc2_s03_c21;doc2_s03_c59;doc2_s03_c13;doc2_s03_c65;doc2_s03_c69;doc2_s03_c58,True,True,True
+800/110,unfiltered,Q06,1,1,doc2_s00_c5;doc2_s04_c9;doc1_s28_c7;doc2_s03_c37;doc1_s28_c8;doc3_s05_c42;doc2_s04_c29;doc2_s00_c4;doc3_s06_c4,True,True,True
+800/110,doc filter,Q06,1,2,doc1_s28_c7;doc1_s28_c16;doc1_s28_c8;doc1_s28_c32;doc1_s28_c24;doc1_s28_c23;doc1_s28_c26;doc1_s28_c15;doc1_s27_c7,False,True,True
+800/110,unfiltered,Q07,2,5,doc2_s04_c38;doc2_s04_c39;doc2_s04_c32;doc2_s04_c35;doc3_s02_c6;doc2_s04_c23;doc2_s04_c33,False,False,True
+800/110,doc filter,Q07,2,6,doc2_s04_c38;doc2_s04_c39;doc2_s04_c32;doc2_s04_c35;doc2_s04_c23;doc2_s04_c33;doc2_s04_c19,False,False,False
+800/110,unfiltered,Q08,2,3,doc2_s00_c9;doc2_s03_c7;doc3_s03_c13;doc3_s06_c4;doc2_s00_c10;doc1_s26_c4;doc2_s00_c2;doc2_s03_c8;doc2_s03_c60,False,True,True
+800/110,doc filter,Q08,2,2,doc2_s00_c9;doc2_s00_c10;doc2_s03_c7;doc2_s03_c8;doc2_s00_c2;doc2_s03_c6;doc2_s03_c60;doc2_s03_c25,False,True,True
+800/110,unfiltered,Q09,3,2,doc3_s01_c17;doc3_s01_c15;doc3_s01_c24;doc3_s01_c22;doc1_s16_c1;doc3_s01_c23,False,True,True
+800/110,doc filter,Q09,3,1,doc3_s01_c17;doc3_s01_c15;doc3_s01_c24;doc3_s01_c22;doc3_s01_c23;doc3_s06_c85,True,True,True
+800/110,unfiltered,Q10,2,3,doc2_s06_c23;doc2_s06_c25;doc3_s00_c12;doc2_s06_c22;doc2_s06_c24;doc2_s06_c17;doc2_s06_c41;doc2_s06_c29,False,True,True
+800/110,doc filter,Q10,2,4,doc2_s06_c23;doc2_s06_c25;doc2_s06_c24;doc2_s06_c22;doc2_s06_c41;doc2_s06_c17;doc2_s05_c0;doc2_s06_c29,False,False,True
+800/110,unfiltered,Q11,3,6,doc3_s05_c15;doc3_s05_c13;doc3_s05_c16;doc3_s05_c1;doc1_s20_c0;doc3_s06_c64;doc3_s05_c10;doc3_s05_c8,False,False,False
+800/110,doc filter,Q11,3,6,doc3_s05_c15;doc3_s05_c13;doc3_s05_c16;doc3_s05_c1;doc3_s06_c64;doc3_s05_c8;doc3_s05_c10;doc3_s05_c0,False,False,False
+800/110,unfiltered,Q12,1,4,doc1_s26_c9;doc1_s26_c8;doc1_s26_c10;doc2_s04_c1;doc3_s01_c30;doc1_s26_c7;doc1_s26_c6,False,False,True
+800/110,doc filter,Q12,1,5,doc1_s26_c9;doc1_s26_c8;doc1_s26_c10;doc1_s26_c7;doc1_s26_c6;doc1_s26_c4,False,False,True
+800/110,unfiltered,Q13,3,4,doc3_s00_c0;doc1_s15_c0;doc3_s01_c40;doc3_s00_c1;doc3_s06_c28;doc1_s11_c4;doc3_s00_c10;doc3_s00_c5;doc2_s03_c38,False,False,True
+800/110,doc filter,Q13,3,1,doc3_s00_c0;doc3_s00_c1;doc3_s01_c40;doc3_s00_c5;doc3_s06_c28;doc3_s00_c9;doc3_s00_c10;doc3_s03_c40,True,True,True
+800/110,unfiltered,Q14,3,7,doc3_s00_c8;doc2_s03_c68;doc2_s03_c66;doc2_s06_c29;doc2_s03_c67;doc2_s06_c16;doc3_s01_c30;doc1_s11_c4;doc3_s01_c29,False,False,False
+800/110,doc filter,Q14,3,3,doc3_s00_c8;doc3_s01_c38;doc3_s01_c30;doc3_s00_c0;doc3_s01_c29;doc3_s03_c24;doc3_s03_c40;doc3_s03_c5;doc3_s00_c2,False,True,True
+800/110,unfiltered,Q15,2,6,doc2_s04_c9;doc3_s06_c5;doc2_s04_c8;doc1_s28_c31;doc1_s28_c28;doc1_s28_c33;doc1_s27_c18;doc3_s06_c4;doc2_s03_c3,False,False,False
+800/110,doc filter,Q15,2,4,doc2_s04_c9;doc2_s03_c3;doc2_s04_c8;doc2_s04_c7;doc2_s06_c4;doc2_s03_c4;doc2_s06_c3;doc2_s04_c10,False,False,True
+520/120,unfiltered,Q01,1,5,doc1_s24_c10;doc1_s24_c4;doc1_s24_c3;doc1_s24_c2;doc1_s24_c1;doc2_s04_c68,False,False,True
+520/120,doc filter,Q01,1,6,doc1_s24_c10;doc1_s24_c4;doc1_s24_c3;doc1_s24_c2;doc1_s24_c1;doc1_s24_c7,False,False,False
+520/120,unfiltered,Q02,1,6,doc1_s23_c1;doc1_s22_c0;doc1_s22_c1;doc1_s02_c0;doc1_s23_c0;doc2_s05_c12;doc3_s06_c99;doc1_s22_c6,False,False,False
+520/120,doc filter,Q02,1,6,doc1_s23_c1;doc1_s22_c0;doc1_s22_c1;doc1_s02_c0;doc1_s23_c0;doc1_s25_c24;doc1_s22_c6;doc1_s25_c25,False,False,False
+520/120,unfiltered,Q03,2,5,doc2_s04_c96;doc2_s04_c101;doc2_s03_c18;doc2_s04_c97;doc2_s03_c27;doc2_s04_c105;doc2_s03_c24;doc2_s04_c95;doc2_s04_c100,False,False,True
+520/120,doc filter,Q03,2,5,doc2_s04_c96;doc2_s04_c101;doc2_s03_c18;doc2_s04_c97;doc2_s03_c27;doc2_s04_c105;doc2_s03_c24;doc2_s04_c95;doc2_s04_c100,False,False,True
+520/120,unfiltered,Q04,1,2,doc1_s25_c38;doc2_s00_c3;doc1_s27_c23;doc1_s25_c39;doc2_s03_c19;doc2_s00_c4;doc1_s25_c36;doc2_s00_c2,False,True,True
+520/120,doc filter,Q04,1,5,doc1_s25_c38;doc1_s25_c39;doc1_s27_c23;doc1_s25_c36;doc1_s25_c35;doc1_s27_c14;doc1_s25_c10;doc1_s04_c2,False,False,True
+520/120,unfiltered,Q05,2,1,doc2_s04_c95;doc2_s03_c36;doc2_s03_c8;doc2_s03_c21;doc2_s03_c103;doc2_s03_c98;doc2_s03_c65;doc2_s03_c37;doc2_s03_c101,True,True,True
+520/120,doc filter,Q05,2,1,doc2_s04_c95;doc2_s03_c36;doc2_s03_c8;doc2_s03_c21;doc2_s03_c103;doc2_s03_c98;doc2_s03_c65;doc2_s03_c37;doc2_s03_c101,True,True,True
+520/120,unfiltered,Q06,1,2,doc1_s28_c13;doc1_s28_c12;doc1_s27_c31;doc2_s03_c63;doc1_s28_c14;doc2_s00_c7;doc2_s03_c64;doc2_s00_c8,False,True,True
+520/120,doc filter,Q06,1,5,doc1_s28_c13;doc1_s28_c12;doc1_s27_c31;doc1_s28_c14;doc1_s25_c20;doc1_s24_c10;doc1_s25_c14;doc1_s28_c42,False,False,True
+520/120,unfiltered,Q07,2,7,doc2_s04_c66;doc2_s04_c67;doc2_s04_c9;doc2_s04_c40;doc2_s04_c60;doc2_s04_c34;doc2_s04_c55;doc2_s03_c79,False,False,False
+520/120,doc filter,Q07,2,7,doc2_s04_c66;doc2_s04_c67;doc2_s04_c9;doc2_s04_c40;doc2_s04_c60;doc2_s04_c34;doc2_s04_c55;doc2_s03_c79,False,False,False
+520/120,unfiltered,Q08,2,2,doc2_s00_c17;doc2_s03_c44;doc2_s03_c9;doc2_s00_c16;doc3_s06_c7;doc3_s03_c23;doc2_s03_c101;doc2_s03_c10,False,True,True
+520/120,doc filter,Q08,2,2,doc2_s00_c17;doc2_s03_c9;doc2_s03_c44;doc2_s00_c16;doc2_s03_c101;doc2_s03_c10;doc2_s03_c47,False,True,True
+520/120,unfiltered,Q09,3,2,doc3_s01_c29;doc3_s01_c26;doc3_s01_c30;doc3_s06_c147;doc3_s01_c39;doc1_s16_c1;doc3_s01_c46,False,True,True
+520/120,doc filter,Q09,3,2,doc3_s01_c29;doc3_s01_c26;doc3_s01_c30;doc3_s06_c147;doc3_s01_c39;doc3_s01_c4;doc3_s01_c46,False,True,True
+520/120,unfiltered,Q10,2,3,doc2_s06_c40;doc2_s06_c41;doc2_s06_c43;doc2_s06_c42;doc2_s06_c39;doc3_s00_c20;doc1_s14_c2;doc2_s06_c44,False,True,True
+520/120,doc filter,Q10,2,2,doc2_s06_c40;doc2_s06_c41;doc2_s06_c43;doc2_s06_c42;doc2_s06_c39;doc2_s06_c71;doc2_s06_c44,False,True,True
+520/120,unfiltered,Q11,3,7,doc3_s05_c27;doc3_s05_c26;doc3_s05_c17;doc3_s05_c0;doc3_s05_c2;doc3_s05_c22;doc3_s05_c23;doc3_s06_c111,False,False,False
+520/120,doc filter,Q11,3,7,doc3_s05_c27;doc3_s05_c26;doc3_s05_c17;doc3_s05_c0;doc3_s05_c2;doc3_s05_c22;doc3_s05_c23;doc3_s06_c111,False,False,False
+520/120,unfiltered,Q12,1,4,doc1_s26_c16;doc1_s26_c14;doc1_s26_c15;doc1_s26_c17;doc3_s01_c52;doc1_s26_c12,False,False,True
+520/120,doc filter,Q12,1,5,doc1_s26_c16;doc1_s26_c14;doc1_s26_c15;doc1_s26_c17;doc1_s26_c12;doc1_s26_c11,False,False,True
+520/120,unfiltered,Q13,3,5,doc3_s00_c1;doc3_s00_c0;doc3_s00_c15;doc3_s01_c70;doc1_s15_c0;doc2_s03_c66;doc2_s03_c118;doc3_s00_c2,False,False,True
+520/120,doc filter,Q13,3,2,doc3_s00_c1;doc3_s00_c0;doc3_s01_c70;doc3_s00_c15;doc3_s00_c2;doc3_s01_c69;doc3_s00_c18,False,True,True
+520/120,unfiltered,Q14,3,6,doc3_s00_c14;doc2_s03_c116;doc3_s01_c52;doc2_s03_c115;doc2_s03_c118;doc2_s03_c117;doc3_s03_c69;doc2_s03_c114;doc3_s01_c50,False,False,False
+520/120,doc filter,Q14,3,3,doc3_s00_c14;doc3_s00_c6;doc3_s03_c42;doc3_s01_c52;doc3_s03_c41;doc3_s03_c69;doc3_s00_c0;doc3_s01_c50,False,True,True
+520/120,unfiltered,Q15,2,5,doc2_s04_c16;doc1_s27_c31;doc2_s04_c14;doc3_s06_c8;doc1_s28_c54;doc1_s27_c23;doc1_s28_c49;doc2_s04_c18,False,False,True
+520/120,doc filter,Q15,2,4,doc2_s04_c16;doc2_s04_c14;doc2_s04_c18;doc2_s03_c6;doc2_s04_c8;doc2_s04_c12,False,False,True
