@@ -33,7 +33,7 @@ import road_rules_ta as ta                                    # the search, chec
 st.set_page_config(page_title="TA for ACT Road Rules", layout="wide")   # the browser tab's title; use the full width
 
 # The example buttons in the sidebar. They are all recorded, so Replay mode can answer them.
-GOLD = pd.read_csv("gold/gold_questions.csv")             # the 11 gold questions: their answers are recorded
+GOLD = pd.read_csv("../gold/gold_questions.csv")             # the 11 gold questions: their answers are recorded
 EXAMPLES = GOLD.set_index("id").loc[["Q03", "Q06", "Q08", "Q10", "Q11"], "question"].tolist()   # 5 clickable examples
 # Add 4 more recorded questions: 3 more tutorial questions and one general question (the last one).
 EXAMPLES += ["What is speed limit in a built-up area?", "Can I cross the intersetion when the lights are red?"]   # 9 examples in total
@@ -243,7 +243,7 @@ def run(message, settings):                               # handle one new messa
 
 # ---- The page itself: this part runs from top to bottom on every rerun ----
 # The logo file, turned into base64 text so that it can sit directly inside the page's HTML.
-logo = base64.b64encode((HERE / "assets" / "ACT-Road-Rules.jpg").read_bytes()).decode("ascii")   # the logo as text for HTML
+logo = base64.b64encode((HERE / ".." / "assets" / "ACT-Road-Rules.jpg").read_bytes()).decode("ascii")   # the logo as text for HTML
 # The two lists that Streamlit remembers between reruns: messages = the bubbles drawn on screen,
 # history = the earlier turns we send to the model.
 for name in ["messages", "history"]:                      # the first time the page runs
@@ -291,7 +291,7 @@ with st.sidebar:                                          # everything in the le
             pending = [example]                           # ask this one question
 
 # ---- The main area: the logo, the title, the chat so far, then any new messages ----
-st.markdown(f'<img src="data:image/svg+xml;base64,{logo}" width="260" alt="TA for ACT Road Rules logo">',   # the logo
+st.markdown(f'<img src="data:../image/svg+xml;base64,{logo}" width="260" alt="TA for ACT Road Rules logo">',   # the logo
             unsafe_allow_html=True)                       # allow this one small piece of HTML
 st.title("TA for ACT Road Rules")                          # the page title
 # One sentence that tells the user what the TA can do.

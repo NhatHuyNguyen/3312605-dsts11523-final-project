@@ -27,16 +27,16 @@ import numpy as np                                        # numpy = numbers, vec
 # File names. The recorded files come with the lab; the "MY_" files collect your own live results.
 # LLM = large language model, i.e. the chat model.
 # CORPUS = Path(__file__).parent.parent / "data" 
-REPLIES_FILE = Path("replay/llm_replies_road_rules.json")            # recorded real LLM replies (used when USE_RECORDED = True)
-EMBEDS_FILE = Path("replay/embeddings_road_rules.json")              # recorded real vectors, also for replay
-MY_REPLIES_FILE = Path("outputs/my_llm_replies.json")     # every live LLM reply you get is saved here
-MY_EMBEDS_FILE = Path("outputs/my_embeddings.json")       # every live vector you get is saved here
+REPLIES_FILE = Path("../replay/llm_replies_road_rules.json")            # recorded real LLM replies (used when USE_RECORDED = True)
+EMBEDS_FILE = Path("../replay/embeddings_road_rules.json")              # recorded real vectors, also for replay
+MY_REPLIES_FILE = Path("../outputs/my_llm_replies.json")     # every live LLM reply you get is saved here
+MY_EMBEDS_FILE = Path("../outputs/my_embeddings.json")       # every live vector you get is saved here
 # Load the recorded files into dictionaries (an empty dictionary if a file is missing).
 RECORDED = json.loads(REPLIES_FILE.read_text(encoding="utf-8")) if REPLIES_FILE.exists() else {}       # load replies
 RECORDED_EMB = json.loads(EMBEDS_FILE.read_text(encoding="utf-8")) if EMBEDS_FILE.exists() else {}    # load vectors
 MY_REPLIES, MY_EMBEDS = {}, {}                            # this session's live replies and vectors
 USED_KEYS, USED_EMB = set(), set()                        # which requests this run used (for the run record)
-CORPUS = Path("data")
+CORPUS = Path("../data")
 # A replay key is a short fingerprint of a request: the same model and messages always give the
 # same key, so we can look up the recorded reply. Any change to the prompt text gives a new key.
 def reply_key(payload):                                   # replay key of one chat request
