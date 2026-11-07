@@ -3,257 +3,245 @@ V1,doc1_s25,1,act-road-rules-p1.txt,Part 4 Making turns,"{
   ""category"": ""Making turns"",
   ""entities"": [""driver""],
   ""evidence"": ""(1) A driver turning left at an intersection from a road (except a multi-lane road) must approach and enter the intersection from as near as practicable to the far left side of the road.""
-}",3.02,,472,65,ok,True,True,Making turns,driver,(1) A driver turning left at an intersection from a road (except a multi-lane road) must approach and enter the intersection from as near as practicable to the far left side of the road.,True,True,,True,True,1.0
+}",4.01,,472,65,ok,True,True,Making turns,driver,(1) A driver turning left at an intersection from a road (except a multi-lane road) must approach and enter the intersection from as near as practicable to the far left side of the road.,True,True,,True,True,1.0
 V1,doc1_s28,1,act-road-rules-p1.txt,Part 7 Giving way,"{
   ""category"": ""Giving way"",
   ""entities"": [""driver""], ""evidence"": ""(1) A driver at an intersection with a stop sign or stop line, but without traffic lights, must stop and give way in accordance with this section.""
-}",2.5,,486,55,invalid,True,True,Giving way,driver,"(1) A driver at an intersection with a stop sign or stop line, but without traffic lights, must stop and give way in accordance with this section.",False,True,evidence is not an exact quote,False,False,0.0
+}",3.32,,486,55,invalid,True,True,Giving way,driver,"(1) A driver at an intersection with a stop sign or stop line, but without traffic lights, must stop and give way in accordance with this section.",False,True,evidence is not an exact quote,False,False,0.0
 V1,doc1_s24,1,act-road-rules-p1.txt,Part 3 Speed limits,"{
   ""category"": ""Speed limits"",
   ""entities"": [""driver""],
   ""evidence"": ""A driver must not drive at a speed over the speed limit applying to the driver for the length of road where the driver is driving.""
-}",2.23,,488,51,ok,True,True,Speed limits,driver,A driver must not drive at a speed over the speed limit applying to the driver for the length of road where the driver is driving.,True,True,,True,True,1.0
+}",3.07,,488,51,ok,True,True,Speed limits,driver,A driver must not drive at a speed over the speed limit applying to the driver for the length of road where the driver is driving.,True,True,,True,True,1.0
 V1,doc1_s26,1,act-road-rules-p1.txt,Part 5 Change of direction and stop signals,"{
   ""category"": ""Making turns"",
   ""entities"": [""driver""],
   ""evidence"": ""(1) A driver changes direction if the driver changes direction to the left or the driver changes direction to the right.""
-}",2.07,,491,47,ok,True,True,Making turns,driver,(1) A driver changes direction if the driver changes direction to the left or the driver changes direction to the right.,True,True,,False,True,1.0
+}",2.91,,491,47,ok,True,True,Making turns,driver,(1) A driver changes direction if the driver changes direction to the left or the driver changes direction to the right.,True,True,,False,True,1.0
 V1,doc1_s27,1,act-road-rules-p1.txt,"Part 6 Traffic lights, traffic arrows and twin red lights","{
   ""category"": ""Traffic lights, traffic arrows and twin red lights"",
   ""entities"": [""driver""],
   ""evidence"": ""(1) A driver approaching or at traffic lights showing a red traffic light must stop-as near as practicable to, but before reaching, the stop line;""
-}",2.72,,479,62,invalid,True,True,"Traffic lights, traffic arrows and twin red lights",driver,"(1) A driver approaching or at traffic lights showing a red traffic light must stop-as near as practicable to, but before reaching, the stop line;",False,False,evidence is not an exact quote,False,False,0.0
+}",3.53,,479,62,invalid,True,True,"Traffic lights, traffic arrows and twin red lights",driver,"(1) A driver approaching or at traffic lights showing a red traffic light must stop-as near as practicable to, but before reaching, the stop line;",False,False,evidence is not an exact quote,False,False,0.0
 V1,doc2_s02,2,act-road-rules-p2.txt,Part 10 Level crossings,"{
   ""category"": ""Giving way"",
-  ""entities"": [
-    ""driver""
-  ],
+  ""entities"": [""driver""],
   ""evidence"": ""A driver at a level crossing with a stop sign must: (a) stop as near as practicable to, but before reaching, the stop line or, if there is no stop line, as near as practicable to, but before reaching, the stop sign;""
-}",3.6,,482,82,invalid,True,True,Giving way,driver,"A driver at a level crossing with a stop sign must: (a) stop as near as practicable to, but before reaching, the stop line or, if there is no stop line, as near as practicable to, but before reaching, the stop sign;",False,False,evidence is not an exact quote,False,False,0.0
+}",4.21,,482,78,invalid,True,True,Giving way,driver,"A driver at a level crossing with a stop sign must: (a) stop as near as practicable to, but before reaching, the stop line or, if there is no stop line, as near as practicable to, but before reaching, the stop sign;",False,False,evidence is not an exact quote,False,False,0.0
 V1,doc2_s04,2,act-road-rules-p2.txt,Part 12 Restrictions on stopping and parking,"{
   ""category"": ""Giving way"",
   ""entities"": [
     ""driver""
   ],
   ""evidence"": ""If a driver stops at an intersection at a stop line, stop sign, or tra""
-}",2.09,,458,46,ok,True,True,Giving way,driver,"If a driver stops at an intersection at a stop line, stop sign, or tra",True,True,,False,True,1.0
+}",2.91,,458,46,ok,True,True,Giving way,driver,"If a driver stops at an intersection at a stop line, stop sign, or tra",True,True,,False,True,1.0
 V1,doc2_s05,2,act-road-rules-p2.txt,Part 13 Lights and warning devices,"{
   ""category"": ""Traffic signs and road markings"",
   ""entities"": [""driver""],
   ""evidence"": ""(1) A driver must not drive at night, or in hazardous weather conditions causing reduced visibility, unless...""
-}",2.17,,448,48,invalid,True,True,Traffic signs and road markings,driver,"(1) A driver must not drive at night, or in hazardous weather conditions causing reduced visibility, unless...",False,False,evidence is not an exact quote,False,False,0.0
+}",3.0,,448,48,invalid,True,True,Traffic signs and road markings,driver,"(1) A driver must not drive at night, or in hazardous weather conditions causing reduced visibility, unless...",False,False,evidence is not an exact quote,False,False,0.0
 V1,doc2_s06,2,act-road-rules-p2.txt,Part 14 Rules for pedestrians,"{
   ""category"": ""Making turns"",
   ""entities"": [
     ""pedestrian""
   ],
   ""evidence"": ""A pedestrian must not be on a length of road to which a road access sign applies if information on or with the sign indicates that pedestrians are not permitted beyond the sign.""
-}",2.82,,458,64,ok,True,True,Making turns,pedestrian,A pedestrian must not be on a length of road to which a road access sign applies if information on or with the sign indicates that pedestrians are not permitted beyond the sign.,True,True,,False,True,1.0
+}",3.68,,458,64,ok,True,True,Making turns,pedestrian,A pedestrian must not be on a length of road to which a road access sign applies if information on or with the sign indicates that pedestrians are not permitted beyond the sign.,True,True,,False,True,1.0
 V1,doc2_s00,2,act-road-rules-p2.txt,Part 8 Traffic signs and road markings,"{
-  ""category"": ""Traffic signs and road markings"",
-  ""entities"": [""driver""],
-  ""evidence"": ""If there is a left turn only sign at an intersection, a driver must turn left at the intersection.""
-}",2.14,,487,48,ok,True,True,Traffic signs and road markings,driver,"If there is a left turn only sign at an intersection, a driver must turn left at the intersection.",True,True,,False,True,1.0
+""category"": ""Traffic signs and road markings"",
+""entities"": [""driver""],
+""evidence"": ""If there is a left turn only sign at an intersection, a driver must turn left at the intersection.""
+}",2.85,,487,45,ok,True,True,Traffic signs and road markings,driver,"If there is a left turn only sign at an intersection, a driver must turn left at the intersection.",True,True,,False,True,1.0
 V1,doc3_s00,3,act-road-rules-p3.txt,Part 15 Additional rules for bicycle riders,"{
   ""category"": ""other"",
   ""entities"": [
     ""driver""
   ],
   ""evidence"": ""A single-seat bicycle with a child's seat attached is designed to carry 2 people, 1 on the bicycle seat and 1 on the attached child's seat.""
-}",2.76,,488,61,invalid,True,True,other,driver,"A single-seat bicycle with a child's seat attached is designed to carry 2 people, 1 on the bicycle seat and 1 on the attached child's seat.",True,True,entity not named in the text: driver,False,False,0.0
+}",3.62,,488,61,invalid,True,True,other,driver,"A single-seat bicycle with a child's seat attached is designed to carry 2 people, 1 on the bicycle seat and 1 on the attached child's seat.",True,True,entity not named in the text: driver,False,False,0.0
 V1,doc3_s03,3,act-road-rules-p3.txt,Part 18 Miscellaneous road rules,"{
   ""category"": ""Making turns"",
   ""entities"": [
     ""driver""
   ],
   ""evidence"": ""(1) A driver involved in a crash must comply with this section.""
-}",1.87,,470,42,ok,True,True,Making turns,driver,(1) A driver involved in a crash must comply with this section.,True,True,,False,True,1.0
+}",2.71,,470,42,ok,True,True,Making turns,driver,(1) A driver involved in a crash must comply with this section.,True,True,,False,True,1.0
 V1,doc3_s02,3,act-road-rules-p3.txt,"Part 17 Additional rules for drivers of trams, tram recovery vehicles and public buses","{
   ""category"": ""Making turns"",
   ""entities"": [""driver""],
   ""evidence"": ""The driver of a tram approaching or at T lights showing a red T light must stop""
-}",1.85,,486,42,ok,True,True,Making turns,driver,The driver of a tram approaching or at T lights showing a red T light must stop,True,True,,False,True,1.0
+}",2.72,,486,42,ok,True,True,Making turns,driver,The driver of a tram approaching or at T lights showing a red T light must stop,True,True,,False,True,1.0
 V1,doc3_s01,3,act-road-rules-p3.txt,Part 16 Rules for people travelling in or on vehicles,"{
   ""category"": ""Making turns"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""(2) Subsection (1) (c) does not apply if the driver is- (a) reversing the vehicle; or (b) exe""
-}",2.66,,499,59,invalid,True,True,Making turns,driver,(2) Subsection (1) (c) does not apply if the driver is- (a) reversing the vehicle; or (b) exe,False,True,evidence is not an exact quote,False,False,0.0
+  ""entities"": [""driver""],
+  ""evidence"": ""(2) Subsection (1) (c) does not apply if the driver is... reversing the vehicle;""
+}",2.95,,499,46,invalid,True,True,Making turns,driver,(2) Subsection (1) (c) does not apply if the driver is... reversing the vehicle;,False,False,evidence is not an exact quote,False,False,0.0
 V1,doc3_s04,3,act-road-rules-p3.txt,Part 19 Exemptions,"{
   ""category"": ""Giving way"",
   ""entities"": [""driver""],
   ""evidence"": ""An exemption provision does not apply to the driver of a police vehicle if... the driver is taking reasonable care; and it is reasonable that the provision should not apply having regard to the road and traffic conditions at the time;""
-}",3.0,,492,68,invalid,True,True,Giving way,driver,An exemption provision does not apply to the driver of a police vehicle if... the driver is taking reasonable care; and it is reasonable that the provision should not apply having regard to the road and traffic conditions at the time;,False,False,evidence is not an exact quote,False,False,0.0
+}",3.85,,492,68,invalid,True,True,Giving way,driver,An exemption provision does not apply to the driver of a police vehicle if... the driver is taking reasonable care; and it is reasonable that the provision should not apply having regard to the road and traffic conditions at the time;,False,False,evidence is not an exact quote,False,False,0.0
 V2,doc1_s25,1,act-road-rules-p1.txt,Part 4 Making turns,"{
   ""category"": ""Making turns"",
   ""entities"": [""driver""],
   ""evidence"": ""(1) A driver turning left at an intersection from a road (except a multi-lane road) must approach and enter the intersection from as near as practicable to the far left side of the road.""
-}",3.02,,472,65,ok,True,True,Making turns,driver,(1) A driver turning left at an intersection from a road (except a multi-lane road) must approach and enter the intersection from as near as practicable to the far left side of the road.,True,True,,True,True,1.0
+}",4.01,,472,65,ok,True,True,Making turns,driver,(1) A driver turning left at an intersection from a road (except a multi-lane road) must approach and enter the intersection from as near as practicable to the far left side of the road.,True,True,,True,True,1.0
 V2,doc1_s28,1,act-road-rules-p1.txt,Part 7 Giving way,"{
   ""category"": ""Giving way"",
   ""entities"": [""driver""], ""evidence"": ""(1) A driver at an intersection with a stop sign or stop line, but without traffic lights, must stop and give way in accordance with this section.""
-}",2.5,,486,55,invalid,True,True,Giving way,driver,"(1) A driver at an intersection with a stop sign or stop line, but without traffic lights, must stop and give way in accordance with this section.",False,True,evidence is not an exact quote,False,False,0.0
+}",3.32,,486,55,invalid,True,True,Giving way,driver,"(1) A driver at an intersection with a stop sign or stop line, but without traffic lights, must stop and give way in accordance with this section.",False,True,evidence is not an exact quote,False,False,0.0
 V2,doc1_s24,1,act-road-rules-p1.txt,Part 3 Speed limits,"{
   ""category"": ""Speed limits"",
   ""entities"": [""driver""],
   ""evidence"": ""A driver must not drive at a speed over the speed limit applying to the driver for the length of road where the driver is driving.""
-}",2.23,,488,51,ok,True,True,Speed limits,driver,A driver must not drive at a speed over the speed limit applying to the driver for the length of road where the driver is driving.,True,True,,True,True,1.0
+}",3.07,,488,51,ok,True,True,Speed limits,driver,A driver must not drive at a speed over the speed limit applying to the driver for the length of road where the driver is driving.,True,True,,True,True,1.0
 V2,doc1_s26,1,act-road-rules-p1.txt,Part 5 Change of direction and stop signals,"{
   ""category"": ""Making turns"",
   ""entities"": [""driver""],
   ""evidence"": ""(1) A driver changes direction if the driver changes direction to the left or the driver changes direction to the right.""
-}",2.07,,491,47,ok,True,True,Making turns,driver,(1) A driver changes direction if the driver changes direction to the left or the driver changes direction to the right.,True,True,,False,True,1.0
+}",2.91,,491,47,ok,True,True,Making turns,driver,(1) A driver changes direction if the driver changes direction to the left or the driver changes direction to the right.,True,True,,False,True,1.0
 V2,doc1_s27,1,act-road-rules-p1.txt,"Part 6 Traffic lights, traffic arrows and twin red lights","{
   ""category"": ""Traffic lights, traffic arrows and twin red lights"",
   ""entities"": [""driver""],
   ""evidence"": ""(1) A driver approaching or at traffic lights showing a red traffic light must stop-as near as practicable to, but before reaching, the stop line;""
-}",2.72,,479,62,invalid,True,True,"Traffic lights, traffic arrows and twin red lights",driver,"(1) A driver approaching or at traffic lights showing a red traffic light must stop-as near as practicable to, but before reaching, the stop line;",False,False,evidence is not an exact quote,False,False,0.0
+}",3.53,,479,62,invalid,True,True,"Traffic lights, traffic arrows and twin red lights",driver,"(1) A driver approaching or at traffic lights showing a red traffic light must stop-as near as practicable to, but before reaching, the stop line;",False,False,evidence is not an exact quote,False,False,0.0
 V2,doc2_s02,2,act-road-rules-p2.txt,Part 10 Level crossings,"{
   ""category"": ""Giving way"",
-  ""entities"": [
-    ""driver""
-  ],
+  ""entities"": [""driver""],
   ""evidence"": ""A driver at a level crossing with a stop sign must: (a) stop as near as practicable to, but before reaching, the stop line or, if there is no stop line, as near as practicable to, but before reaching, the stop sign;""
-}",3.6,,482,82,invalid,True,True,Giving way,driver,"A driver at a level crossing with a stop sign must: (a) stop as near as practicable to, but before reaching, the stop line or, if there is no stop line, as near as practicable to, but before reaching, the stop sign;",False,False,evidence is not an exact quote,False,False,0.0
+}",4.21,,482,78,invalid,True,True,Giving way,driver,"A driver at a level crossing with a stop sign must: (a) stop as near as practicable to, but before reaching, the stop line or, if there is no stop line, as near as practicable to, but before reaching, the stop sign;",False,False,evidence is not an exact quote,False,False,0.0
 V2,doc2_s04,2,act-road-rules-p2.txt,Part 12 Restrictions on stopping and parking,"{
   ""category"": ""Giving way"",
   ""entities"": [
     ""driver""
   ],
   ""evidence"": ""If a driver stops at an intersection at a stop line, stop sign, or tra""
-}",2.09,,458,46,ok,True,True,Giving way,driver,"If a driver stops at an intersection at a stop line, stop sign, or tra",True,True,,False,True,1.0
+}",2.91,,458,46,ok,True,True,Giving way,driver,"If a driver stops at an intersection at a stop line, stop sign, or tra",True,True,,False,True,1.0
 V2,doc2_s05,2,act-road-rules-p2.txt,Part 13 Lights and warning devices,"{
   ""category"": ""Traffic signs and road markings"",
   ""entities"": [""driver""],
   ""evidence"": ""(1) A driver must not drive at night, or in hazardous weather conditions causing reduced visibility, unless...""
-}",2.17,,448,48,invalid,True,True,Traffic signs and road markings,driver,"(1) A driver must not drive at night, or in hazardous weather conditions causing reduced visibility, unless...",False,False,evidence is not an exact quote,False,False,0.0
+}",3.0,,448,48,invalid,True,True,Traffic signs and road markings,driver,"(1) A driver must not drive at night, or in hazardous weather conditions causing reduced visibility, unless...",False,False,evidence is not an exact quote,False,False,0.0
 V2,doc2_s06,2,act-road-rules-p2.txt,Part 14 Rules for pedestrians,"{
   ""category"": ""Making turns"",
   ""entities"": [
     ""pedestrian""
   ],
   ""evidence"": ""A pedestrian must not be on a length of road to which a road access sign applies if information on or with the sign indicates that pedestrians are not permitted beyond the sign.""
-}",2.82,,458,64,ok,True,True,Making turns,pedestrian,A pedestrian must not be on a length of road to which a road access sign applies if information on or with the sign indicates that pedestrians are not permitted beyond the sign.,True,True,,False,True,1.0
+}",3.68,,458,64,ok,True,True,Making turns,pedestrian,A pedestrian must not be on a length of road to which a road access sign applies if information on or with the sign indicates that pedestrians are not permitted beyond the sign.,True,True,,False,True,1.0
 V2,doc2_s00,2,act-road-rules-p2.txt,Part 8 Traffic signs and road markings,"{
-  ""category"": ""Traffic signs and road markings"",
-  ""entities"": [""driver""],
-  ""evidence"": ""If there is a left turn only sign at an intersection, a driver must turn left at the intersection.""
-}",2.14,,487,48,ok,True,True,Traffic signs and road markings,driver,"If there is a left turn only sign at an intersection, a driver must turn left at the intersection.",True,True,,False,True,1.0
+""category"": ""Traffic signs and road markings"",
+""entities"": [""driver""],
+""evidence"": ""If there is a left turn only sign at an intersection, a driver must turn left at the intersection.""
+}",2.85,,487,45,ok,True,True,Traffic signs and road markings,driver,"If there is a left turn only sign at an intersection, a driver must turn left at the intersection.",True,True,,False,True,1.0
 V2,doc3_s00,3,act-road-rules-p3.txt,Part 15 Additional rules for bicycle riders,"{
   ""category"": ""other"",
   ""entities"": [
     ""driver""
   ],
   ""evidence"": ""A single-seat bicycle with a child's seat attached is designed to carry 2 people, 1 on the bicycle seat and 1 on the attached child's seat.""
-}",2.76,,488,61,invalid,True,True,other,driver,"A single-seat bicycle with a child's seat attached is designed to carry 2 people, 1 on the bicycle seat and 1 on the attached child's seat.",True,True,entity not named in the text: driver,False,False,0.0
+}",3.62,,488,61,invalid,True,True,other,driver,"A single-seat bicycle with a child's seat attached is designed to carry 2 people, 1 on the bicycle seat and 1 on the attached child's seat.",True,True,entity not named in the text: driver,False,False,0.0
 V2,doc3_s03,3,act-road-rules-p3.txt,Part 18 Miscellaneous road rules,"{
   ""category"": ""Making turns"",
   ""entities"": [
     ""driver""
   ],
   ""evidence"": ""(1) A driver involved in a crash must comply with this section.""
-}",1.87,,470,42,ok,True,True,Making turns,driver,(1) A driver involved in a crash must comply with this section.,True,True,,False,True,1.0
+}",2.71,,470,42,ok,True,True,Making turns,driver,(1) A driver involved in a crash must comply with this section.,True,True,,False,True,1.0
 V2,doc3_s02,3,act-road-rules-p3.txt,"Part 17 Additional rules for drivers of trams, tram recovery vehicles and public buses","{
   ""category"": ""Making turns"",
   ""entities"": [""driver""],
   ""evidence"": ""The driver of a tram approaching or at T lights showing a red T light must stop""
-}",1.85,,486,42,ok,True,True,Making turns,driver,The driver of a tram approaching or at T lights showing a red T light must stop,True,True,,False,True,1.0
+}",2.72,,486,42,ok,True,True,Making turns,driver,The driver of a tram approaching or at T lights showing a red T light must stop,True,True,,False,True,1.0
 V2,doc3_s01,3,act-road-rules-p3.txt,Part 16 Rules for people travelling in or on vehicles,"{
   ""category"": ""Making turns"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""(2) Subsection (1) (c) does not apply if the driver is- (a) reversing the vehicle; or (b) exe""
-}",2.66,,499,59,invalid,True,True,Making turns,driver,(2) Subsection (1) (c) does not apply if the driver is- (a) reversing the vehicle; or (b) exe,False,True,evidence is not an exact quote,False,False,0.0
+  ""entities"": [""driver""],
+  ""evidence"": ""(2) Subsection (1) (c) does not apply if the driver is... reversing the vehicle;""
+}",2.95,,499,46,invalid,True,True,Making turns,driver,(2) Subsection (1) (c) does not apply if the driver is... reversing the vehicle;,False,False,evidence is not an exact quote,False,False,0.0
 V2,doc3_s04,3,act-road-rules-p3.txt,Part 19 Exemptions,"{
   ""category"": ""Giving way"",
   ""entities"": [""driver""],
   ""evidence"": ""An exemption provision does not apply to the driver of a police vehicle if... the driver is taking reasonable care; and it is reasonable that the provision should not apply having regard to the road and traffic conditions at the time;""
-}",3.0,,492,68,invalid,True,True,Giving way,driver,An exemption provision does not apply to the driver of a police vehicle if... the driver is taking reasonable care; and it is reasonable that the provision should not apply having regard to the road and traffic conditions at the time;,False,False,evidence is not an exact quote,False,False,0.0
+}",3.85,,492,68,invalid,True,True,Giving way,driver,An exemption provision does not apply to the driver of a police vehicle if... the driver is taking reasonable care; and it is reasonable that the provision should not apply having regard to the road and traffic conditions at the time;,False,False,evidence is not an exact quote,False,False,0.0
 V3,doc1_s25,1,act-road-rules-p1.txt,Part 4 Making turns,"{
   ""category"": ""Making turns"",
   ""entities"": [""driver""],
   ""evidence"": ""(1) A driver turning left at an intersection from a road (except a multi-lane road) must approach and enter the intersection from as near as practicable to the far left side of the road.""
-}",3.02,,472,65,ok,True,True,Making turns,driver,(1) A driver turning left at an intersection from a road (except a multi-lane road) must approach and enter the intersection from as near as practicable to the far left side of the road.,True,True,,True,True,1.0
+}",4.01,,472,65,ok,True,True,Making turns,driver,(1) A driver turning left at an intersection from a road (except a multi-lane road) must approach and enter the intersection from as near as practicable to the far left side of the road.,True,True,,True,True,1.0
 V3,doc1_s28,1,act-road-rules-p1.txt,Part 7 Giving way,"{
   ""category"": ""Giving way"",
   ""entities"": [""driver""], ""evidence"": ""(1) A driver at an intersection with a stop sign or stop line, but without traffic lights, must stop and give way in accordance with this section.""
-}",2.5,,486,55,invalid,True,True,Giving way,driver,"(1) A driver at an intersection with a stop sign or stop line, but without traffic lights, must stop and give way in accordance with this section.",False,True,evidence is not an exact quote,False,False,0.0
+}",3.32,,486,55,invalid,True,True,Giving way,driver,"(1) A driver at an intersection with a stop sign or stop line, but without traffic lights, must stop and give way in accordance with this section.",False,True,evidence is not an exact quote,False,False,0.0
 V3,doc1_s24,1,act-road-rules-p1.txt,Part 3 Speed limits,"{
   ""category"": ""Speed limits"",
   ""entities"": [""driver""],
   ""evidence"": ""A driver must not drive at a speed over the speed limit applying to the driver for the length of road where the driver is driving.""
-}",2.23,,488,51,ok,True,True,Speed limits,driver,A driver must not drive at a speed over the speed limit applying to the driver for the length of road where the driver is driving.,True,True,,True,True,1.0
+}",3.07,,488,51,ok,True,True,Speed limits,driver,A driver must not drive at a speed over the speed limit applying to the driver for the length of road where the driver is driving.,True,True,,True,True,1.0
 V3,doc1_s26,1,act-road-rules-p1.txt,Part 5 Change of direction and stop signals,"{
   ""category"": ""Making turns"",
   ""entities"": [""driver""],
   ""evidence"": ""(1) A driver changes direction if the driver changes direction to the left or the driver changes direction to the right.""
-}",2.07,,491,47,ok,True,True,Making turns,driver,(1) A driver changes direction if the driver changes direction to the left or the driver changes direction to the right.,True,True,,False,True,1.0
+}",2.91,,491,47,ok,True,True,Making turns,driver,(1) A driver changes direction if the driver changes direction to the left or the driver changes direction to the right.,True,True,,False,True,1.0
 V3,doc1_s27,1,act-road-rules-p1.txt,"Part 6 Traffic lights, traffic arrows and twin red lights","{
   ""category"": ""Traffic lights, traffic arrows and twin red lights"",
   ""entities"": [""driver""],
   ""evidence"": ""(1) A driver approaching or at traffic lights showing a red traffic light must stop-as near as practicable to, but before reaching, the stop line;""
-}",2.72,,479,62,invalid,True,True,"Traffic lights, traffic arrows and twin red lights",driver,"(1) A driver approaching or at traffic lights showing a red traffic light must stop-as near as practicable to, but before reaching, the stop line;",False,False,evidence is not an exact quote,False,False,0.0
+}",3.53,,479,62,invalid,True,True,"Traffic lights, traffic arrows and twin red lights",driver,"(1) A driver approaching or at traffic lights showing a red traffic light must stop-as near as practicable to, but before reaching, the stop line;",False,False,evidence is not an exact quote,False,False,0.0
 V3,doc2_s02,2,act-road-rules-p2.txt,Part 10 Level crossings,"{
   ""category"": ""Giving way"",
-  ""entities"": [
-    ""driver""
-  ],
+  ""entities"": [""driver""],
   ""evidence"": ""A driver at a level crossing with a stop sign must: (a) stop as near as practicable to, but before reaching, the stop line or, if there is no stop line, as near as practicable to, but before reaching, the stop sign;""
-}",3.6,,482,82,invalid,True,True,Giving way,driver,"A driver at a level crossing with a stop sign must: (a) stop as near as practicable to, but before reaching, the stop line or, if there is no stop line, as near as practicable to, but before reaching, the stop sign;",False,False,evidence is not an exact quote,False,False,0.0
+}",4.21,,482,78,invalid,True,True,Giving way,driver,"A driver at a level crossing with a stop sign must: (a) stop as near as practicable to, but before reaching, the stop line or, if there is no stop line, as near as practicable to, but before reaching, the stop sign;",False,False,evidence is not an exact quote,False,False,0.0
 V3,doc2_s04,2,act-road-rules-p2.txt,Part 12 Restrictions on stopping and parking,"{
   ""category"": ""Giving way"",
   ""entities"": [
     ""driver""
   ],
   ""evidence"": ""If a driver stops at an intersection at a stop line, stop sign, or tra""
-}",2.09,,458,46,ok,True,True,Giving way,driver,"If a driver stops at an intersection at a stop line, stop sign, or tra",True,True,,False,True,1.0
+}",2.91,,458,46,ok,True,True,Giving way,driver,"If a driver stops at an intersection at a stop line, stop sign, or tra",True,True,,False,True,1.0
 V3,doc2_s05,2,act-road-rules-p2.txt,Part 13 Lights and warning devices,"{
   ""category"": ""Traffic signs and road markings"",
   ""entities"": [""driver""],
   ""evidence"": ""(1) A driver must not drive at night, or in hazardous weather conditions causing reduced visibility, unless...""
-}",2.17,,448,48,invalid,True,True,Traffic signs and road markings,driver,"(1) A driver must not drive at night, or in hazardous weather conditions causing reduced visibility, unless...",False,False,evidence is not an exact quote,False,False,0.0
+}",3.0,,448,48,invalid,True,True,Traffic signs and road markings,driver,"(1) A driver must not drive at night, or in hazardous weather conditions causing reduced visibility, unless...",False,False,evidence is not an exact quote,False,False,0.0
 V3,doc2_s06,2,act-road-rules-p2.txt,Part 14 Rules for pedestrians,"{
   ""category"": ""Making turns"",
   ""entities"": [
     ""pedestrian""
   ],
   ""evidence"": ""A pedestrian must not be on a length of road to which a road access sign applies if information on or with the sign indicates that pedestrians are not permitted beyond the sign.""
-}",2.82,,458,64,ok,True,True,Making turns,pedestrian,A pedestrian must not be on a length of road to which a road access sign applies if information on or with the sign indicates that pedestrians are not permitted beyond the sign.,True,True,,False,True,1.0
+}",3.68,,458,64,ok,True,True,Making turns,pedestrian,A pedestrian must not be on a length of road to which a road access sign applies if information on or with the sign indicates that pedestrians are not permitted beyond the sign.,True,True,,False,True,1.0
 V3,doc2_s00,2,act-road-rules-p2.txt,Part 8 Traffic signs and road markings,"{
-  ""category"": ""Traffic signs and road markings"",
-  ""entities"": [""driver""],
-  ""evidence"": ""If there is a left turn only sign at an intersection, a driver must turn left at the intersection.""
-}",2.14,,487,48,ok,True,True,Traffic signs and road markings,driver,"If there is a left turn only sign at an intersection, a driver must turn left at the intersection.",True,True,,False,True,1.0
+""category"": ""Traffic signs and road markings"",
+""entities"": [""driver""],
+""evidence"": ""If there is a left turn only sign at an intersection, a driver must turn left at the intersection.""
+}",2.85,,487,45,ok,True,True,Traffic signs and road markings,driver,"If there is a left turn only sign at an intersection, a driver must turn left at the intersection.",True,True,,False,True,1.0
 V3,doc3_s00,3,act-road-rules-p3.txt,Part 15 Additional rules for bicycle riders,"{
   ""category"": ""other"",
   ""entities"": [
     ""driver""
   ],
   ""evidence"": ""A single-seat bicycle with a child's seat attached is designed to carry 2 people, 1 on the bicycle seat and 1 on the attached child's seat.""
-}",2.76,,488,61,invalid,True,True,other,driver,"A single-seat bicycle with a child's seat attached is designed to carry 2 people, 1 on the bicycle seat and 1 on the attached child's seat.",True,True,entity not named in the text: driver,False,False,0.0
+}",3.62,,488,61,invalid,True,True,other,driver,"A single-seat bicycle with a child's seat attached is designed to carry 2 people, 1 on the bicycle seat and 1 on the attached child's seat.",True,True,entity not named in the text: driver,False,False,0.0
 V3,doc3_s03,3,act-road-rules-p3.txt,Part 18 Miscellaneous road rules,"{
   ""category"": ""Making turns"",
   ""entities"": [
     ""driver""
   ],
   ""evidence"": ""(1) A driver involved in a crash must comply with this section.""
-}",1.87,,470,42,ok,True,True,Making turns,driver,(1) A driver involved in a crash must comply with this section.,True,True,,False,True,1.0
+}",2.71,,470,42,ok,True,True,Making turns,driver,(1) A driver involved in a crash must comply with this section.,True,True,,False,True,1.0
 V3,doc3_s02,3,act-road-rules-p3.txt,"Part 17 Additional rules for drivers of trams, tram recovery vehicles and public buses","{
   ""category"": ""Making turns"",
   ""entities"": [""driver""],
   ""evidence"": ""The driver of a tram approaching or at T lights showing a red T light must stop""
-}",1.85,,486,42,ok,True,True,Making turns,driver,The driver of a tram approaching or at T lights showing a red T light must stop,True,True,,False,True,1.0
+}",2.72,,486,42,ok,True,True,Making turns,driver,The driver of a tram approaching or at T lights showing a red T light must stop,True,True,,False,True,1.0
 V3,doc3_s01,3,act-road-rules-p3.txt,Part 16 Rules for people travelling in or on vehicles,"{
   ""category"": ""Making turns"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""(2) Subsection (1) (c) does not apply if the driver is- (a) reversing the vehicle; or (b) exe""
-}",2.66,,499,59,invalid,True,True,Making turns,driver,(2) Subsection (1) (c) does not apply if the driver is- (a) reversing the vehicle; or (b) exe,False,True,evidence is not an exact quote,False,False,0.0
+  ""entities"": [""driver""],
+  ""evidence"": ""(2) Subsection (1) (c) does not apply if the driver is... reversing the vehicle;""
+}",2.95,,499,46,invalid,True,True,Making turns,driver,(2) Subsection (1) (c) does not apply if the driver is... reversing the vehicle;,False,False,evidence is not an exact quote,False,False,0.0
 V3,doc3_s04,3,act-road-rules-p3.txt,Part 19 Exemptions,"{
   ""category"": ""Giving way"",
   ""entities"": [""driver""],
   ""evidence"": ""An exemption provision does not apply to the driver of a police vehicle if... the driver is taking reasonable care; and it is reasonable that the provision should not apply having regard to the road and traffic conditions at the time;""
-}",3.0,,492,68,invalid,True,True,Giving way,driver,An exemption provision does not apply to the driver of a police vehicle if... the driver is taking reasonable care; and it is reasonable that the provision should not apply having regard to the road and traffic conditions at the time;,False,False,evidence is not an exact quote,False,False,0.0
+}",3.85,,492,68,invalid,True,True,Giving way,driver,An exemption provision does not apply to the driver of a police vehicle if... the driver is taking reasonable care; and it is reasonable that the provision should not apply having regard to the road and traffic conditions at the time;,False,False,evidence is not an exact quote,False,False,0.0
