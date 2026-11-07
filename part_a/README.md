@@ -14,6 +14,7 @@ Command to run predict.py, run from part_a: python src/train.py
 Command to build part_a docker image, using the supplied Dockerfile:
 
 - docker build -t part_a .
+
 Commands to run docker, train and test pipelines: Both use bind mounts with the host's folders 
 - docker run --rm -v "./data/raw:/app/data/raw:ro" -v "./outputs:/app/outputs:rw" -v "./models:/app/models:rw" part_a python src/train.py
 
