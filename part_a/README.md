@@ -6,10 +6,10 @@ src/predict.py: Classficaition prediction pipeline, load models and predict with
 
 All commands to be executed from part_a folder
 
-Command to install required packages, run from part_a: pip install -r requirements.txt
+Command to install required packages: pip install -r requirements.txt
 (requirements_docker.txt is only for docker environment, which requires less packakges)
-Command to run train.py, run from part_a: python src/train.py
-Command to run predict.py, run from part_a: python src/predict.py
+Command to run train.py: python src/train.py
+Command to run predict.py: python src/predict.py
 
 Command to build part_a docker image, using the supplied Dockerfile:
 
