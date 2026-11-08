@@ -8,3 +8,5 @@ verification_code.txt
 
 
 *.pyc
+
+.env
