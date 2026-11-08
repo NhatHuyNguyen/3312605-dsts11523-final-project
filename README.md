@@ -1,7 +1,10 @@
 ## DSTS Final Project - 3312605
 Python version used: 3.11.17
 
-Over
+Overview: Part A contains notebook code for ML part of the project, which predicts
+rating on a given dataset. Part B build a RAG system on a chosen document (ACT Road 
+Rules 2017).
+
 
 ## Part A
 - src/part_a.ipynb: Initial code, pipeline and plotting
@@ -32,7 +35,6 @@ Run docker, train and test pipelines: Both use bind mounts with the host's folde
 
 
 ## Part B
-
 - notebooks/code.ipynb: RAG pipeline for answering the project questions
 - src/app.py: Code for running the TA Road Rules QA app.
 - src/road_rules_ta.py: Main logic of the QA app.
