@@ -46,6 +46,7 @@ def load_data(preprocessor):
 
 def predict_and_save(model, test_df):
     y_preds = model.predict(test_df)
+    print(y_preds)
 
     # Print preds to a csv file
     print("Printing preds to outputs/predictions_clf.csv...\n")
