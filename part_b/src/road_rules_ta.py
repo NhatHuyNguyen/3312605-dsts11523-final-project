@@ -620,7 +620,7 @@ TA_CONFIG = {"chunks": "800-120", "search": "hybrid", "n_each": 10, "doc_from_qu
 # tutorials, clean them, cut them into sections and chunks, embed the chunks (turn them into
 # vectors), then build a Chroma collection (search by meaning) and a BM25 index (by keywords).
 
-def build_ta_index(name="coourse_ta"):                     # returns the collection, BM25 and chunks
+def build_ta_index(name="course_ta"):                     # returns the collection, BM25 and chunks
     docs = load_docs()                                    # Exercise 3.1: the six tutorials
     docs["clean"] = docs["text"].map(clean_text)          # Exercise 3.2: clean them
     sections = make_sections(docs)                        # Exercise 4.1: split at headings
@@ -657,7 +657,7 @@ def retrieve_for_ta(question, index, top_k=None, hybrid=True):   # step 1 for th
 # answer_question() is the whole Course TA: one question in, one checked answer out (all 4 steps).
 # ask = the prompt function to use; on_step lets the web page show progress. search_query and
 # earlier are used only for a follow-up question (Exercise 20.1).
-def answer_question(question, index, top_k=None, hybrid=False, gold_quote="", ask=None, search_query=None, earlier="",
+def answer_question(question, index, top_k=None, hybrid=True, gold_quote="", ask=None, search_query=None, earlier="",
                     on_step=None):                        # on_step("search" / "answer"): progress for the web page
     ask = ask or TA_ASK                                   # the prompt to use: the chosen default, unless one is given
     if on_step:                                           # the web page shows "Searching the tutorials..."
