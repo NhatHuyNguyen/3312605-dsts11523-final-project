@@ -13,19 +13,19 @@
   ],
   "envelope": {
    "model": "granite4:3b",
-   "created_at": "2026-11-08T01:11:26.8071773Z",
+   "created_at": "2026-11-08T01:46:11.8158792Z",
    "message": {
     "role": "assistant",
     "content": "",
     "tool_calls": [
      {
-      "id": "call_wf2to8xc",
+      "id": "call_gsbe2vvw",
       "function": {
        "index": 0,
        "name": "search_docs",
        "arguments": {
-        "query": "parallel parking distance from continuous dividing line",
-        "doc": 2
+        "doc": 2,
+        "query": "parallel parking distance from continuous dividing line"
        }
       }
      }
@@ -33,13 +33,13 @@
    },
    "done": true,
    "done_reason": "stop",
-   "total_duration": 2875944600,
-   "load_duration": 5029100,
+   "total_duration": 2874932800,
+   "load_duration": 6537300,
    "prompt_eval_count": 532,
    "prompt_eval_cached_count": 503,
-   "prompt_eval_duration": 310548000,
+   "prompt_eval_duration": 307110000,
    "eval_count": 41,
-   "eval_duration": 2136098000
+   "eval_duration": 2134262000
   },
   "seconds": 2.88
  },
@@ -57,21 +57,21 @@
   ],
   "envelope": {
    "model": "granite4:3b",
-   "created_at": "2026-11-08T01:11:36.017525Z",
+   "created_at": "2026-11-08T01:46:20.8337996Z",
    "message": {
     "role": "assistant",
     "content": "{\n  \"status\": \"answered\",\n  \"answer\": \"When parallel parking on a road with a continuous dividing line, a driver must position their vehicle at least 3 meters from the dividing line. This requirement is specified in the ACT Road Rules (Doc 2) to ensure there is enough space for other vehicles to pass safely.\",\n  \"general_tip\": \"\",\n  \"evidence\": [\n    \"(6) If the road has a continuous dividing line or a dividing strip, the driver must position the vehicle at least 3m from the continuous dividing line or dividing strip, unless otherwise indicated by information on or with a parking control sign.\",\n    \"(12) In this section:\"\n  ],\n  \"sources\": [\n    \"[doc2_s04_c56]\"\n  ]\n}"
    },
    "done": true,
    "done_reason": "stop",
-   "total_duration": 9101524400,
-   "load_duration": 4732500,
+   "total_duration": 8930324500,
+   "load_duration": 7911200,
    "prompt_eval_count": 984,
    "prompt_eval_cached_count": 983,
-   "prompt_eval_duration": 261742000,
+   "prompt_eval_duration": 133741000,
    "eval_count": 158,
-   "eval_duration": 8724532000
+   "eval_duration": 8670160000
   },
-  "seconds": 9.1
+  "seconds": 8.93
  }
 }
