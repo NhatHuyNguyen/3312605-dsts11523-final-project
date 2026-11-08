@@ -1,29 +1,31 @@
+## DSTS Final Project - 3312605
 Python version used: 3.11.17
 
-## Part A
+Over
 
-src/part_a.ipynb: Initial code, pipeline and plotting
-src/train.py: Classification training pipeline, run CV pipelines and save the best models
-src/predict.py: Classficaition prediction pipeline, load models and predict without training
-src/allocate_data.py: Given allocation code
-data/: raw and allocated datasets and their info
-models/: saved models and preprocesors
-outputs/: saved interactive plot and csv files
-Dockerfile and .dockerignore: Docker build files
+## Part A
+- src/part_a.ipynb: Initial code, pipeline and plotting
+- src/train.py: Classification training pipeline, run CV pipelines and save the best models
+- src/predict.py: Classficaition prediction pipeline, load models and predict without training
+- src/allocate_data.py: Given allocation code
+- data/: raw and allocated datasets and their info
+- models/: saved models and preprocesors
+- outputs/: saved interactive plot and csv files
+- Dockerfile and .dockerignore: Docker build files
 
 
 All commands to be executed from part_a folder
 
-Command to install required packages: pip install -r requirements.txt
+- install required packages: pip install -r requirements.txt
 (requirements_docker.txt is only for docker environment, which requires less packakges)
-Command to run train.py: python src/train.py
-Command to run predict.py: python src/predict.py
+- run train.py locally: python src/train.py
+- run predict.py locally: python src/predict.py
 
-Command to build part_a docker image, using the supplied Dockerfile:
+Build part_a docker image, using the supplied Dockerfile:
 
 - docker build -t part_a .
 
-Commands to run docker, train and test pipelines: Both use bind mounts with the host's folders 
+Run docker, train and test pipelines: Both use bind mounts with the host's folders 
 - docker run --rm -v "./data/raw:/app/data/raw:ro" -v "./outputs:/app/outputs:rw" -v "./models:/app/models:rw" part_a python src/train.py
 
 - docker run --rm -v "./data/allocated:/app/data/allocated:ro" -v "./outputs:/app/outputs:rw" -v "./models:/app/models:ro" part_a python src/predict.py
@@ -31,26 +33,25 @@ Commands to run docker, train and test pipelines: Both use bind mounts with the 
 
 ## Part B
 
-notebooks/code.ipynb: RAG pipeline for answering the project questions
-src/app.py: Code for running the TA Road Rules QA app.
-src/road_rules_ta.py: Main logic of the QA app.
-assets/: ACT logo for the QA app
-data/: ACT Road Rules data for the project
-gold/: gold questions and sections
-index/: Chroma indices
-outputs/: csv and json outputs of the notebook and app
-replay/: replay jsons for Replay mode of the app
-Dockerfile and .dockerignore: Docker build files 
+- notebooks/code.ipynb: RAG pipeline for answering the project questions
+- src/app.py: Code for running the TA Road Rules QA app.
+- src/road_rules_ta.py: Main logic of the QA app.
+- assets/: ACT logo for the QA app
+- data/: ACT Road Rules data for the project
+- gold/: gold questions and sections
+- index/: Chroma indices
+- outputs/: csv and json outputs of the notebook and app
+- replay/: replay jsons for Replay mode of the app
+- Dockerfile and .dockerignore: Docker build files 
 
 
 All commands to be executed from part_b folder
 
-Command to install required packages: pip install -r requirements.txt
-Command to run the QA app: python -m streamlit run src/app.py
+- install required packages: pip install -r requirements.txt
+- run the QA app locally: python -m streamlit run src/app.py
 
-Command to build part_a docker image, using the supplied Dockerfile:
-
+Build part_a docker image, using the supplied Dockerfile:
 - docker build -t part_b .
 
-Commands to run the QA app with port 8501 exposed:
+Run the QA app with port 8501 exposed:
 - docker run -p 8501:8501 part_b
