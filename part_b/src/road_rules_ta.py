@@ -13,9 +13,9 @@ from pathlib import Path                                  # file paths for Windo
 USE_RECORDED = False                       # True = replay mode: use the recorded real replies and vectors (no Ollama). False = live: ask Ollama.
 # 127.0.0.1 means "this computer". We avoid "localhost": on Windows it adds about 2 s per request.
 OLLAMA_URL = os.environ.get("OLLAMA_BASE_URL", "http://127.0.0.1:11434") 
-MODEL = "qwen2.5:3b"                       # the chat model, as in Week 10 (qwen2.5:1.5b works, but replay will not match)
+MODEL = os.environ.get("MODEL", "qwen2.5:3b")                       # the chat model, as in Week 10 (qwen2.5:1.5b works, but replay will not match)
 # An embedding = a list of numbers (a vector) that captures the meaning of a text.
-EMBED_MODEL = "nomic-embed-text:latest"    # the embedding model: turns a text into 768 numbers
+EMBED_MODEL = os.environ.get("EMBED_MODEL", "nomic-embed-text:latest")     # the embedding model: turns a text into 768 numbers
 SEED = 11523                               # fixed seed: usually the same reply on the same machine (not guaranteed; see Step 0.5)
 # Check 4: is Ollama running, and are both models downloaded? (Skipped in replay mode.)
 import requests                                           # HTTP library used to talk to Ollama
@@ -747,7 +747,7 @@ TA_ASK, TA_TOP_K = ask_ta_v4, 3                           # the Course TA (and a
 from typing import Optional                               # used for the optional week number
 # Which model plays the TA. It was chosen in a real bake-off (a fair test of several models);
 # Parts 1-7 of the lab keep using MODEL.
-TA_MODEL = "granite4:3b"                                  # the model that plays the TA
+TA_MODEL = os.environ.get("TA_MODEL", "granite4:3b")                # the model that plays the TA
 # Tool calling = the model asks OUR code to run a function (here search_docs) instead of
 # writing text. These models cannot do that reliably, so they use the "decide" fallback: ONE small
 # call that returns a JSON decision. Every model not listed here uses real tool calling ("tools").
