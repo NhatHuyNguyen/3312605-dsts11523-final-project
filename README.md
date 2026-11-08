@@ -56,4 +56,4 @@ Build part_a docker image, using the supplied Dockerfile:
 - docker build -t part_b .
 
 Run the QA app with port 8501 exposed:
-- docker run -p 8501:8501 part_b
+- docker run -p 8501:8501 --env-file .env part_b
