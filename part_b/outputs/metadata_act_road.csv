@@ -1,343 +1,165 @@
 version,section_id,doc,source_file,section,raw,seconds,error,prompt_tokens,output_tokens,status,json_valid,schema_valid,category,entities,evidence,evidence_exact,evidence_normalised,problem
 V3,doc1_s00,1,act-road-rules-p1.txt,(top),"{
-  ""category"": ""Traffic signs and road markings"",
-  ""entities"": [""driver""],
-  ""evidence"": ""The republished law includes any amendment made under the Legislation Act 2001, part 11.3 (Editorial changes)""
-}",3.81,,516,56,invalid,True,True,Traffic signs and road markings,driver,"The republished law includes any amendment made under the Legislation Act 2001, part 11.3 (Editorial changes)",False,False,evidence is not an exact quote
+  ""category"": ""other"",
+  ""entities"": [],
+  ""evidence"": ""This is a republication of the Road Transport (Road Rules) Regulation 2017, made under the Road Transport (Safety and Traffic Management) Act 1999 (including any amendment made under the Legislation Act 2001, part 11.3 (Editorial changes)) as in force on 3 November 2025.""
+}",5.88,,1999,97,ok,True,True,other,,"This is a republication of the Road Transport (Road Rules) Regulation 2017, made under the Road Transport (Safety and Traffic Management) Act 1999 (including any amendment made under the Legislation Act 2001, part 11.3 (Editorial changes)) as in force on 3 November 2025.",True,True,
 V3,doc1_s01,1,act-road-rules-p1.txt,Part 1 Preliminary 2,"{
   ""category"": ""Parking"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""Examples of parking regulations are provided in Part 5 of the ACT Road Rules.""
-}",2.15,,215,44,invalid,True,True,Parking,driver,Examples of parking regulations are provided in Part 5 of the ACT Road Rules.,False,False,evidence is not an exact quote
+  ""entities"": [""driver""],
+  ""evidence"": ""Parking for longer than indicated""
+}",1.67,,1698,30,invalid,True,True,Parking,driver,Parking for longer than indicated,False,False,evidence is not an exact quote
 V3,doc1_s02,1,act-road-rules-p1.txt,Part 2 Application of this regulation 4,"{
-  ""category"": ""Making turns"",
+  ""category"": ""Devices"",
   ""entities"": [""driver""],
-  ""evidence"": ""16 Meaning of driver 5""
-}",1.76,,265,32,ok,True,True,Making turns,driver,16 Meaning of driver 5,True,True,
-V3,doc1_s03,1,act-road-rules-p1.txt,Part 3 Speed limits 8,"{
-  ""category"": ""Speed limits"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""20 Obeying speed limit 8""
-}",1.84,,205,38,invalid,True,True,Speed limits,driver,20 Obeying speed limit 8,True,True,entity not named in the text: driver
-V3,doc1_s04,1,act-road-rules-p1.txt,Part 4 Making turns 12,"{
-  ""category"": ""Making turns"",
-  ""entities"": [""driver""],
-  ""evidence"": ""Division 4.1 Left turns 12""
-}",2.39,,445,35,invalid,True,True,Making turns,driver,Division 4.1 Left turns 12,True,True,entity not named in the text: driver
+  ""evidence"": ""References to driver includes rider etc""
+}",1.76,,1748,30,ok,True,True,Devices,driver,References to driver includes rider etc,True,True,
+V3,doc1_s03,1,act-road-rules-p1.txt,Part 3 Speed limits 8,"{""category"": ""Speed limits"", ""entities"": [""driver""], ""evidence"": ""20 Obeying speed limit""}",1.45,,1688,27,invalid,True,True,Speed limits,driver,20 Obeying speed limit,True,True,entity not named in the text: driver
+V3,doc1_s04,1,act-road-rules-p1.txt,Part 4 Making turns 12,"{""category"": ""Making turns"", ""entities"": [""driver""], ""evidence"": ""26 Application-div 4.1-roundabouts, road related areas and adjacent land""}",2.64,,1928,37,invalid,True,True,Making turns,driver,"26 Application-div 4.1-roundabouts, road related areas and adjacent land",True,True,entity not named in the text: driver
 V3,doc1_s05,1,act-road-rules-p1.txt,Part 5 Change of direction and stop signals 30,"{
-  ""category"": ""Making turns"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""Division 5.1 Change of direction signals 30""
-}",2.37,,342,41,invalid,True,True,Making turns,driver,Division 5.1 Change of direction signals 30,True,True,entity not named in the text: driver
+  ""category"": ""Giving way"",
+  ""entities"": [""driver""],
+  ""evidence"": ""Giving stop signal 35""
+}",2.07,,1825,31,invalid,True,True,Giving way,driver,Giving stop signal 35,True,True,entity not named in the text: driver
 V3,doc1_s06,1,act-road-rules-p1.txt,"Part 6 Traffic lights, traffic arrows and twin red lights 37","{
   ""category"": ""Traffic lights, traffic arrows and twin red lights"",
   ""entities"": [""driver""],
-  ""evidence"": ""Division 6.1 Obeying traffic lights and traffic arrows 37""
-}",2.84,,403,48,invalid,True,True,"Traffic lights, traffic arrows and twin red lights",driver,Division 6.1 Obeying traffic lights and traffic arrows 37,True,True,entity not named in the text: driver
-V3,doc1_s07,1,act-road-rules-p1.txt,Part 7 Giving way 49,"{
-  ""category"": ""Giving way"",
-  ""entities"": [""driver""],
-  ""evidence"": ""Division 7.1 Giving way at stop sign or stop line at intersection without traffic lights 49""
-}",3.1,,540,46,invalid,True,True,Giving way,driver,Division 7.1 Giving way at stop sign or stop line at intersection without traffic lights 49,False,False,evidence is not an exact quote
-V3,doc1_s08,1,act-road-rules-p1.txt,Part 8 Traffic signs and road markings 87,"{
-  ""category"": ""Traffic signs and road markings"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""Division 8.1 Traffic signs and road markings at intersections and other places 87""
-}",3.06,,453,50,invalid,True,True,Traffic signs and road markings,driver,Division 8.1 Traffic signs and road markings at intersections and other places 87,True,True,entity not named in the text: driver
-V3,doc1_s09,1,act-road-rules-p1.txt,Part 9 Roundabouts 99,"{
-  ""category"": ""Roundabouts"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""114 Giving way when entering or driving in roundabout 106""
-}",2.56,,351,45,invalid,True,True,Roundabouts,driver,114 Giving way when entering or driving in roundabout 106,True,True,entity not named in the text: driver
+  ""evidence"": ""Stopping for red traffic light or arrow""
+}",2.59,,1886,39,invalid,True,True,"Traffic lights, traffic arrows and twin red lights",driver,Stopping for red traffic light or arrow,True,True,entity not named in the text: driver
+V3,doc1_s07,1,act-road-rules-p1.txt,Part 7 Giving way 49,"{""category"": ""Giving way"", ""entities"": [""driver""], ""evidence"": ""Giving way at stop sign or stop line at intersection without traffic lights""}",2.72,,2023,33,invalid,True,True,Giving way,driver,Giving way at stop sign or stop line at intersection without traffic lights,False,True,evidence is not an exact quote
+V3,doc1_s08,1,act-road-rules-p1.txt,Part 8 Traffic signs and road markings 87,"{""category"": ""Traffic signs and road markings"", ""entities"": [""driver""], ""evidence"": ""Division 8.1 Traffic signs and road markings at intersections and other places 87""}",2.82,,1936,41,invalid,True,True,Traffic signs and road markings,driver,Division 8.1 Traffic signs and road markings at intersections and other places 87,True,True,entity not named in the text: driver
+V3,doc1_s09,1,act-road-rules-p1.txt,Part 9 Roundabouts 99,"{""category"": ""Giving way"", ""entities"": [""driver""], ""evidence"": ""Giving way when entering or driving in roundabout""}",2.0,,1834,29,invalid,True,True,Giving way,driver,Giving way when entering or driving in roundabout,True,True,entity not named in the text: driver
 V3,doc1_s10,1,act-road-rules-p1.txt,Part 10 Level crossings 110,"{
   ""category"": ""Giving way"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""121 Stopping and giving way at stop sign at level crossing""
-}",2.24,,225,43,invalid,True,True,Giving way,driver,121 Stopping and giving way at stop sign at level crossing,True,True,entity not named in the text: driver
+  ""entities"": [""driver""],
+  ""evidence"": ""Giving way at give way sign or give way line at level crossing 110""
+}",2.19,,1708,42,invalid,True,True,Giving way,driver,Giving way at give way sign or give way line at level crossing 110,False,False,evidence is not an exact quote
 V3,doc1_s11,1,act-road-rules-p1.txt,"Part 11 Keeping left, overtaking and other driving rules 112","{
-  ""category"": ""Giving way"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""139 Exceptions for avoiding obstruction on road""
-}",2.97,,615,38,ok,True,True,Giving way,driver,139 Exceptions for avoiding obstruction on road,True,True,
-V3,doc1_s12,1,act-road-rules-p1.txt,Part 12 Restrictions on stopping and parking 162,"{
-  ""category"": ""Giving way"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""Division 12.6 Other places where stopping is restricted 187 Stopping in bicycle lane, bus lane, tram lane, tramway, transit lane, truck lane or on tram tracks 178""
-}",4.55,,653,73,invalid,True,True,Giving way,driver,"Division 12.6 Other places where stopping is restricted 187 Stopping in bicycle lane, bus lane, tram lane, tramway, transit lane, truck lane or on tram tracks 178",False,False,evidence is not an exact quote
-V3,doc1_s13,1,act-road-rules-p1.txt,Part 13 Lights and warning devices 228,"{
-  ""category"": ""Traffic signs and road markings"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""Lights on vehicles (except bicycles, animals and animal-drawn vehicles)""
-}",2.94,,478,45,invalid,True,True,Traffic signs and road markings,driver,"Lights on vehicles (except bicycles, animals and animal-drawn vehicles)",True,True,entity not named in the text: driver
-V3,doc1_s14,1,act-road-rules-p1.txt,Part 14 Rules for pedestrians 239,"{
-  ""category"": ""Making turns"",
-  ""entities"": [
-    ""pedestrian""
-  ],
-  ""evidence"": ""236 Pedestrian not to cause traffic hazard or obstruction""
-}",3.22,,584,44,ok,True,True,Making turns,pedestrian,236 Pedestrian not to cause traffic hazard or obstruction,True,True,
-V3,doc1_s15,1,act-road-rules-p1.txt,Part 15 Additional rules for bicycle riders 264,"{
-""category"": ""other"",
-""entities"": [
-""driver""
-],
-""evidence"": ""260 Stopping for red bicycle crossing light""
-}",2.4,,446,33,invalid,True,True,other,driver,260 Stopping for red bicycle crossing light,True,True,entity not named in the text: driver
+""category"": ""Devices"",
+""entities"": [],
+""evidence"": ""a mobile device detection system approved under the Road Transport (Safety and Traffic Management) Regulation 2017""
+}",3.33,,2098,41,invalid,True,True,Devices,,a mobile device detection system approved under the Road Transport (Safety and Traffic Management) Regulation 2017,False,False,evidence is not an exact quote
+V3,doc1_s12,1,act-road-rules-p1.txt,Part 12 Restrictions on stopping and parking 162,"{""category"": ""Devices"", ""entities"": [""driver""], ""evidence"": ""a mobile device detection system approved under the Road Transport (Safety and Traffic Management) Regulation 2017""}",3.46,,2136,41,invalid,True,True,Devices,driver,a mobile device detection system approved under the Road Transport (Safety and Traffic Management) Regulation 2017,False,False,evidence is not an exact quote
+V3,doc1_s13,1,act-road-rules-p1.txt,Part 13 Lights and warning devices 228,"{""category"": ""Devices"", ""entities"": [""driver""], ""evidence"": ""Lights not to be used to dazzle other road user""}",2.66,,1961,30,invalid,True,True,Devices,driver,Lights not to be used to dazzle other road user,True,True,entity not named in the text: driver
+V3,doc1_s14,1,act-road-rules-p1.txt,Part 14 Rules for pedestrians 239,"{""category"": ""Devices"", ""entities"": [""pedestrian""], ""evidence"": ""238 Pedestrian travelling along road (except in or on wheeled recreational device, wheeled toy or personal mobility device)""}",3.64,,2067,48,ok,True,True,Devices,pedestrian,"238 Pedestrian travelling along road (except in or on wheeled recreational device, wheeled toy or personal mobility device)",True,True,
+V3,doc1_s15,1,act-road-rules-p1.txt,Part 15 Additional rules for bicycle riders 264,"{""category"": ""other"", ""entities"": [], ""evidence"": ""Part 15 Additional rules for bicycle riders""}",2.22,,1929,26,ok,True,True,other,,Part 15 Additional rules for bicycle riders,True,True,
 V3,doc1_s16,1,act-road-rules-p1.txt,Part 16 Rules for people travelling in or on vehicles 274,"{
-  ""category"": ""Making turns"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""268 How people must travel in or on motor vehicle 287""
-}",3.28,,620,45,ok,True,True,Making turns,driver,268 How people must travel in or on motor vehicle 287,True,True,
-V3,doc1_s17,1,act-road-rules-p1.txt,"Part 17 Additional rules for drivers of trams, tram recovery vehicles and public buses 295","{
-  ""category"": ""Traffic signs and road markings"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""274 Stopping for red T light""
-}",2.64,,446,41,invalid,True,True,Traffic signs and road markings,driver,274 Stopping for red T light,True,True,entity not named in the text: driver
+""category"": ""Devices"",
+""entities"": [""driver""],
+""evidence"": ""a mobile device detection system approved under the Road Transport (Safety and Traffic Management) Regulation 2017""
+}",3.43,,2103,43,invalid,True,True,Devices,driver,a mobile device detection system approved under the Road Transport (Safety and Traffic Management) Regulation 2017,False,False,evidence is not an exact quote
+V3,doc1_s17,1,act-road-rules-p1.txt,"Part 17 Additional rules for drivers of trams, tram recovery vehicles and public buses 295","{""category"": ""Traffic signs and road markings"", ""entities"": [""driver""], ""evidence"": ""Stopping for red T light""}",2.3,,1929,28,invalid,True,True,Traffic signs and road markings,driver,Stopping for red T light,True,True,entity not named in the text: driver
 V3,doc1_s18,1,act-road-rules-p1.txt,Part 18 Miscellaneous road rules 302,"{
-  ""category"": ""Giving way"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""Rider of animal on footpath or nature strip to give way to pedestrian""
-}",3.27,,643,44,ok,True,True,Giving way,driver,Rider of animal on footpath or nature strip to give way to pedestrian,True,True,
-V3,doc1_s19,1,act-road-rules-p1.txt,Part 19 Exemptions 328,"{
-  ""category"": ""Giving way"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""307 Stopping and parking exemption-police or emergency vehicle or authorised person 330""
-}",2.77,,340,49,ok,True,True,Giving way,driver,307 Stopping and parking exemption-police or emergency vehicle or authorised person 330,True,True,
-V3,doc1_s20,1,act-road-rules-p1.txt,Part 20 Traffic control devices and traffic-related items 339,"{
-  ""category"": ""Traffic signs and road markings"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""Division 20.2 Application of traffic control devices to lengths of roads and areas 349""
-}",3.4,,551,53,invalid,True,True,Traffic signs and road markings,driver,Division 20.2 Application of traffic control devices to lengths of roads and areas 349,True,True,entity not named in the text: driver
+""category"": ""other"",
+""entities"": [],
+""evidence"": ""Division 18.3 Obeying directions 326 304 Direction by police""
+}",3.59,,2126,40,invalid,True,True,other,,Division 18.3 Obeying directions 326 304 Direction by police,False,True,evidence is not an exact quote
+V3,doc1_s19,1,act-road-rules-p1.txt,Part 19 Exemptions 328,"{""category"": ""other"", ""entities"": [], ""evidence"": ""Part 19 Exemptions""}",1.78,,1823,24,ok,True,True,other,,Part 19 Exemptions,True,True,
+V3,doc1_s20,1,act-road-rules-p1.txt,Part 20 Traffic control devices and traffic-related items 339,"{""category"": ""Traffic signs and road markings"", ""entities"": [""driver""], ""evidence"": ""Division 20.2 Application of traffic control devices to lengths of roads and areas 349""}",3.19,,2034,44,invalid,True,True,Traffic signs and road markings,driver,Division 20.2 Application of traffic control devices to lengths of roads and areas 349,True,True,entity not named in the text: driver
 V3,doc1_s21,1,act-road-rules-p1.txt,Part 21 General 362,"{
-  ""category"": ""Making turns"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""352 Reference to stopping as near as practicable to place""
-}",2.6,,402,42,ok,True,True,Making turns,driver,352 Reference to stopping as near as practicable to place,True,True,
+  ""category"": ""other"",
+  ""entities"": [],
+  ""evidence"": ""Australian Capital Territory\nRoad Transport (Road Rules) Regulation 2017\nmade under the\nRoad Transport (Safety and Traffic Management) Act 1999""
+}",3.44,,1885,57,invalid,True,True,other,,"Australian Capital Territory
+Road Transport (Road Rules) Regulation 2017
+made under the
+Road Transport (Safety and Traffic Management) Act 1999",False,True,evidence is not an exact quote
 V3,doc1_s22,1,act-road-rules-p1.txt,Part 1 Preliminary,"{
-  ""category"": ""Making turns"",
+  ""category"": ""Parking"",
   ""entities"": [""driver""],
-  ""evidence"": ""Note 1 The dictionary at the end of this regulation defines certain terms used in this regulation, and includes references (signpost definitions) to other terms defined elsewhere in this regulation.""
-}",3.45,,456,60,invalid,True,True,Making turns,driver,"Note 1 The dictionary at the end of this regulation defines certain terms used in this regulation, and includes references (signpost definitions) to other terms defined elsewhere in this regulation.",True,True,entity not named in the text: driver
+  ""evidence"": ""A provision of part 12 (Restrictions on stopping and parking) does not apply to the driver of a police vehicle or emergency vehicle if, in the circumstances""
+}",3.82,,1939,58,invalid,True,True,Parking,driver,"A provision of part 12 (Restrictions on stopping and parking) does not apply to the driver of a police vehicle or emergency vehicle if, in the circumstances",False,False,evidence is not an exact quote
 V3,doc1_s23,1,act-road-rules-p1.txt,Part 2 Application of this regulation,"{
-  ""category"": ""Making turns"",
-  ""entities"": [""driver""],
-  ""evidence"": ""driver means the person who is driving a vehicle (except a motorbike, bicycle, animal or animal-drawn vehicle).""
-}",3.1,,480,49,ok,True,True,Making turns,driver,"driver means the person who is driving a vehicle (except a motorbike, bicycle, animal or animal-drawn vehicle).",True,True,
-V3,doc1_s24,1,act-road-rules-p1.txt,Part 3 Speed limits,"{
-  ""category"": ""Speed limits"",
-  ""entities"": [""driver""],
-  ""evidence"": ""A driver must not drive at a speed over the speed limit applying to the driver for the length of road where the driver is driving.""
-}",3.07,,488,51,ok,True,True,Speed limits,driver,A driver must not drive at a speed over the speed limit applying to the driver for the length of road where the driver is driving.,True,True,
-V3,doc1_s25,1,act-road-rules-p1.txt,Part 4 Making turns,"{
-  ""category"": ""Making turns"",
-  ""entities"": [""driver""],
-  ""evidence"": ""(1) A driver turning left at an intersection from a road (except a multi-lane road) must approach and enter the intersection from as near as practicable to the far left side of the road.""
-}",4.01,,472,65,ok,True,True,Making turns,driver,(1) A driver turning left at an intersection from a road (except a multi-lane road) must approach and enter the intersection from as near as practicable to the far left side of the road.,True,True,
-V3,doc1_s26,1,act-road-rules-p1.txt,Part 5 Change of direction and stop signals,"{
-  ""category"": ""Making turns"",
-  ""entities"": [""driver""],
-  ""evidence"": ""(1) A driver changes direction if the driver changes direction to the left or the driver changes direction to the right.""
-}",2.91,,491,47,ok,True,True,Making turns,driver,(1) A driver changes direction if the driver changes direction to the left or the driver changes direction to the right.,True,True,
+""category"": ""Devices"",
+""entities"": [""driver""],
+""evidence"": ""a motorised wheelchair that can travel at over 10km/h (on level ground)""
+}",2.87,,1963,39,ok,True,True,Devices,driver,a motorised wheelchair that can travel at over 10km/h (on level ground),True,True,
+V3,doc1_s24,1,act-road-rules-p1.txt,Part 3 Speed limits,"{""category"": ""Speed limits"", ""entities"": [""driver""], ""evidence"": ""The speed limit applying to a driver for a length of road to which a speed limit sign applies is the number of kilometres per hour indicated by the number on the sign.""}",3.47,,1971,54,ok,True,True,Speed limits,driver,The speed limit applying to a driver for a length of road to which a speed limit sign applies is the number of kilometres per hour indicated by the number on the sign.,True,True,
+V3,doc1_s25,1,act-road-rules-p1.txt,Part 4 Making turns,"{""category"": ""Making turns"", ""entities"": [""driver""], ""evidence"": ""A driver turning left at an intersection from a road (except a multi-lane road)""}",6.71,,1955,38,ok,True,True,Making turns,driver,A driver turning left at an intersection from a road (except a multi-lane road),True,True,
+V3,doc1_s26,1,act-road-rules-p1.txt,Part 5 Change of direction and stop signals,"{""category"": ""Giving way"", ""entities"": [""driver""], ""evidence"": ""A driver changes direction to the right by doing any of the following:""}",2.58,,1974,34,ok,True,True,Giving way,driver,A driver changes direction to the right by doing any of the following:,True,True,
 V3,doc1_s27,1,act-road-rules-p1.txt,"Part 6 Traffic lights, traffic arrows and twin red lights","{
   ""category"": ""Traffic lights, traffic arrows and twin red lights"",
   ""entities"": [""driver""],
-  ""evidence"": ""(1) A driver approaching or at traffic lights showing a red traffic light must stop-as near as practicable to, but before reaching, the stop line;""
-}",3.53,,479,62,invalid,True,True,"Traffic lights, traffic arrows and twin red lights",driver,"(1) A driver approaching or at traffic lights showing a red traffic light must stop-as near as practicable to, but before reaching, the stop line;",False,False,evidence is not an exact quote
-V3,doc1_s28,1,act-road-rules-p1.txt,Part 7 Giving way,"{
-  ""category"": ""Giving way"",
-  ""entities"": [""driver""], ""evidence"": ""(1) A driver at an intersection with a stop sign or stop line, but without traffic lights, must stop and give way in accordance with this section.""
-}",3.32,,486,55,invalid,True,True,Giving way,driver,"(1) A driver at an intersection with a stop sign or stop line, but without traffic lights, must stop and give way in accordance with this section.",False,True,evidence is not an exact quote
-V3,doc2_s00,2,act-road-rules-p2.txt,Part 8 Traffic signs and road markings,"{
-""category"": ""Traffic signs and road markings"",
-""entities"": [""driver""],
-""evidence"": ""If there is a left turn only sign at an intersection, a driver must turn left at the intersection.""
-}",2.85,,487,45,ok,True,True,Traffic signs and road markings,driver,"If there is a left turn only sign at an intersection, a driver must turn left at the intersection.",True,True,
-V3,doc2_s01,2,act-road-rules-p2.txt,Part 9 Roundabouts,"{
-  ""category"": ""Making turns"",
-  ""entities"": [""driver""],
-  ""evidence"": ""A driver entering a roundabout from a multi-lane road, or a road with room for 2 or more lines of traffic (other than motorbikes, bicycles, motorised wheelchairs or animals) travelling in the same direction as the driver, must enter the roundabout in accordance with this section.""
-}",4.67,,477,87,ok,True,True,Making turns,driver,"A driver entering a roundabout from a multi-lane road, or a road with room for 2 or more lines of traffic (other than motorbikes, bicycles, motorised wheelchairs or animals) travelling in the same direction as the driver, must enter the roundabout in accordance with this section.",True,True,
+  ""evidence"": ""A driver approaching or at traffic lights showing a red traffic light must stop""
+}",3.1,,1962,46,ok,True,True,"Traffic lights, traffic arrows and twin red lights",driver,A driver approaching or at traffic lights showing a red traffic light must stop,True,True,
+V3,doc1_s28,1,act-road-rules-p1.txt,Part 7 Giving way,"{""category"": ""Giving way"", ""entities"": [""driver""], ""evidence"": ""A driver at an intersection with a stop sign or stop line, but without traffic lights, must stop and give way in accordance with this section.""}",3.27,,1969,49,invalid,True,True,Giving way,driver,"A driver at an intersection with a stop sign or stop line, but without traffic lights, must stop and give way in accordance with this section.",False,True,evidence is not an exact quote
+V3,doc2_s00,2,act-road-rules-p2.txt,Part 8 Traffic signs and road markings,"{""category"": ""Traffic signs and road markings"", ""entities"": [""driver""], ""evidence"": ""If there is a no turns sign at an intersection, a driver must not turn left or right, or make a U-turn, at the intersection.""}",3.45,,1970,53,ok,True,True,Traffic signs and road markings,driver,"If there is a no turns sign at an intersection, a driver must not turn left or right, or make a U-turn, at the intersection.",True,True,
+V3,doc2_s01,2,act-road-rules-p2.txt,Part 9 Roundabouts,"{""category"": ""Roundabouts"", ""entities"": [""driver""], ""evidence"": ""A driver entering a roundabout from a multi-lane road, or a road with room for 2 or more lines of traffic (other than motorbikes, bicycles, motorised wheelchairs or animals) travelling in the same direction as the driver, must enter the roundabout in accordance with this section.""}",4.71,,1960,83,ok,True,True,Roundabouts,driver,"A driver entering a roundabout from a multi-lane road, or a road with room for 2 or more lines of traffic (other than motorbikes, bicycles, motorised wheelchairs or animals) travelling in the same direction as the driver, must enter the roundabout in accordance with this section.",True,True,
 V3,doc2_s02,2,act-road-rules-p2.txt,Part 10 Level crossings,"{
   ""category"": ""Giving way"",
   ""entities"": [""driver""],
-  ""evidence"": ""A driver at a level crossing with a stop sign must: (a) stop as near as practicable to, but before reaching, the stop line or, if there is no stop line, as near as practicable to, but before reaching, the stop sign;""
-}",4.21,,482,78,invalid,True,True,Giving way,driver,"A driver at a level crossing with a stop sign must: (a) stop as near as practicable to, but before reaching, the stop line or, if there is no stop line, as near as practicable to, but before reaching, the stop sign;",False,False,evidence is not an exact quote
-V3,doc2_s03,2,act-road-rules-p2.txt,"Part 11 Keeping left, overtaking and other driving rules","{
-  ""category"": ""Making turns"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""(1) A driver must not unreasonably obstruct the path of another driver or a pedestrian.""
-}",2.95,,479,47,ok,True,True,Making turns,driver,(1) A driver must not unreasonably obstruct the path of another driver or a pedestrian.,True,True,
-V3,doc2_s04,2,act-road-rules-p2.txt,Part 12 Restrictions on stopping and parking,"{
-  ""category"": ""Giving way"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""If a driver stops at an intersection at a stop line, stop sign, or tra""
-}",2.91,,458,46,ok,True,True,Giving way,driver,"If a driver stops at an intersection at a stop line, stop sign, or tra",True,True,
+  ""evidence"": ""A driver at a level crossing with a stop sign must""
+}",2.71,,1965,36,ok,True,True,Giving way,driver,A driver at a level crossing with a stop sign must,True,True,
+V3,doc2_s03,2,act-road-rules-p2.txt,"Part 11 Keeping left, overtaking and other driving rules","{""category"": ""Devices"", ""entities"": [""driver""], ""evidence"": ""a mobile device detection system approved under the Road Transport (Safety and Traffic Management) Regulation 2017""}",2.92,,1962,41,invalid,True,True,Devices,driver,a mobile device detection system approved under the Road Transport (Safety and Traffic Management) Regulation 2017,False,False,evidence is not an exact quote
+V3,doc2_s04,2,act-road-rules-p2.txt,Part 12 Restrictions on stopping and parking,"{""category"": ""Devices"", ""entities"": [""driver""], ""evidence"": ""a mobile device detection system approved under the Road Transport (Safety and Traffic Management) Regulation 2017""}",2.93,,1941,41,invalid,True,True,Devices,driver,a mobile device detection system approved under the Road Transport (Safety and Traffic Management) Regulation 2017,False,False,evidence is not an exact quote
 V3,doc2_s05,2,act-road-rules-p2.txt,Part 13 Lights and warning devices,"{
   ""category"": ""Traffic signs and road markings"",
   ""entities"": [""driver""],
-  ""evidence"": ""(1) A driver must not drive at night, or in hazardous weather conditions causing reduced visibility, unless...""
-}",3.0,,448,48,invalid,True,True,Traffic signs and road markings,driver,"(1) A driver must not drive at night, or in hazardous weather conditions causing reduced visibility, unless...",False,False,evidence is not an exact quote
+  ""evidence"": ""a reference to a kind of light fitted to a vehicle is a reference to a light of that kind required to be fitted to the vehicle""
+}",3.53,,1931,55,ok,True,True,Traffic signs and road markings,driver,a reference to a kind of light fitted to a vehicle is a reference to a light of that kind required to be fitted to the vehicle,True,True,
 V3,doc2_s06,2,act-road-rules-p2.txt,Part 14 Rules for pedestrians,"{
-  ""category"": ""Making turns"",
-  ""entities"": [
-    ""pedestrian""
-  ],
-  ""evidence"": ""A pedestrian must not be on a length of road to which a road access sign applies if information on or with the sign indicates that pedestrians are not permitted beyond the sign.""
-}",3.68,,458,64,ok,True,True,Making turns,pedestrian,A pedestrian must not be on a length of road to which a road access sign applies if information on or with the sign indicates that pedestrians are not permitted beyond the sign.,True,True,
-V3,doc3_s00,3,act-road-rules-p3.txt,Part 15 Additional rules for bicycle riders,"{
-  ""category"": ""other"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""A single-seat bicycle with a child's seat attached is designed to carry 2 people, 1 on the bicycle seat and 1 on the attached child's seat.""
-}",3.62,,488,61,invalid,True,True,other,driver,"A single-seat bicycle with a child's seat attached is designed to carry 2 people, 1 on the bicycle seat and 1 on the attached child's seat.",True,True,entity not named in the text: driver
-V3,doc3_s01,3,act-road-rules-p3.txt,Part 16 Rules for people travelling in or on vehicles,"{
-  ""category"": ""Making turns"",
-  ""entities"": [""driver""],
-  ""evidence"": ""(2) Subsection (1) (c) does not apply if the driver is... reversing the vehicle;""
-}",2.95,,499,46,invalid,True,True,Making turns,driver,(2) Subsection (1) (c) does not apply if the driver is... reversing the vehicle;,False,False,evidence is not an exact quote
-V3,doc3_s02,3,act-road-rules-p3.txt,"Part 17 Additional rules for drivers of trams, tram recovery vehicles and public buses","{
-  ""category"": ""Making turns"",
-  ""entities"": [""driver""],
-  ""evidence"": ""The driver of a tram approaching or at T lights showing a red T light must stop""
-}",2.72,,486,42,ok,True,True,Making turns,driver,The driver of a tram approaching or at T lights showing a red T light must stop,True,True,
-V3,doc3_s03,3,act-road-rules-p3.txt,Part 18 Miscellaneous road rules,"{
-  ""category"": ""Making turns"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""(1) A driver involved in a crash must comply with this section.""
-}",2.71,,470,42,ok,True,True,Making turns,driver,(1) A driver involved in a crash must comply with this section.,True,True,
-V3,doc3_s04,3,act-road-rules-p3.txt,Part 19 Exemptions,"{
   ""category"": ""Giving way"",
+  ""entities"": [""pedestrian""],
+  ""evidence"": ""A pedestrian must not be on a length of road to which a road access sign applies if information on or with the sign indicates that pedestrians are not permitted beyond the sign.""
+}",3.75,,1941,60,ok,True,True,Giving way,pedestrian,A pedestrian must not be on a length of road to which a road access sign applies if information on or with the sign indicates that pedestrians are not permitted beyond the sign.,True,True,
+V3,doc3_s00,3,act-road-rules-p3.txt,Part 15 Additional rules for bicycle riders,"{""category"": ""other"", ""entities"": [], ""evidence"": ""Part 15 Additional rules for bicycle riders""}",2.77,,1971,26,ok,True,True,other,,Part 15 Additional rules for bicycle riders,True,True,
+V3,doc3_s01,3,act-road-rules-p3.txt,Part 16 Rules for people travelling in or on vehicles,"{""category"": ""Devices"", ""entities"": [""driver""], ""evidence"": ""a mobile device detection system approved under the Road Transport (Safety and Traffic Management) Regulation 2017""}",2.94,,1982,41,invalid,True,True,Devices,driver,a mobile device detection system approved under the Road Transport (Safety and Traffic Management) Regulation 2017,False,False,evidence is not an exact quote
+V3,doc3_s02,3,act-road-rules-p3.txt,"Part 17 Additional rules for drivers of trams, tram recovery vehicles and public buses","{""category"": ""Giving way"", ""entities"": [""driver""], ""evidence"": ""The driver of a tram approaching or at T lights showing a yellow T light must stop""}",2.82,,1969,37,ok,True,True,Giving way,driver,The driver of a tram approaching or at T lights showing a yellow T light must stop,True,True,
+V3,doc3_s03,3,act-road-rules-p3.txt,Part 18 Miscellaneous road rules,"{""category"": ""other"", ""entities"": [], ""evidence"": ""crash reporting website means the crash reporting website operated by the Territory for the purpose of receiving information about crashes.""}",2.83,,1953,39,ok,True,True,other,,crash reporting website means the crash reporting website operated by the Territory for the purpose of receiving information about crashes.,True,True,
+V3,doc3_s04,3,act-road-rules-p3.txt,Part 19 Exemptions,"{
+  ""category"": ""Devices"",
   ""entities"": [""driver""],
-  ""evidence"": ""An exemption provision does not apply to the driver of a police vehicle if... the driver is taking reasonable care; and it is reasonable that the provision should not apply having regard to the road and traffic conditions at the time;""
-}",3.85,,492,68,invalid,True,True,Giving way,driver,An exemption provision does not apply to the driver of a police vehicle if... the driver is taking reasonable care; and it is reasonable that the provision should not apply having regard to the road and traffic conditions at the time;,False,False,evidence is not an exact quote
-V3,doc3_s05,3,act-road-rules-p3.txt,Part 20 Traffic control devices and traffic-related items,"{
-  ""category"": ""Traffic signs and road markings"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""A traffic control device of a kind mentioned in this regulation has effect for this regulation if- (a) the device is on a road;""
-}",3.45,,461,59,invalid,True,True,Traffic signs and road markings,driver,A traffic control device of a kind mentioned in this regulation has effect for this regulation if- (a) the device is on a road;,False,True,evidence is not an exact quote
-V3,doc3_s06,3,act-road-rules-p3.txt,Part 21 General,"{
-  ""category"": ""Making turns"",
-  ""entities"": [""driver""],
-  ""evidence"": ""A reference in this regulation to a driver turning left at an intersection is a reference to the driver causing the driver's vehicle to turn left at the intersection.""
-}",3.3,,459,55,invalid,True,True,Making turns,driver,A reference in this regulation to a driver turning left at an intersection is a reference to the driver causing the driver's vehicle to turn left at the intersection.,False,False,evidence is not an exact quote
+  ""evidence"": ""a blue or red flashing light or sounding an alarm.""
+}",2.68,,1975,34,ok,True,True,Devices,driver,a blue or red flashing light or sounding an alarm.,True,True,
+V3,doc3_s05,3,act-road-rules-p3.txt,Part 20 Traffic control devices and traffic-related items,"{""category"": ""Traffic signs and road markings"", ""entities"": [""driver""], ""evidence"": ""A traffic control device of a kind mentioned in this regulation has effect for this regulation if""}",2.84,,1944,40,invalid,True,True,Traffic signs and road markings,driver,A traffic control device of a kind mentioned in this regulation has effect for this regulation if,True,True,entity not named in the text: driver
+V3,doc3_s06,3,act-road-rules-p3.txt,Part 21 General,"{""category"": ""Devices"", ""entities"": [""driver""], ""evidence"": ""a mobile device detection system approved under the Road Transport (Safety and Traffic Management) Regulation 2017""}",2.91,,1942,41,invalid,True,True,Devices,driver,a mobile device detection system approved under the Road Transport (Safety and Traffic Management) Regulation 2017,False,False,evidence is not an exact quote
 V3,doc3_s07,3,act-road-rules-p3.txt,Part 4,"{
   ""category"": ""Making turns"",
   ""entities"": [""driver""],
-  ""evidence"": ""Section 29 of Part 4, Making turns, Division 4.1, Left turns, states: 'A driver must make a left turn at a point where it is safe to do so.'""
-}",3.04,,152,67,invalid,True,True,Making turns,driver,"Section 29 of Part 4, Making turns, Division 4.1, Left turns, states: 'A driver must make a left turn at a point where it is safe to do so.'",False,False,evidence is not an exact quote
-V3,doc3_s08,3,act-road-rules-p3.txt,Part 4,"{
-  ""category"": ""Making turns"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""Division 4.1 of Part 4 of the Road Transport (Road Rules) Regulation 2017 deals with left turns.""
-}",2.89,,313,56,invalid,True,True,Making turns,driver,Division 4.1 of Part 4 of the Road Transport (Road Rules) Regulation 2017 deals with left turns.,False,False,evidence is not an exact quote
-V3,doc3_s09,3,act-road-rules-p3.txt,Part 7,"{
-  ""category"": ""Giving way"",
-  ""entities"": [""driver""],
-  ""evidence"": ""Division 7.2 Giving way at intersection without traffic lights or stop sign, stop line, give way sign or give way line applying to driver""
-}",2.47,,175,54,invalid,True,True,Giving way,driver,"Division 7.2 Giving way at intersection without traffic lights or stop sign, stop line, give way sign or give way line applying to driver",False,True,evidence is not an exact quote
+  ""evidence"": ""Making turns""
+}",1.29,,1635,27,invalid,True,True,Making turns,driver,Making turns,True,True,entity not named in the text: driver
+V3,doc3_s08,3,act-road-rules-p3.txt,Part 4,"{""category"": ""Making turns"", ""entities"": [""driver""], ""evidence"": ""Left turns""}",1.57,,1796,22,invalid,True,True,Making turns,driver,Left turns,True,True,entity not named in the text: driver
+V3,doc3_s09,3,act-road-rules-p3.txt,Part 7,"{""category"": ""Giving way"", ""entities"": [""driver""], ""evidence"": ""Giving way""}",1.17,,1658,22,ok,True,True,Giving way,driver,Giving way,True,True,
 V3,doc3_s10,3,act-road-rules-p3.txt,Part 7,"{
   ""category"": ""Giving way"",
-  ""entities"": [
-    ""driver""
-  ],
-  ""evidence"": ""Part 7, Giving way at intersection without traffic lights or stop sign, stop line, give way sign or give way line applying to driver""
-}",3.07,,325,57,invalid,True,True,Giving way,driver,"Part 7, Giving way at intersection without traffic lights or stop sign, stop line, give way sign or give way line applying to driver",False,False,evidence is not an exact quote
+  ""entities"": [""driver""],
+  ""evidence"": ""give way sign or give way line applying to driver""
+}",2.23,,1808,35,ok,True,True,Giving way,driver,give way sign or give way line applying to driver,True,True,
 V3,doc3_s11,3,act-road-rules-p3.txt,Part 14,"{
   ""category"": ""Parking"",
-  ""entities"": [
-    ""pedestrian""
-  ],
-  ""evidence"": ""Section 239 Rules for pedestrians""
-}",1.88,,156,39,invalid,True,True,Parking,pedestrian,Section 239 Rules for pedestrians,False,True,evidence is not an exact quote
-V3,doc3_s12,3,act-road-rules-p3.txt,Part 14,"{
-  ""category"": ""Speed limits"",
-  ""entities"": [""driver""],
-  ""evidence"": ""Speed limits apply to all vehicles on the road.""
-}",1.92,,304,34,invalid,True,True,Speed limits,driver,Speed limits apply to all vehicles on the road.,False,False,evidence is not an exact quote
+  ""entities"": [""pedestrian""],
+  ""evidence"": ""Section 239""
+}",1.62,,1639,32,invalid,True,True,Parking,pedestrian,Section 239,True,True,entity not named in the text: pedestrian
+V3,doc3_s12,3,act-road-rules-p3.txt,Part 14,"{""category"": ""other"", ""entities"": [], ""evidence"": ""R17\n03/11/25\nRoad Transport (Road Rules) Regulation 2017\nEffective:  03/11/25\npage 11""}",3.2,,1787,60,ok,True,True,other,,"R17
+03/11/25
+Road Transport (Road Rules) Regulation 2017
+Effective:  03/11/25
+page 11",True,True,
 V3,doc3_s13,3,act-road-rules-p3.txt,Part 14,"{
-  ""category"": ""Parking"",
+  ""category"": ""other"",
   ""entities"": [],
-  ""evidence"": ""Section 243 Rules for pedestrians""
-}",1.62,,171,31,invalid,True,True,Parking,,Section 243 Rules for pedestrians,False,True,evidence is not an exact quote
+  ""evidence"": ""Rules for pedestrians""
+}",1.3,,1654,25,ok,True,True,other,,Rules for pedestrians,True,True,
 V3,doc3_s14,3,act-road-rules-p3.txt,Part 14,"{
   ""category"": ""other"",
-  ""entities"": [
-    ""pedestrian""
-  ],
-  ""evidence"": ""Part 14 Additional rules for people travelling in or on wheeled recreational devices and wheeled toys""
-}",2.87,,319,50,invalid,True,True,other,pedestrian,Part 14 Additional rules for people travelling in or on wheeled recreational devices and wheeled toys,False,True,evidence is not an exact quote
-V3,doc3_s15,3,act-road-rules-p3.txt,Part 16,"{
-  ""category"": ""Giving way"",
-  ""entities"": [""driver""],
-  ""evidence"": ""A driver must give way to a pedestrian who is crossing a pedestrian crossing.""
-}",1.93,,174,39,invalid,True,True,Giving way,driver,A driver must give way to a pedestrian who is crossing a pedestrian crossing.,False,False,evidence is not an exact quote
+  ""entities"": [],
+  ""evidence"": ""Road Transport (Road Rules) Regulation 2017""
+}",2.25,,1802,34,ok,True,True,other,,Road Transport (Road Rules) Regulation 2017,True,True,
+V3,doc3_s15,3,act-road-rules-p3.txt,Part 16,"{""category"": ""other"", ""entities"": [], ""evidence"": ""Rules for people travelling in or on vehicles""}",1.34,,1657,25,ok,True,True,other,,Rules for people travelling in or on vehicles,True,True,
 V3,doc3_s16,3,act-road-rules-p3.txt,Part 16,"{
-  ""category"": ""Giving way"",
-  ""entities"": [""driver""],
-  ""evidence"": ""A driver must give way to a pedestrian who is crossing a pedestrian crossing or a zebra crossing.""
-}",2.44,,312,44,invalid,True,True,Giving way,driver,A driver must give way to a pedestrian who is crossing a pedestrian crossing or a zebra crossing.,False,False,evidence is not an exact quote
+""category"": ""other"",
+""entities"": [],
+""evidence"": ""Road Transport (Road Rules) Regulation 2017""
+}",2.0,,1795,31,ok,True,True,other,,Road Transport (Road Rules) Regulation 2017,True,True,
 V3,doc3_s17,3,act-road-rules-p3.txt,Part 17,"{
   ""category"": ""other"",
-  ""entities"": [""driver""],
+  ""entities"": [],
   ""evidence"": ""Additional rules for drivers of trams, tram recovery vehicles and public buses""
-}",1.87,,179,38,invalid,True,True,other,driver,"Additional rules for drivers of trams, tram recovery vehicles and public buses",True,True,entity not named in the text: driver
+}",1.84,,1662,36,ok,True,True,other,,"Additional rules for drivers of trams, tram recovery vehicles and public buses",True,True,
 V3,doc3_s18,3,act-road-rules-p3.txt,Part 17,"{
-  ""category"": ""Traffic signs and road markings"",
-  ""entities"": [
-    ""driver""
-  ],
+  ""category"": ""other"",
+  ""entities"": [],
   ""evidence"": ""Road Transport (Road Rules) Regulation 2017""
-}",2.45,,305,44,invalid,True,True,Traffic signs and road markings,driver,Road Transport (Road Rules) Regulation 2017,True,True,entity not named in the text: driver
-V3,doc3_s19,3,act-road-rules-p3.txt,Part 21,"{
-  ""category"": ""Speed limits"",
-  ""entities"": [""driver""],
-  ""evidence"": ""Part 21 General Section 352 General""
-}",1.62,,143,36,invalid,True,True,Speed limits,driver,Part 21 General Section 352 General,False,True,evidence is not an exact quote
-V3,doc3_s20,3,act-road-rules-p3.txt,Part 21,"{
-""category"": ""Speed limits"",
-""entities"": [
-""driver""
-],
-""evidence"": ""Speed limits are set to ensure the safety of all road users and to maintain traffic flow.""
-}",3.13,,669,41,invalid,True,True,Speed limits,driver,Speed limits are set to ensure the safety of all road users and to maintain traffic flow.,False,False,evidence is not an exact quote
+}",2.11,,1788,34,ok,True,True,other,,Road Transport (Road Rules) Regulation 2017,True,True,
+V3,doc3_s19,3,act-road-rules-p3.txt,Part 21,"{""category"": ""other"", ""entities"": [], ""evidence"": ""General""}",0.88,,1626,18,ok,True,True,other,,General,True,True,
+V3,doc3_s20,3,act-road-rules-p3.txt,Part 21,"{""category"": ""other"", ""entities"": [], ""evidence"": ""Road Transport (Road Rules) Regulation 2017""}",2.93,,2152,29,ok,True,True,other,,Road Transport (Road Rules) Regulation 2017,True,True,
