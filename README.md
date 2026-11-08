@@ -20,7 +20,7 @@ Rules 2017).
 All commands to be executed from part_a folder
 
 - install required packages: pip install -r requirements.txt
-(requirements_docker.txt is only for docker environment, which requires less packakges)
+(requirements_docker.txt is only for docker environment, which requires less packages)
 - run train.py locally: python src/train.py
 - run predict.py locally: python src/predict.py
 

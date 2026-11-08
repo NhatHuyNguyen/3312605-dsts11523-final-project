@@ -14,12 +14,11 @@ Dockerfile and .dockerignore: Docker build files
 
 All commands to be executed from part_b folder
 
-Command to install required packages: pip install -r requirements.txt
-Command to run the QA app: python -m streamlit run src/app.py
+- Install required packages: pip install -r requirements.txt
+- Run the QA app natively: python -m streamlit run src/app.py
 
 Command to build part_a docker image, using the supplied Dockerfile:
-
 - docker build -t part_b .
 
-Commands to run the QA app with port 8501 exposed:
+Commands to run the QA app in Docker with port 8501 exposed:
 - docker run -p 8501:8501 part_b

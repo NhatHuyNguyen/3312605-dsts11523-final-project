@@ -12,13 +12,12 @@ Dockerfile and .dockerignore: Docker build files
 
 All commands to be executed from part_a folder
 
-Command to install required packages: pip install -r requirements.txt
+- Install required packages: pip install -r requirements.txt
 (requirements_docker.txt is only for docker environment, which requires less packakges)
-Command to run train.py: python src/train.py
-Command to run predict.py: python src/predict.py
+- Run train.py: python src/train.py
+- Run predict.py: python src/predict.py
 
 Command to build part_a docker image, using the supplied Dockerfile:
-
 - docker build -t part_a .
 
 Commands to run docker, train and test pipelines: Both use bind mounts with the host's folders 
