@@ -1,7 +1,6 @@
-chroma_act_rules
+
 *.docx
-index
-outputs
+
 __pycache__
 *.ipynb
 .env
