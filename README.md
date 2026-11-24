@@ -19,19 +19,19 @@ Rules 2017).
 
 All commands to be executed from part_a folder
 
-- install required packages: pip install -r requirements.txt
+- install required packages: `pip install -r requirements.txt`
 (requirements_docker.txt is only for docker environment, which requires less packages)
-- run train.py locally: python src/train.py
-- run predict.py locally: python src/predict.py
+- run train.py locally: `python src/train.py`
+- run predict.py locally: `python src/predict.py`
 
 Build part_a docker image, using the supplied Dockerfile:
 
 - docker build -t part_a .
 
 Run docker, train and test pipelines: Both use bind mounts with the host's folders 
-- docker run --rm -v "./data/raw:/app/data/raw:ro" -v "./outputs:/app/outputs:rw" -v "./models:/app/models:rw" part_a python src/train.py
+- `docker run --rm -v "./data/raw:/app/data/raw:ro" -v "./outputs:/app/outputs:rw" -v "./models:/app/models:rw" part_a python src/train.py`
 
-- docker run --rm -v "./data/allocated:/app/data/allocated:ro" -v "./outputs:/app/outputs:rw" -v "./models:/app/models:ro" part_a python src/predict.py
+- `docker run --rm -v "./data/allocated:/app/data/allocated:ro" -v "./outputs:/app/outputs:rw" -v "./models:/app/models:ro" part_a python src/predict.py`
 
 
 ## Part B
@@ -49,11 +49,11 @@ Run docker, train and test pipelines: Both use bind mounts with the host's folde
 
 All commands to be executed from part_b folder
 
-- install required packages: pip install -r requirements.txt
-- run the QA app locally: python -m streamlit run src/app.py
+- install required packages: `pip install -r requirements.txt`
+- run the QA app locally: `python -m streamlit run src/app.py`
 
 Build part_a docker image, using the supplied Dockerfile:
-- docker build -t part_b .
+- `docker build -t part_b .`
 
 Run the QA app with port 8501 exposed:
-- docker run -p 8501:8501 --env-file .env part_b
+- `docker run -p 8501:8501 --env-file .env part_b`
