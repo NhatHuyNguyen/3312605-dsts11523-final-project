@@ -3,7 +3,9 @@ Python version used: 3.11.17
 
 Overview: Part A contains notebook code for ML part of the project, which predicts
 rating on a given dataset. Part B build a RAG system on a chosen document (ACT Road 
-Rules 2017).
+Rules 2017). The document is taken from the ACT government website in DOCX format 
+(see SOURCES.md in Part B). They are converted to txt with [online tool](https://www.freeconvert.com/word-to-txt) and split to
+3 documents (7 parts each).
 
 
 ## Part A
